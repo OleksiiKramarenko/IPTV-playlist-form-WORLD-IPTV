@@ -25,6 +25,32 @@ DAYS_BACK      = 3       # брать посты не старше N дней
 CHECK_WORKERS  = 50      # параллельных проверок
 CHECK_TIMEOUT  = 5       # секунд на одну проверку
 FAIL_LIMIT     = 2       # удалять после N провалов подряд
+
+# Группы каналов которые нужно исключить (регистр не важен)
+EXCLUDE_GROUPS = {
+    "новостные", "региональные", "телемагазины",
+    "европа | europe", "австралия | australia", "арабские | عربي",
+    "армения | հայկական", "азербайджан | azərbaycan",
+    "беларусь | беларускія", "болгария | bulgaria",
+    "великобритания | united kingdom", "германия | germany",
+    "бразилия | brasil", "грузия | ქართული", "дания | denmark",
+    "египет | egypt", "израиль | ישראלי", "индия | india",
+    "испания | spain", "италия | italy", "казахстан | қазақстан",
+    "канада | canada", "латвия | latvia", "литва | lithuania",
+    "молдавия | moldovenească", "нидерланды | netherlands",
+    "норвегия | norway", "оаэ | uae", "польша | poland",
+    "португалия | portugal", "румыния | romania", "словакия | slovakia",
+    "сша | usa", "таджикистан | точик", "турция | türk",
+    "узбекистан | o'zbek", "украина | українські", "финляндия | finland",
+    "франция | france", "хорватия | croatia", "чехия | czech republic",
+    "швеция | sweden", "эстония | estonia", "южная корея | korea",
+    "российские", "новости", "беларусь", "оплот", "узбекские",
+    "казахстанские", "турецкие", "татарстан", "arabic", "удалить",
+    "европа", "-", "сириус", "turon media", "евразия-стар",
+    "цитадель-крым (vpn)", "agronet (vpn)", "квант-телеком (vpn 🇷🇺)",
+    "webhost (vpn 🇷🇺)", "cloudflare inc (vpn 🇷🇺)",
+    "catcast tv 🐈 not 24/7",
+}
 # ─────────────────────────────────────────────────────────────────────────────
 
 HEADERS = {
@@ -57,14 +83,24 @@ def parse_m3u(content: str) -> list[dict]:
             if j < len(lines):
                 url = lines[j].strip()
                 if url and not url.startswith("#"):
-                    channels.append({
-                        "meta": meta,
-                        "url":  url,
-                        "name": extract_name(meta),
-                    })
+                    if not is_excluded(meta):
+                        channels.append({
+                            "meta": meta,
+                            "url":  url,
+                            "name": extract_name(meta),
+                        })
                 i = j
         i += 1
     return channels
+
+
+def is_excluded(meta: str) -> bool:
+    """Вернуть True если group-title канала в списке исключений"""
+    m = re.search(r'group-title="([^"]*)"', meta, re.IGNORECASE)
+    if m:
+        group = m.group(1).strip().lower()
+        return group in EXCLUDE_GROUPS
+    return False
 
 
 def extract_name(meta: str) -> str:
