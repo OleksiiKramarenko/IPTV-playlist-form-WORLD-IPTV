@@ -15615,3 +15615,7 @@ http://srvru.play-x.ru:7799/channel/da26931/index.m3u8?q=93a836d6d8decd0d4c334df
 http://srvru.play-x.ru:7799/channel/n5a450903/index.m3u8?q=93a836d6d8decd0d4c334df086e02228
 #EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",Телеграм http://tinyurl.com/IPZATAK
 http://tinyurl.com/TvZaTak34/7e0b703c7f/e50ad4a3fe/video.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Спортивные",ZIGGO SPORT 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+#EXTINF:-1 group-title="Разное",Channel 40
+http://185.57.68.33/40/mpegts
