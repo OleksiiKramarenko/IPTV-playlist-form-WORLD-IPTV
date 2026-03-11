@@ -19601,3 +19601,649 @@ http://a0925677.xsph.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8?|User-Agent=http-u
 http://a0925677.xsph.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭" tvg-logo="https://i.imgur.com/Osw5yRW.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал UHD
+http://rebrand.ly/TvZavTak?stream=19241/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ UHD
+http://rebrand.ly/TvZavTak?stream=19405/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН UHD
+http://rebrand.ly/TvZavTak?stream=19404/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 UHD
+http://rebrand.ly/TvZavTak?stream=19242/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ UHD
+http://rebrand.ly/TvZavTak?stream=19238/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="5692" tvg-logo="http://epg.one/img/5692.png" tvg-rec="0",ТНТ International HD
+http://rebrand.ly/TvZavTak?stream=15230/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15331/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15426/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15457/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="11462" tvg-logo="http://epg.one/img/11462.png" tvg-rec="0",Trece HD ES
+http://rebrand.ly/TvZavTak?stream=31885/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="http://epg.one/img/649.png" tvg-rec="0",ТВЦ +0 (Ставрополь)
+http://rebrand.ly/TvZavTak?stream=31892/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="9302" tvg-logo="http://epg.one/img/9302.png" tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR
+http://rebrand.ly/TvZavTak?stream=31547/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="9304" tvg-logo="http://epg.one/img/9304.png" tvg-rec="0",BCU Premium Premiere+ 4K HDR
+http://rebrand.ly/TvZavTak?stream=31549/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="17022" tvg-logo="http://epg.one/img/17022.png" tvg-rec="0",Мосфильм. Золотая коллекция +4 HD
+http://rebrand.ly/TvZavTak?stream=17022/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="7280" tvg-logo="http://epg.one/img/7280.png" tvg-rec="0",TVR
+http://rebrand.ly/TvZavTak?stream=14022/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6019" tvg-logo="http://epg.one/img/6019.png" tvg-rec="7",Любимое HD orig
+http://rebrand.ly/TvZavTak?stream=915/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HDR
+http://rebrand.ly/TvZavTak?stream=11029/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11311" tvg-logo="http://epg.one/img/11311.png" tvg-rec="7",StrahTV Sky2000 HD
+http://rebrand.ly/TvZavTak?stream=11054/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+http://rebrand.ly/TvZavTak?stream=18126/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Триколор Мир без границ
+http://rebrand.ly/TvZavTak?stream=18130/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="0",Триколор Некрасивая подружка
+http://rebrand.ly/TvZavTak?stream=18131/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три богатыря
+http://rebrand.ly/TvZavTak?stream=18132/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Триколор Сибирские деревянные дома
+http://rebrand.ly/TvZavTak?stream=18133/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Триколор Знание
+http://rebrand.ly/TvZavTak?stream=18134/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="7903" tvg-logo="http://epg.one/img/7903.png" tvg-rec="0",Кион Хит HD
+http://rebrand.ly/TvZavTak?stream=20211/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="88023" tvg-logo="http://epg.one/img/88023.png" tvg-rec="0",StrahTV Однажды в милиции
+http://rebrand.ly/TvZavTak?stream=31715/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="5698" tvg-logo="http://epg.one/img/5698.png" tvg-rec="0",Atreseries HD ES
+http://rebrand.ly/TvZavTak?stream=31882/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11340" tvg-logo="http://epg.one/img/11340.png" tvg-rec="0",TCM HD ES
+http://rebrand.ly/TvZavTak?stream=31883/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11341" tvg-logo="http://epg.one/img/11341.png" tvg-rec="0",КиноСезон HD
+http://rebrand.ly/TvZavTak?stream=31889/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11342" tvg-logo="http://epg.one/img/11342.png" tvg-rec="0",Suspenso HD ES
+http://rebrand.ly/TvZavTak?stream=31906/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11507" tvg-logo="http://epg.one/img/11507.png" tvg-rec="0",4K Русское кино HD
+http://rebrand.ly/TvZavTak?stream=31925/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11344" tvg-logo="http://epg.one/img/11344.png" tvg-rec="0",Госфильмофонд. Машина времени HD
+http://rebrand.ly/TvZavTak?stream=31929/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11345" tvg-logo="http://epg.one/img/11345.png" tvg-rec="0",VHS-ка Сериал HD
+http://rebrand.ly/TvZavTak?stream=31931/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Кино" tvg-id="11600" tvg-logo="http://epg.one/img/11600.png" tvg-rec="0",Venera.TV Советская классика 4K
+http://rebrand.ly/TvZavTak?stream=30151/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
+http://rebrand.ly/TvZavTak?stream=19430/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
+http://rebrand.ly/TvZavTak?stream=19432/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
+http://rebrand.ly/TvZavTak?stream=19431/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="9246" tvg-logo="http://epg.one/img/9246.png" tvg-rec="0",Cytavision Sports 2 GR
+http://rebrand.ly/TvZavTak?stream=31573/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="9261" tvg-logo="http://epg.one/img/9261.png" tvg-rec="0",Sport Live DK
+http://rebrand.ly/TvZavTak?stream=31589/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="2362" tvg-logo="http://epg.one/img/2362.png" tvg-rec="3",Fast &amp; Fun Box HD
+http://rebrand.ly/TvZavTak?stream=1018/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="2362" tvg-logo="http://epg.one/img/2362.png" tvg-rec="0",Fast &amp; Fun Box
+http://rebrand.ly/TvZavTak?stream=15231/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="6039" tvg-logo="http://epg.one/img/6039.png" tvg-rec="0",Red Bull TV HD DE
+http://rebrand.ly/TvZavTak?stream=16039/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="6527" tvg-logo="http://epg.one/img/6527.png" tvg-rec="0",Tivibu Spor 1 HD TR
+http://rebrand.ly/TvZavTak?stream=19074/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="88010" tvg-logo="http://epg.one/img/88010.png" tvg-rec="0",Fox Sports Racing US
+http://rebrand.ly/TvZavTak?stream=19144/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="6584" tvg-logo="http://epg.one/img/6584.png" tvg-rec="0",Benfica TV FHD PT
+http://rebrand.ly/TvZavTak?stream=19160/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="11427" tvg-logo="http://epg.one/img/11427.png" tvg-rec="0",Diema Sport 3 HD BG
+http://rebrand.ly/TvZavTak?stream=31917/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="11429" tvg-logo="http://epg.one/img/11429.png" tvg-rec="0",Sport TV HD AZ
+http://rebrand.ly/TvZavTak?stream=31926/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="7089" tvg-logo="http://epg.one/img/7089.png" tvg-rec="0",Fast Sports
+http://rebrand.ly/TvZavTak?stream=30199/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="11597" tvg-logo="http://epg.one/img/11597.png" tvg-rec="0",Fast Sports 1
+http://rebrand.ly/TvZavTak?stream=30200/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт" tvg-id="11598" tvg-logo="http://epg.one/img/11598.png" tvg-rec="0",Fast Sports 2
+http://rebrand.ly/TvZavTak?stream=30201/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="88047" tvg-logo="http://epg.one/img/88047.png" tvg-rec="0",Deluxe Dance HD DE
+http://rebrand.ly/TvZavTak?stream=31560/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="88050" tvg-logo="http://epg.one/img/88050.png" tvg-rec="3",RFM TV HD FR
+http://rebrand.ly/TvZavTak?stream=1038/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="2413" tvg-logo="http://epg.one/img/2413.png" tvg-rec="3",МузСоюз HD
+http://rebrand.ly/TvZavTak?stream=2137/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="2408" tvg-logo="http://epg.one/img/2408.png" tvg-rec="3",Музыка Live orig
+http://rebrand.ly/TvZavTak?stream=9174/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="1021" tvg-logo="http://epg.one/img/1021.png" tvg-rec="0",MTV US
+http://rebrand.ly/TvZavTak?stream=19192/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Музыка" tvg-id="11512" tvg-logo="http://epg.one/img/11512.png" tvg-rec="0",CHD-TV Rock HD
+http://rebrand.ly/TvZavTak?stream=19394/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="2239" tvg-logo="http://epg.one/img/2239.png" tvg-rec="0",СуперГерои HD
+http://rebrand.ly/TvZavTak?stream=15099/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="917" tvg-logo="http://epg.one/img/917.png" tvg-rec="3",Nick Jr. orig
+http://rebrand.ly/TvZavTak?stream=9182/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png" tvg-rec="0",Карусель (Ставрополь)
+http://rebrand.ly/TvZavTak?stream=31930/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11599" tvg-logo="http://epg.one/img/11599.png" tvg-rec="0",Venera.TV Детский мир 4K
+http://rebrand.ly/TvZavTak?stream=30150/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11554" tvg-logo="http://epg.one/img/11554.png" tvg-rec="0",Venera.TV Воскресное утро 90х
+http://rebrand.ly/TvZavTak?stream=30152/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11555" tvg-logo="http://epg.one/img/11555.png" tvg-rec="0",Venera.TV Фиксики
+http://rebrand.ly/TvZavTak?stream=30153/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11556" tvg-logo="http://epg.one/img/11556.png" tvg-rec="0",Venera.TV Вуди Вудпекер
+http://rebrand.ly/TvZavTak?stream=30154/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11557" tvg-logo="http://epg.one/img/11557.png" tvg-rec="0",Venera.TV Вспыш и чудо
+http://rebrand.ly/TvZavTak?stream=30155/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11558" tvg-logo="http://epg.one/img/11558.png" tvg-rec="0",Venera.TV Утиные истории
+http://rebrand.ly/TvZavTak?stream=30156/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11559" tvg-logo="http://epg.one/img/11559.png" tvg-rec="0",Venera.TV Три кота
+http://rebrand.ly/TvZavTak?stream=30157/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11560" tvg-logo="http://epg.one/img/11560.png" tvg-rec="0",Venera.TV Свинка Пеппа
+http://rebrand.ly/TvZavTak?stream=30158/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11561" tvg-logo="http://epg.one/img/11561.png" tvg-rec="0",Venera.TV Peppa Pig
+http://rebrand.ly/TvZavTak?stream=30159/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11562" tvg-logo="http://epg.one/img/11562.png" tvg-rec="0",Venera.TV Простоквашино
+http://rebrand.ly/TvZavTak?stream=30160/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11563" tvg-logo="http://epg.one/img/11563.png" tvg-rec="0",Venera.TV Ну погоди
+http://rebrand.ly/TvZavTak?stream=30161/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11601" tvg-logo="http://epg.one/img/11601.png" tvg-rec="0",Venera.TV Том и Джерри 4K
+http://rebrand.ly/TvZavTak?stream=30162/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11564" tvg-logo="http://epg.one/img/11564.png" tvg-rec="0",Venera.TV Тимон и Пумба
+http://rebrand.ly/TvZavTak?stream=30164/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11565" tvg-logo="http://epg.one/img/11565.png" tvg-rec="0",Venera.TV Суперкрошки
+http://rebrand.ly/TvZavTak?stream=30165/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11566" tvg-logo="http://epg.one/img/11566.png" tvg-rec="0",Venera.TV Смурфики
+http://rebrand.ly/TvZavTak?stream=30166/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11567" tvg-logo="http://epg.one/img/11567.png" tvg-rec="0",Venera.TV Щенячий патруль
+http://rebrand.ly/TvZavTak?stream=30167/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11568" tvg-logo="http://epg.one/img/11568.png" tvg-rec="0",Venera.TV Смешарики
+http://rebrand.ly/TvZavTak?stream=30168/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11569" tvg-logo="http://epg.one/img/11569.png" tvg-rec="0",Venera.TV Симпсоны
+http://rebrand.ly/TvZavTak?stream=30169/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11570" tvg-logo="http://epg.one/img/11570.png" tvg-rec="0",Venera.Tv Розовая пантера
+http://rebrand.ly/TvZavTak?stream=30170/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11571" tvg-logo="http://epg.one/img/11571.png" tvg-rec="0",Venera.TV Рик и Морти
+http://rebrand.ly/TvZavTak?stream=30171/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11572" tvg-logo="http://epg.one/img/11572.png" tvg-rec="0",Venera.TV Рапунцель
+http://rebrand.ly/TvZavTak?stream=30172/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11573" tvg-logo="http://epg.one/img/11573.png" tvg-rec="0",Venera.TV Пчелка Майя
+http://rebrand.ly/TvZavTak?stream=30173/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11574" tvg-logo="http://epg.one/img/11574.png" tvg-rec="0",Venera.Tv Панда и антилопа
+http://rebrand.ly/TvZavTak?stream=30174/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11575" tvg-logo="http://epg.one/img/11575.png" tvg-rec="0",Venera.TV Охотники за привидениями
+http://rebrand.ly/TvZavTak?stream=30175/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11576" tvg-logo="http://epg.one/img/11576.png" tvg-rec="0",Venera.TV Очень странные делишки
+http://rebrand.ly/TvZavTak?stream=30176/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11577" tvg-logo="http://epg.one/img/11577.png" tvg-rec="0",Venera.TV Мишки Гамми
+http://rebrand.ly/TvZavTak?stream=30177/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11578" tvg-logo="http://epg.one/img/11578.png" tvg-rec="0",Venera.TV Мини
+http://rebrand.ly/TvZavTak?stream=30178/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11579" tvg-logo="http://epg.one/img/11579.png" tvg-rec="0",Venera.TV Микки Маус
+http://rebrand.ly/TvZavTak?stream=30179/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11580" tvg-logo="http://epg.one/img/11580.png" tvg-rec="0",Venera.TV Маша и медведь
+http://rebrand.ly/TvZavTak?stream=30180/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11581" tvg-logo="http://epg.one/img/11581.png" tvg-rec="0",Venera.TV Даша путешественница
+http://rebrand.ly/TvZavTak?stream=30181/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11582" tvg-logo="http://epg.one/img/11582.png" tvg-rec="0",Venera.TV Леди Баг
+http://rebrand.ly/TvZavTak?stream=30182/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11583" tvg-logo="http://epg.one/img/11583.png" tvg-rec="0",Venera.TV Крепыш и команда
+http://rebrand.ly/TvZavTak?stream=30183/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11584" tvg-logo="http://epg.one/img/11584.png" tvg-rec="0",Venera.TV Корги по имени Моко
+http://rebrand.ly/TvZavTak?stream=30184/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11585" tvg-logo="http://epg.one/img/11585.png" tvg-rec="0",Venera.TV Губка Боб
+http://rebrand.ly/TvZavTak?stream=30186/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11586" tvg-logo="http://epg.one/img/11586.png" tvg-rec="0",Venera.TV Гриффины
+http://rebrand.ly/TvZavTak?stream=30187/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11587" tvg-logo="http://epg.one/img/11587.png" tvg-rec="0",Venera.TV Еноты
+http://rebrand.ly/TvZavTak?stream=30188/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11588" tvg-logo="http://epg.one/img/11588.png" tvg-rec="0",Venera.TV Енотки. Первые слова
+http://rebrand.ly/TvZavTak?stream=30189/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11589" tvg-logo="http://epg.one/img/11589.png" tvg-rec="0",Venera.TV Экстрасенсы
+http://rebrand.ly/TvZavTak?stream=30190/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11590" tvg-logo="http://epg.one/img/11590.png" tvg-rec="0",Venera.TV Чип и Деил
+http://rebrand.ly/TvZavTak?stream=30191/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11591" tvg-logo="http://epg.one/img/11591.png" tvg-rec="0",Venera.TV Чудеса на виражах
+http://rebrand.ly/TvZavTak?stream=30192/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11592" tvg-logo="http://epg.one/img/11592.png" tvg-rec="0",Venera.TV Бивис и Батт
+http://rebrand.ly/TvZavTak?stream=30193/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11593" tvg-logo="http://epg.one/img/11593.png" tvg-rec="0",Venera.TV Аладдин
+http://rebrand.ly/TvZavTak?stream=30194/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11594" tvg-logo="http://epg.one/img/11594.png" tvg-rec="0",Venera.TV Барбоскины
+http://rebrand.ly/TvZavTak?stream=30195/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11595" tvg-logo="http://epg.one/img/11595.png" tvg-rec="0",Venera.TV Подводная одиссея
+http://rebrand.ly/TvZavTak?stream=30196/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Детские" tvg-id="11596" tvg-logo="http://epg.one/img/11596.png" tvg-rec="0",Venera.TV 101 долматинец
+http://rebrand.ly/TvZavTak?stream=30198/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="88025" tvg-logo="http://epg.one/img/88025.png" tvg-rec="3",Триколор Душевные песни
+http://rebrand.ly/TvZavTak?stream=6001/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",National Geographic Wild FHD
+http://rebrand.ly/TvZavTak?stream=2415/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке HD
+http://rebrand.ly/TvZavTak?stream=2394/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="1732" tvg-logo="http://epg.one/img/1732.png" tvg-rec="3",Надежда HD
+http://rebrand.ly/TvZavTak?stream=2153/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="2383" tvg-logo="http://epg.one/img/2383.png" tvg-rec="3",Fashion &amp; Lifestyle FHD
+http://rebrand.ly/TvZavTak?stream=1010/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",National Geographic Wild orig
+http://rebrand.ly/TvZavTak?stream=9264/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="11349" tvg-logo="http://epg.one/img/11349.png" tvg-rec="0",Вкус HD
+http://rebrand.ly/TvZavTak?stream=31921/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="11350" tvg-logo="http://epg.one/img/11350.png" tvg-rec="0",Bridge Этно HD
+http://rebrand.ly/TvZavTak?stream=31922/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="6029" tvg-logo="http://epg.one/img/6029.png" tvg-rec="0",Первый Российский Национальный Канал HD
+http://rebrand.ly/TvZavTak?stream=31923/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="11352" tvg-logo="http://epg.one/img/11352.png" tvg-rec="0",Научпоп HD
+http://rebrand.ly/TvZavTak?stream=31924/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="11353" tvg-logo="http://epg.one/img/11353.png" tvg-rec="0",Наше Наследие HD
+http://rebrand.ly/TvZavTak?stream=31934/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Познавательные" tvg-id="11553" tvg-logo="http://epg.one/img/11553.png" tvg-rec="0",Venera.TV Космос
+http://rebrand.ly/TvZavTak?stream=30197/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="2383" tvg-logo="http://epg.one/img/2383.png" tvg-rec="7",Fashion &amp; Lifestyle HD
+http://rebrand.ly/TvZavTak?stream=2044/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="7994" tvg-logo="http://epg.one/img/7994.png" tvg-rec="0",Citrus Holiday
+http://rebrand.ly/TvZavTak?stream=16089/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11367" tvg-logo="http://epg.one/img/11367.png" tvg-rec="0",Neox HD ES
+http://rebrand.ly/TvZavTak?stream=31881/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11368" tvg-logo="http://epg.one/img/11368.png" tvg-rec="0",M+ Vacaciones HD ES
+http://rebrand.ly/TvZavTak?stream=31884/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=31896/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="0",2x2 HD
+http://rebrand.ly/TvZavTak?stream=31913/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11371" tvg-logo="http://epg.one/img/11371.png" tvg-rec="0",Плюс/Минус 16 HD
+http://rebrand.ly/TvZavTak?stream=31916/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="9040" tvg-logo="http://epg.one/img/9040.png" tvg-rec="0",Женский Журнал
+http://rebrand.ly/TvZavTak?stream=31932/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11373" tvg-logo="http://epg.one/img/11373.png" tvg-rec="0",Viva Vintage HD IL
+http://rebrand.ly/TvZavTak?stream=31937/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11501" tvg-logo="http://epg.one/img/11501.png" tvg-rec="0",HOT Bidur FHD IL
+http://rebrand.ly/TvZavTak?stream=31938/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="2695" tvg-logo="http://epg.one/img/2695.png" tvg-rec="0",Luli SD IL
+http://rebrand.ly/TvZavTak?stream=31939/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Развлекательные" tvg-id="11375" tvg-logo="http://epg.one/img/11375.png" tvg-rec="0",HOT Senior HD IL
+http://rebrand.ly/TvZavTak?stream=31940/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9772" tvg-logo="http://epg.one/img/9772.png" tvg-rec="3",7TV MD
+http://rebrand.ly/TvZavTak?stream=2455/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2844" tvg-logo="http://epg.one/img/2844.png" tvg-rec="3",One TV MD
+http://rebrand.ly/TvZavTak?stream=2451/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9773" tvg-logo="http://epg.one/img/9773.png" tvg-rec="3",Moldova TV MD
+http://rebrand.ly/TvZavTak?stream=2453/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9774" tvg-logo="http://epg.one/img/9774.png" tvg-rec="3",Vocea Basarabiei MD
+http://rebrand.ly/TvZavTak?stream=2450/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2763" tvg-logo="http://epg.one/img/2763.png" tvg-rec="3",Moldova 1 MD
+http://rebrand.ly/TvZavTak?stream=2444/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2787" tvg-logo="http://epg.one/img/2787.png" tvg-rec="3",Moldova 2 MD
+http://rebrand.ly/TvZavTak?stream=2445/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7165" tvg-logo="http://epg.one/img/7165.png" tvg-rec="3",Cinema 1 MD
+http://rebrand.ly/TvZavTak?stream=2447/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2789" tvg-logo="http://epg.one/img/2789.png" tvg-rec="3",N4 MD
+http://rebrand.ly/TvZavTak?stream=2460/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9777" tvg-logo="http://epg.one/img/9777.png" tvg-rec="3",GRT MD
+http://rebrand.ly/TvZavTak?stream=2448/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9778" tvg-logo="http://epg.one/img/9778.png" tvg-rec="3",Agro TV MD
+http://rebrand.ly/TvZavTak?stream=2449/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="88054" tvg-logo="http://epg.one/img/88054.png" tvg-rec="3",TV Nord HD MD
+http://rebrand.ly/TvZavTak?stream=2459/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9779" tvg-logo="http://epg.one/img/9779.png" tvg-rec="3",Busuioc TV MD
+http://rebrand.ly/TvZavTak?stream=2461/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9780" tvg-logo="http://epg.one/img/9780.png" tvg-rec="3",Euronews Romania MD
+http://rebrand.ly/TvZavTak?stream=2462/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2795" tvg-logo="http://epg.one/img/2795.png" tvg-rec="3",TVR 1 MD
+http://rebrand.ly/TvZavTak?stream=5026/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9781" tvg-logo="http://epg.one/img/9781.png" tvg-rec="3",Star TV MD
+http://rebrand.ly/TvZavTak?stream=2465/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7821" tvg-logo="http://epg.one/img/7821.png" tvg-rec="3",Tezaur MD
+http://rebrand.ly/TvZavTak?stream=2472/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2798" tvg-logo="http://epg.one/img/2798.png" tvg-rec="3",Noroc TV MD
+http://rebrand.ly/TvZavTak?stream=2473/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9783" tvg-logo="http://epg.one/img/9783.png" tvg-rec="3",Realitatea Live MD
+http://rebrand.ly/TvZavTak?stream=2467/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2843" tvg-logo="http://epg.one/img/2843.png" tvg-rec="3",Jurnal TV MD
+http://rebrand.ly/TvZavTak?stream=2446/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9786" tvg-logo="http://epg.one/img/9786.png" tvg-rec="3",NTS TV MD
+http://rebrand.ly/TvZavTak?stream=2452/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2846" tvg-logo="http://epg.one/img/2846.png" tvg-rec="3",TV8 MD
+http://rebrand.ly/TvZavTak?stream=2454/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2847" tvg-logo="http://epg.one/img/2847.png" tvg-rec="3",Pro TV Chisinau MD
+http://rebrand.ly/TvZavTak?stream=2456/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7823" tvg-logo="http://epg.one/img/7823.png" tvg-rec="3",Global 24 MD
+http://rebrand.ly/TvZavTak?stream=2457/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2849" tvg-logo="http://epg.one/img/2849.png" tvg-rec="3",TVC 21 MD
+http://rebrand.ly/TvZavTak?stream=2458/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2850" tvg-logo="http://epg.one/img/2850.png" tvg-rec="3",Exclusiv TV MD
+http://rebrand.ly/TvZavTak?stream=2463/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7824" tvg-logo="http://epg.one/img/7824.png" tvg-rec="3",TVR Moldova MD
+http://rebrand.ly/TvZavTak?stream=2464/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7825" tvg-logo="http://epg.one/img/7825.png" tvg-rec="3",ТСВ MD
+http://rebrand.ly/TvZavTak?stream=2466/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7826" tvg-logo="http://epg.one/img/7826.png" tvg-rec="3",Disney Channel MD
+http://rebrand.ly/TvZavTak?stream=2468/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2854" tvg-logo="http://epg.one/img/2854.png" tvg-rec="3",Gurinel TV MD
+http://rebrand.ly/TvZavTak?stream=2469/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2855" tvg-logo="http://epg.one/img/2855.png" tvg-rec="3",Zona M MD
+http://rebrand.ly/TvZavTak?stream=2470/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9396" tvg-logo="http://epg.one/img/9396.png" tvg-rec="3",We Sport TV MD
+http://rebrand.ly/TvZavTak?stream=2471/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2763" tvg-logo="http://epg.one/img/2763.png" tvg-rec="0",Moldova 1 HD MD
+http://rebrand.ly/TvZavTak?stream=19451/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2787" tvg-logo="http://epg.one/img/2787.png" tvg-rec="0",Moldova 2 HD MD
+http://rebrand.ly/TvZavTak?stream=19439/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7821" tvg-logo="http://epg.one/img/7821.png" tvg-rec="0",Tezaur HD MD
+http://rebrand.ly/TvZavTak?stream=19440/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7244" tvg-logo="http://epg.one/img/7244.png" tvg-rec="0",Setanta Moldova HD
+http://rebrand.ly/TvZavTak?stream=19441/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2843" tvg-logo="http://epg.one/img/2843.png" tvg-rec="0",Jurnal TV HD MD
+http://rebrand.ly/TvZavTak?stream=19443/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9774" tvg-logo="http://epg.one/img/9774.png" tvg-rec="0",Vocea Basarabiei HD MD
+http://rebrand.ly/TvZavTak?stream=19444/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7165" tvg-logo="http://epg.one/img/7165.png" tvg-rec="0",Cinema 1 HD MD
+http://rebrand.ly/TvZavTak?stream=19445/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2844" tvg-logo="http://epg.one/img/2844.png" tvg-rec="0",One TV HD MD
+http://rebrand.ly/TvZavTak?stream=19446/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9778" tvg-logo="http://epg.one/img/9778.png" tvg-rec="0",Agro TV HD MD
+http://rebrand.ly/TvZavTak?stream=19448/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2846" tvg-logo="http://epg.one/img/2846.png" tvg-rec="0",TV8 HD MD
+http://rebrand.ly/TvZavTak?stream=19449/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="7823" tvg-logo="http://epg.one/img/7823.png" tvg-rec="0",Global 24 HD MD
+http://rebrand.ly/TvZavTak?stream=19450/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="2847" tvg-logo="http://epg.one/img/2847.png" tvg-rec="0",Pro TV Chisinau HD MD
+http://rebrand.ly/TvZavTak?stream=19452/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9783" tvg-logo="http://epg.one/img/9783.png" tvg-rec="0",Realitatea Live HD MD
+http://rebrand.ly/TvZavTak?stream=31894/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="11491" tvg-logo="http://epg.one/img/11491.png" tvg-rec="0",Premiera TV MD
+http://rebrand.ly/TvZavTak?stream=31895/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9786" tvg-logo="http://epg.one/img/9786.png" tvg-rec="0",NTS MD
+http://rebrand.ly/TvZavTak?stream=31898/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="11493" tvg-logo="http://epg.one/img/11493.png" tvg-rec="0",Popas TV MD
+http://rebrand.ly/TvZavTak?stream=31899/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="11494" tvg-logo="http://epg.one/img/11494.png" tvg-rec="0",Regional TV MD
+http://rebrand.ly/TvZavTak?stream=31900/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="11495" tvg-logo="http://epg.one/img/11495.png" tvg-rec="0",Sor TV MD
+http://rebrand.ly/TvZavTak?stream=31901/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9781" tvg-logo="http://epg.one/img/9781.png" tvg-rec="0",Star TV HD MD
+http://rebrand.ly/TvZavTak?stream=31902/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="11497" tvg-logo="http://epg.one/img/11497.png" tvg-rec="0",Studio-L MD
+http://rebrand.ly/TvZavTak?stream=31903/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Молдавия | Moldovenească" tvg-id="9396" tvg-logo="http://epg.one/img/9396.png" tvg-rec="0",We Sport TV HD MD
+http://rebrand.ly/TvZavTak?stream=31904/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="7843" tvg-logo="http://epg.one/img/7843.png" tvg-rec="0",ICTV 2 HD UA
+http://rebrand.ly/TvZavTak?stream=15235/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="0",НТН HD UA
+http://rebrand.ly/TvZavTak?stream=15011/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9160" tvg-logo="http://epg.one/img/9160.png" tvg-rec="0",Сфера ТВ HD UA
+http://rebrand.ly/TvZavTak?stream=15008/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9126" tvg-logo="http://epg.one/img/9126.png" tvg-rec="0",Наше Улюблене Кіно HD UA
+http://rebrand.ly/TvZavTak?stream=15007/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал UA
+http://rebrand.ly/TvZavTak?stream=945/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2181" tvg-logo="http://epg.one/img/2181.png" tvg-rec="3",FilmBox orig
+http://rebrand.ly/TvZavTak?stream=948/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал FHD UA
+http://rebrand.ly/TvZavTak?stream=951/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2087" tvg-logo="http://epg.one/img/2087.png" tvg-rec="3",Надiя ТВ UA
+http://rebrand.ly/TvZavTak?stream=956/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="3",EU Music HD UA
+http://rebrand.ly/TvZavTak?stream=925/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="3",Мега UA
+http://rebrand.ly/TvZavTak?stream=929/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="0",Мега HD UA
+http://rebrand.ly/TvZavTak?stream=15124/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="3",К2 UA
+http://rebrand.ly/TvZavTak?stream=930/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="0",К2 HD UA
+http://rebrand.ly/TvZavTak?stream=15126/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 HD UA
+http://rebrand.ly/TvZavTak?stream=15125/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="3",Kvartal TV UA
+http://rebrand.ly/TvZavTak?stream=932/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="3",Новий Канал UA
+http://rebrand.ly/TvZavTak?stream=935/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="0",Новий Канал HD UA
+http://rebrand.ly/TvZavTak?stream=15128/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="3",НТН UA
+http://rebrand.ly/TvZavTak?stream=936/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music HD UA
+http://rebrand.ly/TvZavTak?stream=970/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 HD UA
+http://rebrand.ly/TvZavTak?stream=975/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2118" tvg-logo="http://epg.one/img/2118.png" tvg-rec="3",Рада FHD UA
+http://rebrand.ly/TvZavTak?stream=976/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="3",Перший Міський HD (Одеса) UA
+http://rebrand.ly/TvZavTak?stream=981/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2123" tvg-logo="http://epg.one/img/2123.png" tvg-rec="3",СК1 UA
+http://rebrand.ly/TvZavTak?stream=982/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="3",1+1 Україна FHD UA
+http://rebrand.ly/TvZavTak?stream=987/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt FHD UA
+http://rebrand.ly/TvZavTak?stream=991/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="3",Star Cinema HD UA
+http://rebrand.ly/TvZavTak?stream=992/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2146" tvg-logo="http://epg.one/img/2146.png" tvg-rec="3",Чернiвецький Промiнь UA
+http://rebrand.ly/TvZavTak?stream=1004/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший UA
+http://rebrand.ly/TvZavTak?stream=1016/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="3",Суспільне Крим HD UA
+http://rebrand.ly/TvZavTak?stream=1017/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2150" tvg-logo="http://epg.one/img/2150.png" tvg-rec="3",Obozrevatel TV HD UA
+http://rebrand.ly/TvZavTak?stream=1028/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал HD UA
+http://rebrand.ly/TvZavTak?stream=1030/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер HD UA
+http://rebrand.ly/TvZavTak?stream=1047/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="3",Рибалка FHD UA
+http://rebrand.ly/TvZavTak?stream=1058/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 UA
+http://rebrand.ly/TvZavTak?stream=995/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА HD (Чернівці) UA
+http://rebrand.ly/TvZavTak?stream=998/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="3",Zoom UA
+http://rebrand.ly/TvZavTak?stream=1000/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="0",Zoom HD UA
+http://rebrand.ly/TvZavTak?stream=15130/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс UA
+http://rebrand.ly/TvZavTak?stream=1002/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="3",Eco TV HD UA
+http://rebrand.ly/TvZavTak?stream=1006/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ UA
+http://rebrand.ly/TvZavTak?stream=1009/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2210" tvg-logo="http://epg.one/img/2210.png" tvg-rec="3",Сонце UA
+http://rebrand.ly/TvZavTak?stream=1013/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2212" tvg-logo="http://epg.one/img/2212.png" tvg-rec="3",Прямий HD UA
+http://rebrand.ly/TvZavTak?stream=1015/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="3",Уніaн Серіал HD UA
+http://rebrand.ly/TvZavTak?stream=1023/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="3",Київ UA
+http://rebrand.ly/TvZavTak?stream=1045/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал HD UA
+http://rebrand.ly/TvZavTak?stream=1046/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА (Чернівці) UA
+http://rebrand.ly/TvZavTak?stream=1072/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал HD UA
+http://rebrand.ly/TvZavTak?stream=1063/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 UA
+http://rebrand.ly/TvZavTak?stream=5041/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV HD UA
+http://rebrand.ly/TvZavTak?stream=6302/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="3",СТБ UA
+http://rebrand.ly/TvZavTak?stream=6304/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="0",СТБ HD UA
+http://rebrand.ly/TvZavTak?stream=15122/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер UA
+http://rebrand.ly/TvZavTak?stream=6305/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2243" tvg-logo="http://epg.one/img/2243.png" tvg-rec="3",Xsport UA
+http://rebrand.ly/TvZavTak?stream=6309/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо UA
+http://rebrand.ly/TvZavTak?stream=6311/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3318" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
+http://rebrand.ly/TvZavTak?stream=6314/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2194" tvg-logo="http://epg.one/img/2194.png" tvg-rec="3",1+1 Марафон HD UA
+http://rebrand.ly/TvZavTak?stream=6317/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо HD UA
+http://rebrand.ly/TvZavTak?stream=6321/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2138" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt Россия HD
+http://rebrand.ly/TvZavTak?stream=6322/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2107" tvg-logo="http://epg.one/img/2107.png" tvg-rec="0",Пiксель TV HD UA
+http://rebrand.ly/TvZavTak?stream=15127/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png" tvg-rec="3",Star Cinema Россия HD
+http://rebrand.ly/TvZavTak?stream=6325/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9162" tvg-logo="http://epg.one/img/9162.png" tvg-rec="3",Star Family Россия HD
+http://rebrand.ly/TvZavTak?stream=6326/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал FHD UA
+http://rebrand.ly/TvZavTak?stream=6327/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2197" tvg-logo="http://epg.one/img/2197.png" tvg-rec="3",Бігуді UA
+http://rebrand.ly/TvZavTak?stream=6330/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3333" tvg-logo="http://epg.one/img/3333.png" tvg-rec="3",NIKI Kids HD UA
+http://rebrand.ly/TvZavTak?stream=6332/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3334" tvg-logo="http://epg.one/img/3334.png" tvg-rec="3",NIKI Junior HD UA
+http://rebrand.ly/TvZavTak?stream=6333/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3335" tvg-logo="http://epg.one/img/3335.png" tvg-rec="3",М1 HD UA
+http://rebrand.ly/TvZavTak?stream=6334/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV UA
+http://rebrand.ly/TvZavTak?stream=6339/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3290" tvg-logo="http://epg.one/img/3290.png" tvg-rec="3",Апостроф TV HD UA
+http://rebrand.ly/TvZavTak?stream=6373/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце HD UA
+http://rebrand.ly/TvZavTak?stream=6375/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший HD UA
+http://rebrand.ly/TvZavTak?stream=6376/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ HD UA
+http://rebrand.ly/TvZavTak?stream=6377/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 HD UA
+http://rebrand.ly/TvZavTak?stream=6378/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс HD UA
+http://rebrand.ly/TvZavTak?stream=6379/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце UA
+http://rebrand.ly/TvZavTak?stream=6380/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо FHD UA
+http://rebrand.ly/TvZavTak?stream=9073/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="4585" tvg-logo="http://epg.one/img/4585.png" tvg-rec="0",Перший Автомобільний HD UA
+http://rebrand.ly/TvZavTak?stream=7228/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="5951" tvg-logo="http://epg.one/img/5951.png" tvg-rec="0",Xsport+ HD UA
+http://rebrand.ly/TvZavTak?stream=15261/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="0",Star Cinema FHD UA
+http://rebrand.ly/TvZavTak?stream=15262/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2181" tvg-logo="http://epg.one/img/2181.png" tvg-rec="0",FilmBox UA
+http://rebrand.ly/TvZavTak?stream=15266/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2102" tvg-logo="http://epg.one/img/5611.png" tvg-rec="0",Enter-фільм HD UA
+http://rebrand.ly/TvZavTak?stream=15273/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="0",Eco TV UA
+http://rebrand.ly/TvZavTak?stream=15275/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="0",EU Music FHD UA
+http://rebrand.ly/TvZavTak?stream=15277/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="0",4ever Music UA
+http://rebrand.ly/TvZavTak?stream=15278/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8850" tvg-logo="http://epg.one/img/8850.png" tvg-rec="0",Українське радіо 1 UA
+http://rebrand.ly/TvZavTak?stream=31724/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8851" tvg-logo="http://epg.one/img/8851.png" tvg-rec="0",Українське радіо 3 UA
+http://rebrand.ly/TvZavTak?stream=31725/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="0",Уніaн Серіал UA
+http://rebrand.ly/TvZavTak?stream=31726/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8853" tvg-logo="http://epg.one/img/8853.png" tvg-rec="0",Фауна UA
+http://rebrand.ly/TvZavTak?stream=31727/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8854" tvg-logo="http://epg.one/img/8854.png" tvg-rec="0",Масон ТВ HD UA
+http://rebrand.ly/TvZavTak?stream=31729/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8855" tvg-logo="http://epg.one/img/8855.png" tvg-rec="0",Ми Україна UA
+http://rebrand.ly/TvZavTak?stream=31731/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2198" tvg-logo="http://epg.one/img/2198.png" tvg-rec="0",НТА HD UA
+http://rebrand.ly/TvZavTak?stream=31732/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="0",Наука UA
+http://rebrand.ly/TvZavTak?stream=31733/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2150" tvg-logo="http://epg.one/img/2150.png" tvg-rec="0",Obozrevatel TV FHD UA
+http://rebrand.ly/TvZavTak?stream=31734/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8859" tvg-logo="http://epg.one/img/8859.png" tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
+http://rebrand.ly/TvZavTak?stream=31736/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="0",Перший Міський FHD (Одеса) UA
+http://rebrand.ly/TvZavTak?stream=31737/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2118" tvg-logo="http://epg.one/img/2118.png" tvg-rec="0",Рада HD UA
+http://rebrand.ly/TvZavTak?stream=31739/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8862" tvg-logo="http://epg.one/img/8862.png" tvg-rec="0",Радіо ТВА (Чернівці) UA
+http://rebrand.ly/TvZavTak?stream=31740/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8863" tvg-logo="http://epg.one/img/8863.png" tvg-rec="0",Радіо Закарпаття FM UA
+http://rebrand.ly/TvZavTak?stream=31741/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8864" tvg-logo="http://epg.one/img/8864.png" tvg-rec="0",Радіо Промінь UA
+http://rebrand.ly/TvZavTak?stream=31742/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="0",Рибалка HD UA
+http://rebrand.ly/TvZavTak?stream=31743/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8866" tvg-logo="http://epg.one/img/8866.png" tvg-rec="0",Світло HD UA
+http://rebrand.ly/TvZavTak?stream=31744/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8867" tvg-logo="http://epg.one/img/8867.png" tvg-rec="0",Суспільне Київ HD UA
+http://rebrand.ly/TvZavTak?stream=31745/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="0",Суспільне Крим FHD UA
+http://rebrand.ly/TvZavTak?stream=31746/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8869" tvg-logo="http://epg.one/img/8869.png" tvg-rec="0",Суспільне Культура HD UA
+http://rebrand.ly/TvZavTak?stream=31747/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт HD UA
+http://rebrand.ly/TvZavTak?stream=31750/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт FHD UA
+http://rebrand.ly/TvZavTak?stream=31751/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8874" tvg-logo="http://epg.one/img/8874.png" tvg-rec="0",Перший Західний HD UA
+http://rebrand.ly/TvZavTak?stream=31752/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="5950" tvg-logo="http://epg.one/img/5950.png" tvg-rec="0",Терра UA
+http://rebrand.ly/TvZavTak?stream=31753/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8878" tvg-logo="http://epg.one/img/8878.png" tvg-rec="0",UTravel HD UA
+http://rebrand.ly/TvZavTak?stream=31762/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="7876" tvg-logo="http://epg.one/img/7876.png" tvg-rec="0",Viasat Nature CEE HD
+http://rebrand.ly/TvZavTak?stream=31766/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8884" tvg-logo="http://epg.one/img/8884.png" tvg-rec="0",Ісландія HD UA
+http://rebrand.ly/TvZavTak?stream=31769/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8885" tvg-logo="http://epg.one/img/8885.png" tvg-rec="0",Аверс UA
+http://rebrand.ly/TvZavTak?stream=31770/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8886" tvg-logo="http://epg.one/img/8886.png" tvg-rec="0",Армія TV HD UA
+http://rebrand.ly/TvZavTak?stream=31771/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2204" tvg-logo="http://epg.one/img/2204.png" tvg-rec="0",Галичина HD UA
+http://rebrand.ly/TvZavTak?stream=31772/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8890" tvg-logo="http://epg.one/img/8890.png" tvg-rec="0",Дача UA
+http://rebrand.ly/TvZavTak?stream=31775/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8891" tvg-logo="http://epg.one/img/8891.png" tvg-rec="0",Дім UA
+http://rebrand.ly/TvZavTak?stream=31776/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8892" tvg-logo="http://epg.one/img/8892.png" tvg-rec="0",ЕТНО Канал HD UA
+http://rebrand.ly/TvZavTak?stream=31777/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8893" tvg-logo="http://epg.one/img/8893.png" tvg-rec="0",Закон ТВ HD UA
+http://rebrand.ly/TvZavTak?stream=31778/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="0",Kvartal TV HD UA
+http://rebrand.ly/TvZavTak?stream=31780/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="0",Київ HD UA
+http://rebrand.ly/TvZavTak?stream=31781/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="0",1+1 Україна HD UA
+http://rebrand.ly/TvZavTak?stream=31784/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8898" tvg-logo="http://epg.one/img/8898.png" tvg-rec="0",11 Канал HD (Дніпро) UA
+http://rebrand.ly/TvZavTak?stream=31785/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2351" tvg-logo="http://epg.one/img/2351.png" tvg-rec="0",36.6 TV UA
+http://rebrand.ly/TvZavTak?stream=31787/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8900" tvg-logo="http://epg.one/img/8900.png" tvg-rec="0",4ever Cinema HD UA
+http://rebrand.ly/TvZavTak?stream=31788/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8902" tvg-logo="http://epg.one/img/8902.png" tvg-rec="0",6 Соток UA
+http://rebrand.ly/TvZavTak?stream=31790/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8288" tvg-logo="http://epg.one/img/8288.png" tvg-rec="0",AMC UA
+http://rebrand.ly/TvZavTak?stream=31792/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="0",Bolt HD UA
+http://rebrand.ly/TvZavTak?stream=31793/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8904" tvg-logo="http://epg.one/img/8904.png" tvg-rec="0",Cine+ HD UA
+http://rebrand.ly/TvZavTak?stream=31794/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8905" tvg-logo="http://epg.one/img/8905.png" tvg-rec="0",Cine+ Hit HD UA
+http://rebrand.ly/TvZavTak?stream=31795/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8906" tvg-logo="http://epg.one/img/8906.png" tvg-rec="0",Cine+ Kids HD UA
+http://rebrand.ly/TvZavTak?stream=31796/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8907" tvg-logo="http://epg.one/img/8907.png" tvg-rec="0",Cine+ Legend HD UA
+http://rebrand.ly/TvZavTak?stream=31797/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2358" tvg-logo="http://epg.one/img/2358.png" tvg-rec="0",D1 HD UA
+http://rebrand.ly/TvZavTak?stream=31798/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2223" tvg-logo="http://epg.one/img/2223.png" tvg-rec="0",Da Vinci HD UA
+http://rebrand.ly/TvZavTak?stream=31799/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8909" tvg-logo="http://epg.one/img/8909.png" tvg-rec="0",Divi Sport HD UA
+http://rebrand.ly/TvZavTak?stream=31800/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8910" tvg-logo="http://epg.one/img/8910.png" tvg-rec="0",Equalympic HD UA
+http://rebrand.ly/TvZavTak?stream=31802/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2491" tvg-logo="http://epg.one/img/2491.png" tvg-rec="0",Fashion TV HD UA
+http://rebrand.ly/TvZavTak?stream=31804/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9754" tvg-logo="http://epg.one/img/9754.png" tvg-rec="0",FilmBox ArtHouse HD UA
+http://rebrand.ly/TvZavTak?stream=31807/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8913" tvg-logo="http://epg.one/img/8913.png" tvg-rec="0",FilmUA Live HD UA
+http://rebrand.ly/TvZavTak?stream=31808/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8915" tvg-logo="http://epg.one/img/8915.png" tvg-rec="0",FreeДом UA
+http://rebrand.ly/TvZavTak?stream=31810/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 UA
+http://rebrand.ly/TvZavTak?stream=31812/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8917" tvg-logo="http://epg.one/img/8917.png" tvg-rec="0",Kino Action HD UA
+http://rebrand.ly/TvZavTak?stream=31813/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8918" tvg-logo="http://epg.one/img/8918.png" tvg-rec="0",Kino Comedy HD UA
+http://rebrand.ly/TvZavTak?stream=31814/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8919" tvg-logo="http://epg.one/img/8919.png" tvg-rec="0",Kino Premiere HD UA
+http://rebrand.ly/TvZavTak?stream=31815/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8920" tvg-logo="http://epg.one/img/8920.png" tvg-rec="0",Kinosweet HD UA
+http://rebrand.ly/TvZavTak?stream=31816/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
