@@ -26713,3 +26713,7 @@ https://muzzikbalkan-live.morescreens.com/mts-1/576p/chunklist.m3u8?video_id=56&
 http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
 #EXTINF:-1 group-title="46.MTV 🎸",MTV 2ᴴᴰ
 http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aad6923.m3u
+#EXTINF:-1 group-title="КИНО", KINOSAT
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="СПОРТ", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
