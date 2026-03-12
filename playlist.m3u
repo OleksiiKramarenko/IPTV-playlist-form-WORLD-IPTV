@@ -29139,3 +29139,15 @@ http://213.163.114.23:25461/ipko/M8TATzJPXe/1?extension=m3u8
 https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hindi Hits" tvg-logo="https://i.ibb.co/V0WgsmG7/image-29.png" group-title="МУЗЫКА",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="hlsproxy-8212" tvg-logo="http://1lot.tv/ch/7840.png" catchup="shift" catchup-days="1",Bolt HD
+http://srvru2.play-x.ru:7799/channel/n15d7c867/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1 group-title="Кино" tvg-id="hlsproxy-50496" tvg-logo="http://1lot.tv/ch/11121.png" catchup="shift" catchup-days="1",OTV HD
+http://srvru2.play-x.ru:7799/channel/n365fa727/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1 group-title="Музыка" tvg-id="hlsproxy-121" tvg-logo="http://1lot.tv/ch/9808.png" catchup="shift" catchup-days="1",Mezzo HD
+http://srvru2.play-x.ru:7799/channel/n2716edcd/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1 group-title="Музыка" tvg-id="hlsproxy-54542" tvg-logo="http://1lot.tv/ch/7757.png" catchup="shift" catchup-days="1",Song TV Russia
+http://srvru2.play-x.ru:7799/channel/3ef63cfc/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1 group-title="Музыка" tvg-id="hlsproxy-2058" tvg-logo="http://1lot.tv/ch/8851.png" catchup="shift" catchup-days="1",Deluxe Music HD
+http://srvru2.play-x.ru:7799/channel/n4ce4280e/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://1lot.tv/ch/8912.png" catchup="shift" catchup-days="1",Setanta Sports 3 HD
+http://srvru2.play-x.ru:7799/channel/19f82b8/index.m3u8?q=7170e086faf29a20f6b11698846effd1
