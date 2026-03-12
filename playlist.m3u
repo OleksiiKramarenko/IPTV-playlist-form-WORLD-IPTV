@@ -29127,3 +29127,15 @@ https://stream.qaztv.kz/live/stream6/index.m3u8
 https://live.teleradiocom.tj/1/3m.m3u8
 #EXTINF:-1 tvg-id="TVKulob.tj" tvg-name="TV Kulob" tvg-logo="https://i.imgur.com/AFgEYFp.png" group-title="СТРАНЫ",TV Kulob
 https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGG E-Sport" tvg-logo="https://i.ibb.co/yF4fdh6c/image-2025-10-10-T211740-821.png" group-title="СПОРТ",MGG E-Sport
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Tashan" tvg-logo="https://i.ibb.co/fYdQq8nV/image-53.png" group-title="МУЗЫКА",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blues TV" tvg-logo="https://i.ibb.co/5hxC4zb9/image-76.png" group-title="МУЗЫКА",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Festina (Kosovo)" tvg-logo="https://i.ibb.co/0dkXL8S/image-2025-09-09-T121101-489.png" group-title="МУЗЫКА",Festina (Kosovo)
+http://213.163.114.23:25461/ipko/M8TATzJPXe/1?extension=m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music" tvg-logo="https://i.ibb.co/CsmrQKFR/image-57.png" group-title="МУЗЫКА",Gemini Music
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hindi Hits" tvg-logo="https://i.ibb.co/V0WgsmG7/image-29.png" group-title="МУЗЫКА",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
