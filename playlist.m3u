@@ -23313,3 +23313,171 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?
 http://78.130.250.2:8023/play/a022/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",RTД rus
 http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/gmSfdbIeykPfEWMSapzEUg/1749568439/bb71a99e0ddc621322dafad338b96a3e/1080p_stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3965;category=Інформаційні;keycode=4;thumb=https://cdnua03.hls.tv/cdn/logo/047b4ee39781d345bbf960e5bf685c04_high.png;type=hls,Канал 24 HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3965/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4886;category=Розважальні;keycode=13;thumb=https://cdnua03.hls.tv/cdn/logo/633c9db06616af20684768746f407987_high.png;type=hls,Світ навиворіт+
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4886/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4916;category=Розважальні;keycode=15;thumb=https://cdnua03.hls.tv/cdn/logo/12a5d77d1144c000b8250204a35e3ee0_high.png;type=fast,Орел і Решка HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4889/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4923;category=Розважальні;keycode=20;thumb=https://cdnua03.hls.tv/cdn/logo/358ccefe5208c9c873e19bfa2f61a494_high.png;type=fast,Речдок HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4892/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=55;category=Інформаційні;keycode=23;thumb=https://cdnua03.hls.tv/cdn/logo/170f2edb9c9a45fd8a628771fac6af3b_high.png;type=hls,5 канал HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/55/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4934;category=Фільми;keycode=27;thumb=https://cdnua03.hls.tv/cdn/logo/8924f9ff47286201eab14b14942b0343_high.png;type=fast,МЕДИЧНІ СЕРІАЛИ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4896/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4845;category=Фільми;keycode=47;thumb=https://cdnua03.hls.tv/cdn/logo/649bfb5a17e7d879b467669358f4d6fc_high.png;type=hls,NOW series
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4845/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=74;category=Дитячі;keycode=59;thumb=https://cdnua03.hls.tv/cdn/logo/a9575956d2ea4657b25650d34db311fa_high.png;type=hls,Lale HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/74/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=201;category=Дитячі;keycode=60;thumb=https://cdnua03.hls.tv/cdn/logo/354e2bdd11cb2ac477b4ca272e39985f_high.png;type=hls,Da Vinci Learning UA
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/201/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=5025;category=Дитячі;keycode=61;thumb=https://cdnua03.hls.tv/cdn/logo/e932f355ea5468f4d16021ee1d1134fc_high.png;type=hls,TinyTeen
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/5025/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4996;category=Фільми;keycode=62;thumb=https://cdnua03.hls.tv/cdn/logo/ba64b03134381151d3304e16cd73d4ba_high.png;type=fast,Кримінальні історії HD
+https://live1.ssai.tv/out/kztQSMfyegeUEt58sY8IrsFv8eJD8y2u/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4937;category=Пізнавальні;keycode=68;thumb=https://cdnua03.hls.tv/cdn/logo/359596df2a1725594f71688c76af0d02_high.png;type=fast,Viasat History+ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/141/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4929;category=Розважальні;keycode=85;thumb=https://cdnua03.hls.tv/cdn/logo/ed7081ad6338476d13b1c8d1e1bb02b6_high.png;type=fast,МІСТИЧНІ ІСТОРІЇ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4891/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4963;category=Розважальні;keycode=88;thumb=https://cdnua03.hls.tv/cdn/logo/01a2d89346af7c4072e79e55277bed6a_high.png;type=fast,Світ Навиворіт + HD
+https://live1.ssai.tv/out/O7QrfZiq5Lv2FfbHi3LSI9dmk7N11QQ0/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4952;category=Розважальні;keycode=90;thumb=https://cdnua03.hls.tv/cdn/logo/361dd2bebfa2b3d7e205554fbaf47be1_high.png;type=fast,Детектор брехні HD
+https://live1.ssai.tv/out/b0JHnLi3qj8PwC4Wu2IpxcomR9QcPcOD/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4956;category=Розважальні;keycode=91;thumb=https://cdnua03.hls.tv/cdn/logo/c1b4e286e2d9e9828c52ee166844e7b8_high.png;type=fast,Дизель шоу HD
+https://live1.ssai.tv/out/Hgth7dC6fjnVMEKahsR13KyzS1sr5pDr/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4978;category=Розважальні;keycode=92;thumb=https://cdnua03.hls.tv/cdn/logo/cc1368b6040591625019b7418cf7a125_high.png;type=fast,Днк Свої HD
+https://live1.ssai.tv/out/opL7CdleJXVBgII0BWVWVRMFcyDxNRyO/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4950;category=Розважальні;keycode=96;thumb=https://cdnua03.hls.tv/cdn/logo/94f4139198a03d726d6dc6bc2c810d3d_high.png;type=fast,Пацанки HD
+https://live1.ssai.tv/out/DZ9fMFyvabEZmfP0bZe4Gs1AnuzzMUDk/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4976;category=Розважальні;keycode=97;thumb=https://cdnua03.hls.tv/cdn/logo/b5d03c276c51c3826c017388b4f366d9_high.png;type=fast,Ревізор HD
+https://playout.ssai.tv/live/c13fef6fe22d340d53444757e18b2fa7/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4972;category=Фільми;keycode=99;thumb=https://cdnua03.hls.tv/cdn/logo/c9deacfa72d9f564f1099008e12db62d_high.png;type=fast,Криваві квіти HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/5028/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4995;category=Розважальні;keycode=108;thumb=https://cdnua03.hls.tv/cdn/logo/b11c0749a11c8b698612a20548b8edd4_high.png;type=fast,Загублений світ HD
+https://live1.ssai.tv/out/o3KkeBE1fihx6Mk59w8ltUw6uFvsv3zU/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4973;category=Розважальні;keycode=114;thumb=https://cdnua03.hls.tv/cdn/logo/4f7ae6317e07f16f36fdbeb146a9ab58_high.png;type=fast,Стосується кожного: Краще HD
+https://live1.ssai.tv/out/6zyNGITBJfM1EWkwNJUrka9OP67Gt7rL/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4928;category=Розважальні;keycode=118;thumb=https://cdnua03.hls.tv/cdn/logo/48a06663a0b6b067e723d1b013521635_high.png;type=fast,Орел і Решка морський сезон
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4872/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4940;category=Розважальні;keycode=120;thumb=https://cdnua03.hls.tv/cdn/logo/e60023d9fe5ca5f0e47ad9faeb2f4bb3_high.png;type=fast,Орел і Решка The BEST
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4869/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4930;category=Розважальні;keycode=122;thumb=https://cdnua03.hls.tv/cdn/logo/507ccb51a14043eb28a447117d9aae81_high.png;type=fast,Речдок. Велика справа
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4910/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4893;category=Розважальні;keycode=125;thumb=https://cdnua03.hls.tv/cdn/logo/33b3a656783986ecb90ca6a6e814ea2a_high.png;type=hls,Одруження наосліп+
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4893/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4890;category=Розважальні;keycode=126;thumb=https://cdnua03.hls.tv/cdn/logo/8239920af88ee2438fa6b32578407da6_high.png;type=hls,Панянка-селянка+
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4890/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4881;category=Розважальні;keycode=127;thumb=https://cdnua03.hls.tv/cdn/logo/394a854ece98145c12c5811b7aafcdf9_high.png;type=hls,Готуємо разом+ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4881/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4882;category=Розважальні;keycode=128;thumb=https://cdnua03.hls.tv/cdn/logo/928714f1fff3e24a66e83d87f49cf326_high.png;type=hls,Стосується кожного+ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4882/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4924;category=Розважальні;keycode=132;thumb=https://cdnua03.hls.tv/cdn/logo/7ba439539bd54e82b106b001cb3f1bc4_high.png;type=fast,Hollywood Glow
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/5027/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4991;category=Пізнавальні;keycode=135;thumb=https://cdnua03.hls.tv/cdn/logo/24f5e8846a3bb02e77db5170826070cc_high.png;type=fast,АНТИПОДИ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4901/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=5026;category=Пізнавальні;keycode=138;thumb=https://cdnua03.hls.tv/cdn/logo/16589597f51991f0bac1a2cd70519b90_high.png;type=hls,LingoToons
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/5026/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4931;category=Фільми;keycode=140;thumb=https://cdnua03.hls.tv/cdn/logo/490875a62361fbde8de23bbef4a8cc3a_high.png;type=fast,БАРДАК
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4919/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4920;category=Пізнавальні;keycode=147;thumb=https://cdnua03.hls.tv/cdn/logo/92db0160a6d8957be12100bb4abeb9ef_high.png;type=fast,Хащі
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4907/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4985;category=Дитячі;keycode=152;thumb=https://cdnua03.hls.tv/cdn/logo/c98284c6f98a986f7cfd9541cdae3ce4_high.png;type=hls,Агугугу
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4985/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4908;category=Спортивні;keycode=161;thumb=https://cdnua03.hls.tv/cdn/logo/c97abd4e0fa3bdb78c21403779a0006b_high.png;type=fast,ТРОФЕЙ Premium HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4768/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4856;category=Спортивні;keycode=173;thumb=https://cdnua03.hls.tv/cdn/logo/91b0fbeebbd661c634f8d42030f21a4b_high.png;type=hls,Суспільне Спорт
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4856/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=419;category=Музичні;keycode=194;thumb=https://cdnua03.hls.tv/cdn/logo/33dbec55d809a3a9534fdb80016116b2_high.png;type=hls,Music Box HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/419/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4751;category=Музичні;keycode=200;thumb=https://cdnua03.hls.tv/cdn/logo/4bc0168e8418f49e44df2efa252f2845_high.png;type=hls,InRating HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4751/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4847;category=Інформаційні;keycode=207;thumb=https://cdnua03.hls.tv/cdn/logo/3afb583bb00f22cc89bb3ccd4f12a8ca_high.png;type=hls,МИ-Україна
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4847/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3153;category=Нацiональнi;keycode=208;thumb=https://cdnua03.hls.tv/cdn/logo/4a744d273d4580b713fb9ffefdf41ccb_high.png;type=hls,Армія TV
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3153/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=87;category=Нацiональнi;keycode=210;thumb=https://cdnua03.hls.tv/cdn/logo/f52227d373b815ef09bb90d28dffd19e_high.png;type=hls,Перший HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/87/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=91;category=Нацiональнi;keycode=212;thumb=https://cdnua03.hls.tv/cdn/logo/36955b31fac50b51bab82e25fd03d8ba_high.png;type=hls,FREEДОМ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/91/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4782;category=Інформаційні;keycode=214;thumb=https://cdnua03.hls.tv/cdn/logo/bdc396dd45fa6de351b6a15bf0d624d9_high.png;type=hls,Euronews ENG HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4782/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=239;category=Інформаційні;keycode=215;thumb=https://cdnua03.hls.tv/cdn/logo/a8add8525cb8d038ddc782c10dcc99a4_high.png;type=hls,France 24 FRA HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/239/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4783;category=Інформаційні;keycode=216;thumb=https://cdnua03.hls.tv/cdn/logo/6ff523c06154c0e078c29ae3e144f189_high.png;type=hls,France 24 ENG HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4783/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4730;category=Інформаційні;keycode=221;thumb=https://cdnua03.hls.tv/cdn/logo/fad6449767ebbbd65ffdd40ae2143795_high.png;type=hls,Апостроф TV HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4730/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3984;category=Інформаційні;keycode=222;thumb=https://cdnua03.hls.tv/cdn/logo/5abb215dcc877e787b63fe1729fc1e17_high.png;type=hls,OBOZREVATEL HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3984/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=5024;category=Пізнавальні;keycode=224;thumb=https://cdnua03.hls.tv/cdn/logo/27b4d8a8f20112312e10c657a6459251_high.png;type=fast,У МОЇЙ ГОЛОВІ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4885/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4780;category=Розважальні;keycode=227;thumb=https://cdnua03.hls.tv/cdn/logo/5c3d8044625d290eb68324661eb0233a_high.png;type=hls,Дім HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4780/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4781;category=Розважальні;keycode=228;thumb=https://cdnua03.hls.tv/cdn/logo/3466a8b5a0608bd1bdefec6a2b418dc8_high.png;type=hls,Cars&Stars HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4781/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=5002;category=Розважальні;keycode=230;thumb=https://cdnua03.hls.tv/cdn/logo/154f4d83e498545d6d6713b20044b8ee_high.png;type=fast,Гумор ТБ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/561/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=165;category=Розважальні;keycode=235;thumb=https://cdnua03.hls.tv/cdn/logo/77b35856485e2252a8e7dff45c6d232f_high.png;type=hls,Еко ТБ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/165/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4406;category=Розважальні;keycode=237;thumb=https://cdnua03.hls.tv/cdn/logo/1d0f613d863a26859509236390128192_high.png;type=hls,Сварожичи
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4406/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4874;category=Розважальні;keycode=239;thumb=https://cdnua03.hls.tv/cdn/logo/b89fb13918a6cca42c16fc5da71714ac_high.png;type=hls,Тюсо
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4874/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4843;category=Розважальні;keycode=240;thumb=https://cdnua03.hls.tv/cdn/logo/6ac69b7839aee5db2f4c48ad8a7accac_high.png;type=hls,Розпакуй.ТВ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4843/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=353;category=Розважальні;keycode=241;thumb=https://cdnua03.hls.tv/cdn/logo/e5087f8641ec795416d07718877447ff_high.png;type=hls,Milady
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/353/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=88;category=Розважальні;keycode=242;thumb=https://cdnua03.hls.tv/cdn/logo/e32336eae964c0a8172dd71fa44dbe15_high.png;type=hls,НАТАЛI
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/88/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3645;category=Розважальні;keycode=243;thumb=https://cdnua03.hls.tv/cdn/logo/637b2d6a5b5f8033aaffe09f9c050494_high.png;type=hls,Караван ТВ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3645/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4966;category=Розважальні;keycode=244;thumb=https://cdnua03.hls.tv/cdn/logo/06d733f8afc840230bc819116a57d65e_high.png;type=fast,Ґазда+ HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4804/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3699;category=Музичні;keycode=252;thumb=https://cdnua03.hls.tv/cdn/logo/9b4e924fd0cd477677751359a9dd400e_high.png;type=hls,#Наше ретро
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3699/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=550;category=Музичні;keycode=253;thumb=https://cdnua03.hls.tv/cdn/logo/8744af4ab4e64f1790a43f10d0a9e2a5_high.png;type=hls,НАШЕ Music
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/550/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=456;category=Музичні;keycode=254;thumb=https://cdnua03.hls.tv/cdn/logo/0903f2f620cb121530d8b72c55bd2722_high.png;type=hls,Етно Канал HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/456/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=115;category=Інформаційні;keycode=256;thumb=https://cdnua03.hls.tv/cdn/logo/bd1b82fcf9843e0b9fe14ba9d0f4db6c_high.png;type=hls,Київ
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/115/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3936;category=Регіональні;keycode=258;thumb=https://cdnua03.hls.tv/cdn/logo/c895638440692f272e268b595e08dfce_high.png;type=hls,ATR HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3936/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4051;category=Регіональні;keycode=260;thumb=https://cdnua03.hls.tv/cdn/logo/7bd077c1c6db8526e2b6b248fea518f9_high.png;type=hls,8 канал HD
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4051/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4838;category=Регіональні;keycode=261;thumb=https://cdnua03.hls.tv/cdn/logo/c1da3ed723a718e9d1da469022657656_high.png;type=hls,TV-4
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4838/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=385;category=Регіональні;keycode=262;thumb=https://cdnua03.hls.tv/cdn/logo/0ac1719721111d2ee4f118c778d6d7a3_high.png;type=hls,Капучино TV
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/385/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3948;category=Регіональні;keycode=263;thumb=https://cdnua03.hls.tv/cdn/logo/bd450e5dade4f501c7bed283c4d24dc8_high.png;type=hls,Перший Західний
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3948/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=3606;category=Регіональні;keycode=264;thumb=https://cdnua03.hls.tv/cdn/logo/83da3fdec56ef1462a86f196f682f4fb_high.png;type=hls,Суспільне Крим
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/3606/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4789;category=Регіональні;keycode=272;thumb=https://cdnua03.hls.tv/cdn/logo/b788520dcc90e33487eda1d8bab720ae_high.png;type=hls,Суспільне Тернопіль
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4789/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4793;category=Регіональні;keycode=276;thumb=https://cdnua03.hls.tv/cdn/logo/83c420e36e4b0950bf6d4b13e497165f_high.png;type=hls,Суспільне Запоріжжя
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4793/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4795;category=Регіональні;keycode=277;thumb=https://cdnua03.hls.tv/cdn/logo/1ea171fcdf0285801ccae58206080077_high.png;type=hls,Суспільне Миколаїв
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4795/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4800;category=Регіональні;keycode=282;thumb=https://cdnua03.hls.tv/cdn/logo/b8589cd36111c046eee45e9d01bdb2d2_high.png;type=hls,Суспільне Хмельницкий
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4800/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4802;category=Регіональні;keycode=284;thumb=https://cdnua03.hls.tv/cdn/logo/8a373e6a1258649a095618e5954dccf2_high.png;type=hls,Суспільне Черкаси
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4802/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=5029;category=Розважальні;keycode=285;thumb=https://cdnua03.hls.tv/cdn/logo/a39577324698148c90f544bd26e4bb3d_high.png;type=fast,Один за всіх HD
+https://live1.ssai.tv/out/xutfBM0mtwXs1q4yNrKWTrQNXTzvbdP0/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4954;category=Розважальні;keycode=298;thumb=https://cdnua03.hls.tv/cdn/logo/a5e851bd518d4aea737d4509e8234263_high.png;type=fast,Особливості Нац Роботи HD
+https://live1.ssai.tv/out/0GSN2uYOpAQgUDYQrsQA5oGgdoGpitnB/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=5030;category=Розважальні;keycode=299;thumb=https://cdnua03.hls.tv/cdn/logo/804f85d3858284bbf2a5359d93637e74_high.png;type=fast,Орел і Решка дива світу
+https://live1.ssai.tv/out/9FARFIQ0ipFirDPxH6ByZoSkJmEA7WP8/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4982;category=Фільми;keycode=326;thumb=https://cdnua03.hls.tv/cdn/logo/f9d6f2a06caa87457587514cec5be390_high.png;type=fast,Horrors Prime HD
+https://live1.ssai.tv/out/5MPA7I0nIGR5xRAvU790A1JlVVP7Kog6/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=5031;category=Розважальні;keycode=342;thumb=https://cdnua03.hls.tv/cdn/logo/69679cd0933eb3050948f3cfa4fad48a_high.png;type=fast,Топ-модель по-українськи
+https://live1.ssai.tv/out/exBtDbzVlsHc0Xia10fuEO4JAcA4gnn6/master.m3u8?cdn=cdnua03.hls.tv&path_prefix=__host__%2Ffast_adaptek
+#EXTINF:aspect-ratio=4:3;id=4826;category=Радiо;keycode=360;thumb=https://cdnua03.hls.tv/cdn/logo/3b0299cb044df62a53dc7d14da1f9c47_high.png;type=hls,Хіт FM
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4826/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4619;category=Радiо;keycode=361;thumb=https://cdnua03.hls.tv/cdn/logo/1e906ba1c915086a34a2e7635c2fa33a_high.png;type=hls,Радіо Промінь
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4619/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4622;category=Радiо;keycode=362;thumb=https://cdnua03.hls.tv/cdn/logo/5169635d6a4c15136393a81514057f18_high.png;type=hls,Українське радіо
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4622/stream.m3u8
+#EXTINF:aspect-ratio=4:3;id=4625;category=Радiо;keycode=363;thumb=https://cdnua03.hls.tv/cdn/logo/436d48ee26d120a5ec3daad4b89dcb68_high.png;type=hls,Радiо Культура
+https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4625/stream.m3u8
