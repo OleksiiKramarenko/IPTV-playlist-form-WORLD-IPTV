@@ -23809,3 +23809,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia1-7.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia1-8.m3u8
 #EXTINF:-1 group-title="РОССИЯ 1+ 🇷🇺",Россия 1 (+9) HD
 https://livetv.mylifeisgood.net.ru/channels/russia1-9.m3u8
+#EXTINF:-1 group-title=""Claruty4k UHD" tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",http://tinyurl.com/IPZATAK
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="КиноПлюс"  tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",В Telegram
+https://nhl-firetv.amagi.tv/playlist.m3u8&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
