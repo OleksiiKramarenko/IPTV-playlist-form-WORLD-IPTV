@@ -23955,3 +23955,5 @@ http://1rossiya.ydns.eu:80/testserver/testserver/293.ts
 http://1rossiya.ydns.eu:80/testserver/testserver/295.ts
 #EXTINF:-1 tvg-id="" tvg-name="Russian Extreme Ultra HD" tvg-logo="https://ip-tv.dev/images/ico/russian-extreme-uhd.png" group-title="КИНО",Russian Extreme Ultra HD
 http://1rossiya.ydns.eu:80/testserver/testserver/316.ts
+#EXTINF:-1 group-title="🇺🇿 Telegram",Мировое IPTV
+https://files.catbox.moe/3aztcy.mp4
