@@ -23957,3 +23957,5 @@ http://1rossiya.ydns.eu:80/testserver/testserver/295.ts
 http://1rossiya.ydns.eu:80/testserver/testserver/316.ts
 #EXTINF:-1 group-title="🇺🇿 Telegram",Мировое IPTV
 https://files.catbox.moe/3aztcy.mp4
+#EXTINF:-1 group-title="РОССИЯ 1+ 🇷🇺",Россия 1 (+3) FD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/792000_576p.m3u8
