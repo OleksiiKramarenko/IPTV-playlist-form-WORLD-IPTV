@@ -23815,3 +23815,143 @@ http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
 https://nhl-firetv.amagi.tv/playlist.m3u8&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Российские",Россия К HD +2
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="🏐Обновление" tvg-id="no_epg"  tvg-logo="https://i.ibb.co/jbshp7h/smile.png",Обновление: 01.03.2026
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/165669.ts
+#EXTINF:-1 group-title="🏐Эд Суровый🏐" tvg-id="no_epg"  tvg-logo="https://i.postimg.cc/sxdmMBLW/one-qr-ru-HUWf-UCO3-V-png123.jpg", Поблагодарить автора!..
+https://dl.dropbox.com/scl/fi/9vb7p4bq40faxwinjvabu/OST-Atomic-Heart-_-Komarovo-DVRST-Phonk-Remix.mp4?rlkey=lriw09mj1um4jfn95fx0siggi&st=qh27flvq&dl=0
+#EXTINF:-1 group-title="🏐Эд Суровый🏐" tvg-logo="https://i.ibb.co/NYrtnZr/Screenshot-2.jpg" tvg-id="no_epg_radio", 🏐С наступающими всегда буду рад донату!🏐
+https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/429359
+#EXTINF:-1 group-title="🏐Эд Суровый🏐" tvg-logo="https://i.ibb.co/hmZhgx3/Screenshot-1.jpg" tvg-id="no_epg_radio", 🏐Весеннее радио🏐
+https://ic1.radiosignal.one/deep
+#EXTINF:-1 group-title="🏐Эд Суровый🏐" tvg-logo="https://i.ibb.co/J3jHL27/Screenshot-3.jpg" tvg-id="no_epg_radio", 🏐Хит FM🏐
+https://hitfm-newyear.hostingradio.ru/hitnewyear96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="ПЕРВЫЙ КАНАЛ HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdlpT_z7ob6QAo1wlGuwPrl.png" group-title="РОССИЯ",ПЕРВЫЙ КАНАЛ HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="РОССИЯ 1 HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdSzVnCXDYqVYikY4PnpCPH.png" group-title="РОССИЯ",РОССИЯ 1 HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="НТВ HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLf5BFtqPDWOxXOj97MufZr3.png" group-title="РОССИЯ",НТВ HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="СТС HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfY4hG-Yf0AxLdvaul0kFOT.png" group-title="РОССИЯ",СТС HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfqZ61tkWIRe0JCtGnoAK-s.png" group-title="РОССИЯ",ТНТ HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="ТВ ЦЕНТР HD" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfJerjz75Kp3MFFrzX7-MT9.png" group-title="РОССИЯ",ТВ ЦЕНТР HD
+http://1rossiya.ydns.eu:80/testserver/testserver/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="РЕН ТВ HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdD8IpNIsfkXoOc_1dL2o4p.png" group-title="РОССИЯ",РЕН ТВ HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="ТВ-3 HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfmTNh7sHGF2COCR0CIhPmG.png" group-title="РОССИЯ",ТВ-3 HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="СУББОТА! HD (ORIG)" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLeU4e7i9jTCzGrB54ziTGI_.png" group-title="РОССИЯ",СУББОТА! HD (ORIG)
+http://1rossiya.ydns.eu:80/testserver/testserver/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="Супер+ HD" tvg-logo="https://ip-tv.dev/images/epg/1962.png?v1760092765" group-title="РОССИЯ",Супер+ HD
+http://1rossiya.ydns.eu:80/testserver/testserver/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Планета РТР" tvg-logo="https://ip-tv.dev/images/ico/rtr-planeta.png" group-title="РОССИЯ",Планета РТР
+http://1rossiya.ydns.eu:80/testserver/testserver/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Первый Российский Национальный канал" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2fuea-ThQ13NN-VfmAdFujIvw0ItLqK_KQ1gi_cQU7or.png" group-title="РОССИЯ",Первый Российский Национальный канал
+http://1rossiya.ydns.eu:80/testserver/testserver/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="СОЛОВЬЕВ.LIVE" tvg-logo="" group-title="РОССИЯ",СОЛОВЬЕВ.LIVE
+http://1rossiya.ydns.eu:80/testserver/testserver/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="ОНТ БЕЛАРУСЬ" tvg-logo="http://1rossiya.ydns.eu:80/images/C6gPd8L7JlbWN-YpgYQuLCET9eUnyXRKNgkiZqtm06IvhJtuk_Ur12nysYiJOn2Y9IKIdeEVwECWL6SrlBvr-w.jpg" group-title="РОССИЯ",ОНТ БЕЛАРУСЬ
+http://1rossiya.ydns.eu:80/testserver/testserver/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="ОХОТНИК И РЫБОЛОВ INT" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfXAw52SgJLL7ss0XL0dxwBF195HCJwHOYtwOhEErPfOw.png" group-title="РОССИЯ",ОХОТНИК И РЫБОЛОВ INT
+http://1rossiya.ydns.eu:80/testserver/testserver/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="ТЕЛЕКАНАЛ Е HD" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdNiLGKN11qrVc-TOJW0dfI.png" group-title="РОССИЯ",ТЕЛЕКАНАЛ Е HD
+http://1rossiya.ydns.eu:80/testserver/testserver/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="DETECTIVEJAM" tvg-logo="" group-title="РОССИЯ",DETECTIVEJAM
+http://1rossiya.ydns.eu:80/testserver/testserver/158.ts
+#EXTINF:-1 tvg-id="" tvg-name="ФУТБОЛЬНЫЙ" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdD6DMoXdRcMHDKiBtzMZgg.png" group-title="РОССИЯ",ФУТБОЛЬНЫЙ
+http://1rossiya.ydns.eu:80/testserver/testserver/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="ХОККЕЙНЫЙ" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLexbn46H-FyYrsTSi8gxsnP.png" group-title="РОССИЯ",ХОККЕЙНЫЙ
+http://1rossiya.ydns.eu:80/testserver/testserver/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="БУМ" tvg-logo="http://1rossiya.ydns.eu:80/images/C6gPd8L7JlbWN-YpgYQuLCET9eUnyXRKNgkiZqtm06IPMzof-RoBB6D9YFj2wRWJ_OP625nz3_hAqUAL1TsMAw.png" group-title="РОССИЯ",БУМ
+http://1rossiya.ydns.eu:80/testserver/testserver/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="ПОЕДИНОК" tvg-logo="../Channel/Logo/Поехали!.png" group-title="РОССИЯ",ПОЕДИНОК
+http://1rossiya.ydns.eu:80/testserver/testserver/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="ИСКУССТВО" tvg-logo="" group-title="РОССИЯ",ИСКУССТВО
+http://1rossiya.ydns.eu:80/testserver/testserver/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="RU.TV FHD" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfo4wBCW-YLGFx3YG2VAL84.png" group-title="РОССИЯ",RU.TV FHD
+http://1rossiya.ydns.eu:80/testserver/testserver/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUSONG TV" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLdwZwD5Oab8P5UbCYNT6HV6HjXEN155mrmG2zorl6GAiA.png" group-title="РОССИЯ",RUSONG TV
+http://1rossiya.ydns.eu:80/testserver/testserver/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="KINOJAM 1" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLeeg69atfJlaX0UNulE0JJs.png" group-title="КИНО",KINOJAM 1
+http://1rossiya.ydns.eu:80/testserver/testserver/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="KINOJAM 2" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLe_Y7MTI7ced9VsqKZ5L01G.png" group-title="КИНО",KINOJAM 2
+http://1rossiya.ydns.eu:80/testserver/testserver/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIONХИТ" tvg-logo="" group-title="КИНО",KIONХИТ
+http://1rossiya.ydns.eu:80/testserver/testserver/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="АГЕНТ НАЦИОНАЛЬНОЙ БЕЗОПАСНОСТИ" tvg-logo="" group-title="КИНО",АГЕНТ НАЦИОНАЛЬНОЙ БЕЗОПАСНОСТИ
+http://1rossiya.ydns.eu:80/testserver/testserver/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="АНИМЕ HD" tvg-logo="&#46;&#46;/Channel/Logo/Мультимания.png" group-title="КИНО",АНИМЕ HD
+http://1rossiya.ydns.eu:80/testserver/testserver/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="БОЕВИКИ HD" tvg-logo="&#46;&#46;/Channel/Logo/Матч! Боец.png" group-title="КИНО",БОЕВИКИ HD
+http://1rossiya.ydns.eu:80/testserver/testserver/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="КИНО ТВ HD +4" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfr2HxuysWlfgkEX96By156.png" group-title="КИНО",КИНО ТВ HD +4
+http://1rossiya.ydns.eu:80/testserver/testserver/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="МЕНТОВСКИЕ ВОЙНЫ" tvg-logo="&#46;&#46;/Channel/Logo/Тюменское время.png" group-title="КИНО",МЕНТОВСКИЕ ВОЙНЫ
+http://1rossiya.ydns.eu:80/testserver/testserver/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="МЕТН В ЗАКОНЕ" tvg-logo="" group-title="КИНО",МЕТН В ЗАКОНЕ
+http://1rossiya.ydns.eu:80/testserver/testserver/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="ПРЕМИАЛЬНОЕ HD +4" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLeacUSPszlp7Bhl1GuPdYBo.png" group-title="КИНО",ПРЕМИАЛЬНОЕ HD +4
+http://1rossiya.ydns.eu:80/testserver/testserver/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="СВАТЫ" tvg-logo="http://1rossiya.ydns.eu:80/images/C6gPd8L7JlbWN-YpgYQuLCET9eUnyXRKNgkiZqtm06Jp6REu14ZM4zylKoCXmG-AhM4CvmWBJemvcFoJc64A7g.png" group-title="КИНО",СВАТЫ
+http://1rossiya.ydns.eu:80/testserver/testserver/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="СЛЕД" tvg-logo="" group-title="КИНО",СЛЕД
+http://1rossiya.ydns.eu:80/testserver/testserver/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="РЕТРО КИНО" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLcm2kkI1PgD3lRoVfN1aI-1.png" group-title="КИНО",РЕТРО КИНО
+http://1rossiya.ydns.eu:80/testserver/testserver/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="СЛЕДСТВИЕ ВЕЛИ" tvg-logo="" group-title="КИНО",СЛЕДСТВИЕ ВЕЛИ
+http://1rossiya.ydns.eu:80/testserver/testserver/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="СОЛДАТЫ" tvg-logo="http://1rossiya.ydns.eu:80/images/C6gPd8L7JlbWN-YpgYQuLCET9eUnyXRKNgkiZqtm06J4oPYWIvUfnVHY1NO3EGjdqYn95Ay3-MRDtKQNFLYWWw.png" group-title="КИНО",СОЛДАТЫ
+http://1rossiya.ydns.eu:80/testserver/testserver/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="ИСТОРИЧЕСКИЙ HD" tvg-logo="&#46;&#46;/Channel/Logo/История.png" group-title="КИНО",ИСТОРИЧЕСКИЙ HD
+http://1rossiya.ydns.eu:80/testserver/testserver/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="УСБ.ТОРЖЕСТВО ЗАКОНА" tvg-logo="" group-title="КИНО",УСБ.ТОРЖЕСТВО ЗАКОНА
+http://1rossiya.ydns.eu:80/testserver/testserver/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="ХИТ" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfUJst3nJo1Cvb-uykkmBGV.png" group-title="КИНО",ХИТ
+http://1rossiya.ydns.eu:80/testserver/testserver/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="ШОКИРУЮЩЕЕ" tvg-logo="http://1rossiya.ydns.eu:80/images/pNJJEFQY1BCIpvTEfZRTCecBC_KhVDz4YCpR8erluLfbAPx1ugPOz6pHOgdkKXHcUlm3fYtx4ypsQsqQrs9IjQ.png" group-title="КИНО",ШОКИРУЮЩЕЕ
+http://1rossiya.ydns.eu:80/testserver/testserver/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2dolybKvgRlBWVKDd5w-H9xxZccJ57Nf9poA81cTESRPVMwRgsbHJoJ_bySXzyQ7fg.png" group-title="КИНО",Viju TV1000 Русское кино HD
+http://1rossiya.ydns.eu:80/testserver/testserver/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Наше любимое кино UA" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2Rh1IjUIqZYb9BmDi_X3O22_5pNdpux0V3RucTOJT0EJPA6OHc8q0oEP-MiO-WVj0g.png" group-title="КИНО",Наше любимое кино UA
+http://1rossiya.ydns.eu:80/testserver/testserver/215.ts
+#EXTINF:-1 tvg-id="" tvg-name=".red SD" tvg-logo="https://ip-tv.dev/epg/icon/sony.png" group-title="КИНО",.red SD
+http://1rossiya.ydns.eu:80/testserver/testserver/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Серіал Україна 1" tvg-logo="https://ip-tv.dev/images/epg/1667.png?v1743767456" group-title="КИНО",Серіал Україна 1
+http://1rossiya.ydns.eu:80/testserver/testserver/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Серіал Україна 2" tvg-logo="https://ip-tv.dev/images/epg/1667.png?v1743767456" group-title="КИНО",Серіал Україна 2
+http://1rossiya.ydns.eu:80/testserver/testserver/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="1+1 Кіно" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2TrMTFqxUriL5iv08OwDxeQnn6kEsXld_UGMH-cWoqfL.png" group-title="КИНО",1+1 Кіно
+http://1rossiya.ydns.eu:80/testserver/testserver/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Твоє Кіно Хіт" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2ad7oY6nt7JmY0mYYV77S39s1kZj5XHCgD4VvBctnWD5.png" group-title="КИНО",Твоє Кіно Хіт
+http://1rossiya.ydns.eu:80/testserver/testserver/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Твоє Кіно Action" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2ad7oY6nt7JmY0mYYV77S3-pZhoDD9jvRT4ZwaYvjdzL.png" group-title="КИНО",Твоє Кіно Action
+http://1rossiya.ydns.eu:80/testserver/testserver/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Твоє Кіно Relax" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2ad7oY6nt7JmY0mYYV77S39dG2ZK7-TLfrSVbT8buQma.png" group-title="КИНО",Твоє Кіно Relax
+http://1rossiya.ydns.eu:80/testserver/testserver/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="FilmUA Drama" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2V-6-oSYRG5qPgggr55PPK5hs3Tt5sdstshrmsHNHE0U.png" group-title="КИНО",FilmUA Drama
+http://1rossiya.ydns.eu:80/testserver/testserver/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="FamilyJam" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2RxrEVuug5d-7LQPQAxYbvS8NSYJDzvlaU64sWPjiKuC.png" group-title="КИНО",FamilyJam
+http://1rossiya.ydns.eu:80/testserver/testserver/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="FilmZone" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2V-6-oSYRG5qPgggr55PPK60NHBR0umArjBYYf9wBcv_.png" group-title="КИНО",FilmZone
+http://1rossiya.ydns.eu:80/testserver/testserver/274.ts
+#EXTINF:-1 tvg-id="" tvg-name="FilmZone Plus" tvg-logo="http://1rossiya.ydns.eu:80/images/CTiFqVG1ak5nQ9gImXRa2V-6-oSYRG5qPgggr55PPK6mX1B4VS8FETthysX3UG54.png" group-title="КИНО",FilmZone Plus
+http://1rossiya.ydns.eu:80/testserver/testserver/275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351" group-title="КИНО",Киносериал
+http://1rossiya.ydns.eu:80/testserver/testserver/283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390" group-title="КИНО",Кинодрама
+http://1rossiya.ydns.eu:80/testserver/testserver/284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638" group-title="КИНО",Семейное Кино
+http://1rossiya.ydns.eu:80/testserver/testserver/285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707" group-title="КИНО",Премиум Кино
+http://1rossiya.ydns.eu:80/testserver/testserver/286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834" group-title="КИНО",Кинобоевик
+http://1rossiya.ydns.eu:80/testserver/testserver/287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bolt HD Украина" tvg-logo="https://ip-tv.dev/images/ico/bolt.png" group-title="КИНО",Bolt HD Украина
+http://1rossiya.ydns.eu:80/testserver/testserver/289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino 1" tvg-logo="https://ip-tv.dev/images/ico/kino-1.png" group-title="КИНО",Kino 1
+http://1rossiya.ydns.eu:80/testserver/testserver/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ProKino" tvg-logo="https://ip-tv.dev/images/epg/1982.png?v1763405324" group-title="КИНО",ProKino
+http://1rossiya.ydns.eu:80/testserver/testserver/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Russian Extreme Ultra HD" tvg-logo="https://ip-tv.dev/images/ico/russian-extreme-uhd.png" group-title="КИНО",Russian Extreme Ultra HD
+http://1rossiya.ydns.eu:80/testserver/testserver/316.ts
