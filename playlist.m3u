@@ -23961,3 +23961,9 @@ https://files.catbox.moe/3aztcy.mp4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/792000_576p.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="iptv.org 2",Точка
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="😄 Кинокомедия" tvg-id="6404" tvg-logo="http://epg.it999.ru/img/6404.png" tvg-rec="0",Prokop TV Comedy
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/18143/index.m3u8
+#EXTINF:0 group-title="😄 Кинокомедия" tvg-id="7904" tvg-logo="http://epg.it999.ru/img/7904.png" tvg-rec="0",Cobra Comedy HD
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20212/index.m3u8
+#EXTINF:0 group-title="💖 Мелодрама" tvg-id="7906" tvg-logo="http://epg.it999.ru/img/7906.png" tvg-rec="0",Cobra Melodrama HD
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20214/index.m3u8
