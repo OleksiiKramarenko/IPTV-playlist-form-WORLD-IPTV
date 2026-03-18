@@ -103,16 +103,26 @@ M3U_RE = re.compile(r'https?://[^\s"\'<>]*\.m3u8?(?:[?&][^\s"\'<>]*)?', re.IGNOR
 # ── Загрузка исключений ──────────────────────────────────────────────────────
 
 def load_excludes():
-    keywords = set()
+    normal_keywords = set()
+    strict_keywords = set()
+    
     if os.path.exists(EXCLUDE_FILE):
         with open(EXCLUDE_FILE, encoding="utf-8") as f:
             for line in f:
                 line = line.split("#")[0].strip().lower()
-                if line:
-                    keywords.add(line)
-    return list(keywords)
+                if not line:
+                    continue
+                
+                if line.startswith("^"):
+                    # Строгий режим (только целое слово)
+                    strict_keywords.add(line[1:]) # убираем ^
+                else:
+                    # Обычный режим (частичное совпадение)
+                    normal_keywords.add(line)
+                    
+    return list(normal_keywords), list(strict_keywords)
 
-EXCLUDE_KEYWORDS = load_excludes()
+EXCLUDE_KEYWORDS, STRICT_KEYWORDS = load_excludes()
 
 # ── Парсинг m3u ──────────────────────────────────────────────────────────────
 
@@ -193,12 +203,24 @@ def normalize_group(group_name: str) -> str:
 def is_excluded(name: str, group: str) -> bool:
     """
     Проверяем и название, и группу.
-    Если хотя бы одно ключевое слово найдено - возвращаем True (исключить).
+    1. Обычные ключевые слова (частичное совпадение)
+    2. Строгие ключевые слова (целое слово, \bword\b)
     """
     text_to_check = (name + " " + group).lower()
+    
+    # 1. Обычный поиск (подстрока)
     for kw in EXCLUDE_KEYWORDS:
         if kw in text_to_check:
             return True
+            
+    # 2. Строгий поиск (целое слово)
+    if STRICT_KEYWORDS:
+        # Используем regex для поиска целых слов
+        # Экранируем keywords на всякий случай
+        pattern = r'\b(' + '|'.join(map(re.escape, STRICT_KEYWORDS)) + r')\b'
+        if re.search(pattern, text_to_check):
+            return True
+            
     return False
 
 def channels_to_m3u(channels: list[dict]) -> str:
