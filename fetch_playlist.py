@@ -23,7 +23,7 @@ PLAYLIST_FILE  = "playlist.m3u"
 STATS_FILE     = "channel_stats.json"
 EXCLUDE_FILE   = "exclude.txt"
 
-DAYS_BACK      = 3       # Брать посты не старше N дней
+DAYS_BACK      = 5       # Брать посты не старше N дней
 CHECK_WORKERS  = 50      # Количество потоков для проверки
 CHECK_TIMEOUT  = 4       # Тайм-аут проверки (сек)
 FAIL_LIMIT     = 2       # Удалять старые каналы после N провалов подряд
