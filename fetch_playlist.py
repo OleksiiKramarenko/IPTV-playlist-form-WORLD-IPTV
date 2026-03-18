@@ -23,7 +23,7 @@ PLAYLIST_FILE  = "playlist.m3u"
 STATS_FILE     = "channel_stats.json"
 EXCLUDE_FILE   = "exclude.txt"
 
-DAYS_BACK      = 5       # Брать посты не старше N дней
+DAYS_BACK      = 3       # Брать посты не старше N дней
 CHECK_WORKERS  = 50      # Количество потоков для проверки
 CHECK_TIMEOUT  = 4       # Тайм-аут проверки (сек)
 FAIL_LIMIT     = 2       # Удалять старые каналы после N провалов подряд
@@ -57,6 +57,9 @@ GROUP_MAPPING = {
     "футбол": "Спорт",
     "match": "Спорт",
     "ufc": "Спорт",
+    "nhl": "Спорт",
+    "nba": "Спорт",
+    "khl": "Спорт",
 
     "детские": "Детские",
     "kids": "Детские",
@@ -67,6 +70,7 @@ GROUP_MAPPING = {
     "діти": "Детские",
     "мульт": "Детские",
     "baby": "Детские",
+    "disney": "Детские",
 
     "музыка": "Music",
     "music": "Music",
@@ -74,6 +78,8 @@ GROUP_MAPPING = {
     "radio": "Music",
     "радио": "Music",
     "музон": "Music",
+    "mtv": "Music",
+    "muz": "Music",
 
     "познавательные": "Познавательные",
     "science": "Познавательные",
@@ -81,14 +87,22 @@ GROUP_MAPPING = {
     "history": "Познавательные",
     "education": "Познавательные",
     "nature": "Познавательные",
+    "animal": "Познавательные",
 
     "развлекательные": "Развлекательные",
+    "развлечение": "Развлекательные",
     "entertainment": "Развлекательные",
     "hobby": "Развлекательные",
     "хобби": "Развлекательные",
     "юмор": "Развлекательные",
     "humor": "Развлекательные",
     "relax": "Relax",
+    "tnt": "Развлекательные",
+    "sts": "Развлекательные",
+
+    "news": "Новости",
+    "новости": "Новости",
+    "info": "Новости",
 
     "взрослые": "Adult",
     "xxx": "Adult",
@@ -101,7 +115,7 @@ HEADERS = {
 
 M3U_RE = re.compile(r'https?://[^\s"\'<>]*\.m3u8?(?:[?&][^\s"\'<>]*)?', re.IGNORECASE)
 
-# ── Загрузка исключений ──────────────────────────────────────────────────────
+# ── Загрузка настроек ──────────────────────────────────────────────────────
 
 def load_excludes():
     normal_keywords = set()
@@ -151,7 +165,11 @@ def parse_m3u(content: str) -> list[dict]:
                     group = extract_group(meta)
                     logo = extract_logo(meta)
                     
-                    # Нормализуем группу сразу при парсинге
+                    # Если группы нет - пытаемся определить по имени
+                    if not group:
+                        group = guess_group(name)
+                        
+                    # Нормализуем группу
                     normalized_group = normalize_group(group)
                     
                     # 1. Проверка на VOD (по расширению файла)
@@ -189,10 +207,24 @@ def extract_logo(meta: str) -> str:
     m = re.search(r'tvg-logo="([^"]*)"', meta, re.IGNORECASE)
     return m.group(1).strip() if m else ""
 
+def guess_group(name: str) -> str:
+    """Пытается угадать группу по ключевым словам в названии"""
+    if not name:
+        return "Разное"
+        
+    lower_name = name.lower()
+    
+    # Пробегаемся по словарю маппинга, может найдем знакомые слова
+    for key, val in GROUP_MAPPING.items():
+        if key in lower_name:
+            return val
+            
+    return "Разное"
+
 def normalize_group(group_name: str) -> str:
     """Приводит разные названия групп к единому стандарту"""
     if not group_name:
-        return ""
+        return "Разное"
     lower_name = group_name.lower().strip()
     
     # Проверяем полное совпадение с ключом
@@ -211,9 +243,15 @@ def is_excluded(name: str, group: str) -> bool:
     Проверяем и название, и группу.
     1. Обычные ключевые слова (частичное совпадение)
     2. Строгие ключевые слова (целое слово, \bword\b)
+    3. Regex на фильмы с годами (2023)
     """
     text_to_check = (name + " " + group).lower()
     
+    # 0. Фильтр фильмов по году: (19xx) или (20xx)
+    # Это убирает "Movie Name (2023)"
+    if re.search(r'\((?:19|20)\d{2}\)', name):
+        return True
+
     # 1. Обычный поиск (подстрока)
     for kw in EXCLUDE_KEYWORDS:
         if kw in text_to_check:
