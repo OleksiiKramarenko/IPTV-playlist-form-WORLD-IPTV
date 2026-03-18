@@ -8,6 +8,7 @@ IPTV Playlist Auto-Updater v3
 """
 
 import os
+from typing import Optional
 import re
 import sys
 import json
@@ -30,38 +31,42 @@ FAIL_LIMIT     = 2       # Удалять старые каналы после N
 MIN_GROUP_SIZE       = 10    # Если в группе меньше N каналов - удаляем всю группу
 ENABLE_DEDUPLICATION = False  # 1 = включить умную дедупликацию, 0 = выключить (оставить все дубли)
 
+# Расширения файлов, которые считаем VOD (фильмы/сериалы) и отфильтровываем
+VOD_EXTENSIONS = {'.mp4', '.mkv', '.avi', '.mov', '.flv', '.wmv', '.asf', '.webm', '.mpg', '.mpeg'}
+
 # Нормализация названий групп (синонимы -> единое название)
 GROUP_MAPPING = {
-    "кино": "Cinema",
-    "фильмы": "Cinema",
-    "movies": "Cinema",
-    "фильм": "Cinema",
-    "cinema": "Cinema",
-    "kino": "Cinema",
-    "kinozal": "Cinema",
-    "кинозал": "Cinema",
+    "кино": "Фильмы",
+    "фильмы": "Фильмы",
+    "movies": "Фильмы",
+    "фильм": "Фильмы",
+    "cinema": "Фильмы",
+    "kino": "Фильмы",
+    "melodrama": "Фильмы",
+    "мелодрама": "Фильмы",
+    
+    "kinozal": "Кинозалы",
+    "кинозал": "Кинозалы",
     "serial": "Cinema",
-    "сериал": "Cinema",
-    "melodrama": "Cinema",
-    "мелодрама": "Cinema",
+    "сериал": "Сериалы",
 
-    "спорт": "Sports",
-    "sport": "Sports",
-    "football": "Sports",
-    "soccer": "Sports",
-    "футбол": "Sports",
-    "match": "Sports",
-    "ufc": "Sports",
+    "спорт": "Спорт",
+    "sport": "Спорт",
+    "football": "Спорт",
+    "soccer": "Спорт",
+    "футбол": "Спорт",
+    "match": "Спорт",
+    "ufc": "Спорт",
 
-    "детские": "Kids",
-    "kids": "Kids",
-    "мультфильмы": "Kids",
-    "cartoons": "Kids",
-    "animation": "Kids",
-    "children": "Kids",
-    "діти": "Kids",
-    "мульт": "Kids",
-    "baby": "Kids",
+    "детские": "Детские",
+    "kids": "Детские",
+    "мультфильмы": "Детские",
+    "cartoons": "Детские",
+    "animation": "Детские",
+    "children": "Детские",
+    "діти": "Детские",
+    "мульт": "Детские",
+    "baby": "Детские",
 
     "музыка": "Music",
     "music": "Music",
@@ -70,24 +75,20 @@ GROUP_MAPPING = {
     "радио": "Music",
     "музон": "Music",
 
-    "новости": "News",
-    "news": "News",
-    "info": "News",
+    "познавательные": "Познавательные",
+    "science": "Познавательные",
+    "discovery": "Познавательные",
+    "history": "Познавательные",
+    "education": "Познавательные",
+    "nature": "Познавательные",
 
-    "познавательные": "Science",
-    "science": "Science",
-    "discovery": "Science",
-    "history": "Science",
-    "education": "Science",
-    "nature": "Science",
-
-    "развлекательные": "Entertainment",
-    "entertainment": "Entertainment",
-    "hobby": "Entertainment",
-    "хобби": "Entertainment",
-    "юмор": "Entertainment",
-    "humor": "Entertainment",
-    "relax": "Entertainment",
+    "развлекательные": "Развлекательные",
+    "entertainment": "Развлекательные",
+    "hobby": "Развлекательные",
+    "хобби": "Развлекательные",
+    "юмор": "Развлекательные",
+    "humor": "Развлекательные",
+    "relax": "Relax",
 
     "взрослые": "Adult",
     "xxx": "Adult",
@@ -153,7 +154,12 @@ def parse_m3u(content: str) -> list[dict]:
                     # Нормализуем группу сразу при парсинге
                     normalized_group = normalize_group(group)
                     
-                    if not is_excluded(name, normalized_group):
+                    # 1. Проверка на VOD (по расширению файла)
+                    is_vod = any(url.lower().endswith(ext) for ext in VOD_EXTENSIONS)
+                    
+                    # 2. Проверка на исключения (по имени и группе)
+                    # Проверяем и по нормализованной, и по оригинальной группе
+                    if not is_vod and not is_excluded(name, normalized_group) and not is_excluded(name, group):
                         channels.append({
                             "meta": meta, # Сохраняем оригинал meta для совместимости, но будем пересобирать
                             "url":  url,
@@ -300,7 +306,7 @@ def save_stats(stats: dict):
 
 # ── Проверка ссылок ──────────────────────────────────────────────────────────
 
-def check_url(url: str) -> float | None:
+def check_url(url: str) -> Optional[float]:
     try:
         start = time.monotonic()
         # Сначала HEAD (быстро)
