@@ -286,7 +286,7 @@ def update_library():
     with ThreadPoolExecutor(max_workers=5) as ex:
         futures = {ex.submit(requests.get, url, headers=HEADERS, timeout=15): url for url in new_links}
         for f in as_completed(futures):
-            url = futures[future]
+            url = futures[f]
             try:
                 r = f.result()
                 if r.status_code == 200:
