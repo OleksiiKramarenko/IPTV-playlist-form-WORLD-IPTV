@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IPTV Playlist Auto-Updater v4 (Refactored)
+IPTV Playlist Auto-Updater v4.1 (Refactored)
 Workflow:
 1. Run with --update:
    - Fetches .m3u links from Telegram.
@@ -270,21 +270,24 @@ def update_library():
         sys.exit(1)
 
     lib = load_library()
-    existing_urls = {pl["url"] for pl in lib["playlists"]}
+    # Map of existing URLs to their playlist objects for easy access
+    existing_playlists = {pl["url"]: pl for pl in lib["playlists"]}
 
     links = fetch_links(CHANNEL, DAYS_BACK)
-    new_links = [l for l in links if l not in existing_urls]
     
-    print(f"Found {len(links)} links, {len(new_links)} are new.")
+    # We process ALL found links to update their group lists (in case new groups appeared in old playlists)
+    # But we prioritize showing "New" count
+    new_links_count = sum(1 for l in links if l not in existing_playlists)
+    print(f"Found {len(links)} links, {new_links_count} are new.")
 
-    if not new_links:
-        print("No new playlists found.")
+    if not links:
+        print("No playlists found.")
         return
 
-    count_new_groups = 0
+    updated_count = 0
     
     with ThreadPoolExecutor(max_workers=5) as ex:
-        futures = {ex.submit(requests.get, url, headers=HEADERS, timeout=15): url for url in new_links}
+        futures = {ex.submit(requests.get, url, headers=HEADERS, timeout=15): url for url in links}
         for f in as_completed(futures):
             url = futures[f]
             try:
@@ -293,32 +296,40 @@ def update_library():
                     channels = parse_m3u(r.text)
                     if not channels: continue
                     
-                    # Group channels
-                    groups = {}
+                    # 1. Identify all groups in this playlist
+                    found_groups = set()
                     for ch in channels:
-                        g_name = ch["group"]
-                        if g_name not in groups:
-                            groups[g_name] = {"enabled": False, "channels": []}
-                        # Remove 'group' key from channel dict to save space (it's in the key)
-                        ch_copy = ch.copy()
-                        del ch_copy["group"]
-                        groups[g_name]["channels"].append(ch_copy)
+                        found_groups.add(ch["group"])
                     
-                    # Add to library
-                    lib["playlists"].append({
+                    # 2. Get existing config for this playlist (if any)
+                    pl_entry = existing_playlists.get(url, {
                         "url": url,
                         "date_added": datetime.now().isoformat(),
                         "name": f"Playlist from {datetime.now().strftime('%Y-%m-%d')}",
-                        "groups": groups
+                        "groups": {}
                     })
-                    count_new_groups += len(groups)
-                    print(f"Processed: {url} ({len(channels)} channels)")
+                    
+                    # 3. Update groups (preserve enabled status)
+                    existing_groups = pl_entry.get("groups", {})
+                    new_groups_config = {}
+                    
+                    for g_name in sorted(found_groups):
+                        # Preserve existing setting, default to False
+                        is_enabled = existing_groups.get(g_name, {}).get("enabled", False)
+                        new_groups_config[g_name] = {"enabled": is_enabled}
+                    
+                    pl_entry["groups"] = new_groups_config
+                    existing_playlists[url] = pl_entry
+                    updated_count += 1
+                    print(f"Processed: {url} ({len(found_groups)} groups)")
             except Exception as e:
                 print(f"Failed to download {url}: {e}")
 
+    # Rebuild library list
+    lib["playlists"] = list(existing_playlists.values())
     save_library(lib)
-    print(f"Library updated. Added {len(new_links)} playlists with {count_new_groups} groups.")
-    print(f"All new groups are DISABLED. Please edit '{LIBRARY_FILE}' to enable them.")
+    print(f"Library updated. Processed {updated_count} playlists.")
+    print(f"Edit '{LIBRARY_FILE}' to enable groups.")
 
 # ── Workflow: Generate ───────────────────────────────────────────────────────
 
@@ -329,22 +340,41 @@ def generate_playlist():
     
     candidates = []
     
-    # Collect enabled channels
+    # 1. Identify enabled playlists and groups
+    tasks = []
     for pl in lib["playlists"]:
-        groups = pl.get("groups", {})
-        for g_name, g_data in groups.items():
-            if g_data.get("enabled", False) is True:
-                # Add group name back to channel objects
-                for ch in g_data.get("channels", []):
-                    ch_full = ch.copy()
-                    ch_full["group"] = g_name
-                    candidates.append(ch_full)
-    
-    print(f"Collected {len(candidates)} candidates from enabled groups.")
-    
-    if not candidates:
-        print(f"No channels enabled! Edit '{LIBRARY_FILE}' and set 'enabled': true for some groups.")
+        url = pl["url"]
+        enabled_groups = {g for g, data in pl.get("groups", {}).items() if data.get("enabled", False)}
+        
+        if enabled_groups:
+            tasks.append((url, enabled_groups))
+            
+    if not tasks:
+        print(f"No groups enabled! Edit '{LIBRARY_FILE}' and set 'enabled': true for some groups.")
         sys.exit(0)
+
+    print(f"Re-fetching {len(tasks)} playlists to extract enabled channels...")
+
+    # 2. Re-fetch and parse
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        futures = {}
+        for url, enabled_groups in tasks:
+            futures[ex.submit(requests.get, url, headers=HEADERS, timeout=15)] = (url, enabled_groups)
+            
+        for f in as_completed(futures):
+            url, enabled_groups = futures[f]
+            try:
+                r = f.result()
+                if r.status_code == 200:
+                    channels = parse_m3u(r.text)
+                    # Filter
+                    for ch in channels:
+                        if ch["group"] in enabled_groups:
+                            candidates.append(ch)
+            except Exception as e:
+                print(f"Error fetching {url}: {e}")
+    
+    print(f"Collected {len(candidates)} candidates.")
 
     # Verify
     verified, stats = check_batch(candidates, stats)
