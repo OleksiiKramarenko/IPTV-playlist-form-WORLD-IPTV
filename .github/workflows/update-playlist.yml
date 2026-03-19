@@ -25,15 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch latest playlist
+      - name: Fetch and Generate playlist
         env:
           TG_CHANNEL: ${{ vars.TG_CHANNEL }}
-        run: python fetch_playlist.py
+        run: |
+          python fetch_playlist.py --update
+          python fetch_playlist.py --generate
 
       - name: Commit & push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u
+          git add playlist.m3u library.json channel_stats.json
           git diff --cached --quiet || git commit -m "Update playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
