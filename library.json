@@ -546,6 +546,65 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/xqrw9u.m3u",
+            "date_added": "2026-03-20T10:31:54.149207",
+            "name": "Playlist from 2026-03-20",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/t04yl5.m3u",
+            "date_added": "2026-03-20T10:31:54.873183",
+            "name": "Playlist from 2026-03-20",
+            "groups": {
+                "Беларусь": {
+                    "enabled": false
+                },
+                "Детям": {
+                    "enabled": false
+                },
+                "Досуг": {
+                    "enabled": false
+                },
+                "Кино": {
+                    "enabled": false
+                },
+                "Мужские": {
+                    "enabled": false
+                },
+                "Музыка": {
+                    "enabled": false
+                },
+                "Новости": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                },
+                "Регионы": {
+                    "enabled": false
+                },
+                "Религия": {
+                    "enabled": false
+                },
+                "Спорт": {
+                    "enabled": false
+                },
+                "Федеральные": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
