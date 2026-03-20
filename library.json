@@ -506,6 +506,46 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/04onj6.m3u",
+            "date_added": "2026-03-20T07:41:26.260135",
+            "name": "Playlist from 2026-03-20",
+            "groups": {
+                "Детский": {
+                    "enabled": false
+                },
+                "ИНФО": {
+                    "enabled": false
+                },
+                "Информационные": {
+                    "enabled": false
+                },
+                "КИНОЗАЛ": {
+                    "enabled": false
+                },
+                "Кино и сериалы": {
+                    "enabled": false
+                },
+                "Музыкальные": {
+                    "enabled": false
+                },
+                "Общероссийские": {
+                    "enabled": false
+                },
+                "Познавательное": {
+                    "enabled": false
+                },
+                "Развлекательное": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Спортивные": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
