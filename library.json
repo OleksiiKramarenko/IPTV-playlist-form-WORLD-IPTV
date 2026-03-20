@@ -605,6 +605,308 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/lo6sis.m3u",
+            "date_added": "2026-03-20T16:35:49.706801",
+            "name": "Playlist from 2026-03-20",
+            "groups": {
+                "4K KINO ZAL (VPN)": {
+                    "enabled": false
+                },
+                "CHILDREN'S": {
+                    "enabled": false
+                },
+                "CloudFlare Inc (VPN)": {
+                    "enabled": false
+                },
+                "Cloudflare (🇺🇦)": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc": {
+                    "enabled": false
+                },
+                "Internet42 LLC": {
+                    "enabled": false
+                },
+                "KINO ZAL": {
+                    "enabled": false
+                },
+                "KINO ZAL (VPN)": {
+                    "enabled": false
+                },
+                "KINO+📺": {
+                    "enabled": false
+                },
+                "Lime (VPN)": {
+                    "enabled": false
+                },
+                "NNT": {
+                    "enabled": false
+                },
+                "Peers-test-(VPN)": {
+                    "enabled": false
+                },
+                "Poland 🇵🇱": {
+                    "enabled": false
+                },
+                "SPORT 🏆": {
+                    "enabled": false
+                },
+                "Tube (VPN)": {
+                    "enabled": false
+                },
+                "Turon Media": {
+                    "enabled": false
+                },
+                "UA-TEST": {
+                    "enabled": false
+                },
+                "USA 🇺🇸": {
+                    "enabled": false
+                },
+                "Voka": {
+                    "enabled": false
+                },
+                "Азербайджан 🇦🇿": {
+                    "enabled": false
+                },
+                "Армения 🇦🇲": {
+                    "enabled": false
+                },
+                "Бегет": {
+                    "enabled": false
+                },
+                "Болгария 🇧🇬": {
+                    "enabled": false
+                },
+                "Великобритания 🇬🇧": {
+                    "enabled": false
+                },
+                "Венгрия 🇭🇺": {
+                    "enabled": false
+                },
+                "Германия 🇩🇪": {
+                    "enabled": false
+                },
+                "Грузия 🇬🇪": {
+                    "enabled": false
+                },
+                "Израиль 🇮🇱": {
+                    "enabled": false
+                },
+                "Инет": {
+                    "enabled": false
+                },
+                "Испания 🇪🇸": {
+                    "enabled": false
+                },
+                "Италия 🇮🇹": {
+                    "enabled": false
+                },
+                "Казахстан 🇰🇿": {
+                    "enabled": false
+                },
+                "Каналы с VPN": {
+                    "enabled": false
+                },
+                "Кинозалы (VPN)": {
+                    "enabled": false
+                },
+                "Кухня": {
+                    "enabled": false
+                },
+                "Кыргызстан 🇰🇬": {
+                    "enabled": false
+                },
+                "Латвия 🇱🇻": {
+                    "enabled": false
+                },
+                "МОЛДОВА 🇲🇩": {
+                    "enabled": false
+                },
+                "МУЗИКА 🎶": {
+                    "enabled": false
+                },
+                "ОБЩИЕ": {
+                    "enabled": false
+                },
+                "Португалия 🇵🇹": {
+                    "enabled": false
+                },
+                "РЕЛАКС- расслабление": {
+                    "enabled": false
+                },
+                "Румыния 🇷🇴": {
+                    "enabled": false
+                },
+                "Словакия 🇸🇰": {
+                    "enabled": false
+                },
+                "Современные сетевые технологии (VPN)": {
+                    "enabled": false
+                },
+                "ТЕСТ 01-03-26": {
+                    "enabled": false
+                },
+                "ТТ мобайл": {
+                    "enabled": false
+                },
+                "ТаймВэб (VPN)": {
+                    "enabled": false
+                },
+                "Туркменистан (🇹🇲)": {
+                    "enabled": false
+                },
+                "Турция 🇹🇷": {
+                    "enabled": false
+                },
+                "Україна 🇺🇦": {
+                    "enabled": false
+                },
+                "Франция 🇫🇷": {
+                    "enabled": false
+                },
+                "Чехия 🇨🇿": {
+                    "enabled": false
+                },
+                "𝕂𝔸ℂℂ𝔼𝕋𝔸 (VPN)": {
+                    "enabled": false
+                },
+                "📺 Usba TV": {
+                    "enabled": false
+                },
+                "🔎 ПОЗНАВАТЕЛЬНЫЕ": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/6s5odw.m3u",
+            "date_added": "2026-03-20T16:35:51.279641",
+            "name": "Playlist from 2026-03-20",
+            "groups": {
+                "4K VIDEO (VPN)": {
+                    "enabled": false
+                },
+                "AgroNet (VPN)": {
+                    "enabled": false
+                },
+                "Catcast TV 🐈 Not 24/7": {
+                    "enabled": false
+                },
+                "CloudFlare Inc (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc!": {
+                    "enabled": false
+                },
+                "Internet42 LLC": {
+                    "enabled": false
+                },
+                "Itv.uz (🇺🇿)": {
+                    "enabled": false
+                },
+                "KABELNET": {
+                    "enabled": false
+                },
+                "Lime (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Peers (VPN)": {
+                    "enabled": false
+                },
+                "RELAX": {
+                    "enabled": false
+                },
+                "Rutube (VPN)": {
+                    "enabled": false
+                },
+                "StarNet (VPN 🇳🇱)": {
+                    "enabled": false
+                },
+                "TEST (VPN)": {
+                    "enabled": false
+                },
+                "TEST ⓵": {
+                    "enabled": false
+                },
+                "Turon Media": {
+                    "enabled": false
+                },
+                "Voka": {
+                    "enabled": false
+                },
+                "Webhost (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Wink (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "АСАРТА (VPN)": {
+                    "enabled": false
+                },
+                "Большое ТВ (VPN)": {
+                    "enabled": false
+                },
+                "Виктория (VPN)": {
+                    "enabled": false
+                },
+                "Инет": {
+                    "enabled": false
+                },
+                "Квант-Телеком (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Кинозалы (VPN)": {
+                    "enabled": false
+                },
+                "Музыкальные 🎶": {
+                    "enabled": false
+                },
+                "С сайтов": {
+                    "enabled": false
+                },
+                "С сайтов (VPN)": {
+                    "enabled": false
+                },
+                "Сайт (VPN)": {
+                    "enabled": false
+                },
+                "Селектел (VPN)": {
+                    "enabled": false
+                },
+                "Сириус": {
+                    "enabled": false
+                },
+                "Современные сетевые технологии": {
+                    "enabled": false
+                },
+                "Спорткомплекс 🏆": {
+                    "enabled": false
+                },
+                "ТаймВэб (VPN)": {
+                    "enabled": false
+                },
+                "Телевизор 24 (VPN)": {
+                    "enabled": false
+                },
+                "Цитадель-Крым (VPN)": {
+                    "enabled": false
+                },
+                "↕️ Торрент ТВ ↕️": {
+                    "enabled": false
+                },
+                "📺 Usba TV": {
+                    "enabled": false
+                },
+                "🔺 INFO 🔺": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
