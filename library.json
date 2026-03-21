@@ -1244,6 +1244,16 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/4tcn5n.m3u",
+            "date_added": "2026-03-21T16:21:53.379219",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
