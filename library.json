@@ -1049,6 +1049,127 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/6y1uns.m3u",
+            "date_added": "2026-03-21T10:20:21.769492",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "Itv.uz": {
+                    "enabled": false
+                },
+                "USA": {
+                    "enabled": false
+                },
+                "Usba TV": {
+                    "enabled": false
+                },
+                "Азербайжан": {
+                    "enabled": false
+                },
+                "Армения": {
+                    "enabled": false
+                },
+                "Афганистан": {
+                    "enabled": false
+                },
+                "Болгария": {
+                    "enabled": false
+                },
+                "Великобритания": {
+                    "enabled": false
+                },
+                "Венгрия": {
+                    "enabled": false
+                },
+                "Германия": {
+                    "enabled": false
+                },
+                "Грузия": {
+                    "enabled": false
+                },
+                "Детский": {
+                    "enabled": false
+                },
+                "Индия": {
+                    "enabled": false
+                },
+                "Испания": {
+                    "enabled": false
+                },
+                "Италия": {
+                    "enabled": false
+                },
+                "Казахстан": {
+                    "enabled": false
+                },
+                "Кино Канал": {
+                    "enabled": false
+                },
+                "Латвия": {
+                    "enabled": false
+                },
+                "Молдавия": {
+                    "enabled": false
+                },
+                "Музыка": {
+                    "enabled": false
+                },
+                "Мултики на (UZB) языке": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Россия": {
+                    "enabled": false
+                },
+                "Россия (ТЕСТ)": {
+                    "enabled": false
+                },
+                "СПОРТ": {
+                    "enabled": false
+                },
+                "Сербия": {
+                    "enabled": false
+                },
+                "Словакия": {
+                    "enabled": false
+                },
+                "Таджикистан": {
+                    "enabled": false
+                },
+                "Туркменистан": {
+                    "enabled": false
+                },
+                "Турция": {
+                    "enabled": false
+                },
+                "Узбекистан": {
+                    "enabled": false
+                },
+                "Фильмы на (UZB) языке": {
+                    "enabled": false
+                },
+                "Франция": {
+                    "enabled": false
+                },
+                "Хорватия": {
+                    "enabled": false
+                },
+                "Чехия": {
+                    "enabled": false
+                },
+                "☞ꀤᖘ꓄ᐯ ☜": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
