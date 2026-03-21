@@ -907,6 +907,26 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/fw5h7y.m3u",
+            "date_added": "2026-03-21T03:59:54.164212",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/4oo8ks.m3u",
+            "date_added": "2026-03-21T03:59:54.189512",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
