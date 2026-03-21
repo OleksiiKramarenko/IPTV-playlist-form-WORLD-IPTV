@@ -927,6 +927,128 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/pbfxis.m3u",
+            "date_added": "2026-03-21T08:25:02.629990",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "NEXO": {
+                    "enabled": false
+                },
+                "TEST": {
+                    "enabled": false
+                },
+                "Беларусь": {
+                    "enabled": false
+                },
+                "Детские": {
+                    "enabled": false
+                },
+                "Кинозал Top Gear": {
+                    "enabled": false
+                },
+                "Музыкальные": {
+                    "enabled": false
+                },
+                "Новости": {
+                    "enabled": false
+                },
+                "ОПЛОТ": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "Радио": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Российские": {
+                    "enabled": false
+                },
+                "С сайтов": {
+                    "enabled": false
+                },
+                "Спортивные": {
+                    "enabled": false
+                },
+                "Удалить": {
+                    "enabled": false
+                },
+                "Фильмовые": {
+                    "enabled": false
+                },
+                "Хобби и увлечения": {
+                    "enabled": false
+                },
+                "📺 Usba TV": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/cq07s7.m3u",
+            "date_added": "2026-03-21T08:25:03.311178",
+            "name": "Playlist from 2026-03-21",
+            "groups": {
+                "Белорусские": {
+                    "enabled": false
+                },
+                "Детские": {
+                    "enabled": false
+                },
+                "ЕВРОПА": {
+                    "enabled": false
+                },
+                "Казахстанские": {
+                    "enabled": false
+                },
+                "Музыкальные": {
+                    "enabled": false
+                },
+                "Новости": {
+                    "enabled": false
+                },
+                "ОПЛОТ": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "РАЗНОЕ": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Российские": {
+                    "enabled": false
+                },
+                "Спортивные": {
+                    "enabled": false
+                },
+                "Удалить": {
+                    "enabled": false
+                },
+                "Фильмовые": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
