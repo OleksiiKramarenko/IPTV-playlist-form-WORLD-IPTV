@@ -1434,6 +1434,184 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/rgtoa1.m3u",
+            "date_added": "2026-03-22T07:34:41.350710",
+            "name": "Playlist from 2026-03-22",
+            "groups": {
+                "4K KINO ZAL (VPN)": {
+                    "enabled": false
+                },
+                "CHILDREN'S": {
+                    "enabled": false
+                },
+                "CloudFlare Inc (VPN)": {
+                    "enabled": false
+                },
+                "Cloudflare (🇺🇦)": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc": {
+                    "enabled": false
+                },
+                "Internet42 LLC": {
+                    "enabled": false
+                },
+                "KINO ZAL": {
+                    "enabled": false
+                },
+                "KINO ZAL (VPN)": {
+                    "enabled": false
+                },
+                "KINO+📺": {
+                    "enabled": false
+                },
+                "Lime (VPN)": {
+                    "enabled": false
+                },
+                "NNT": {
+                    "enabled": false
+                },
+                "Peers-test-(VPN)": {
+                    "enabled": false
+                },
+                "Poland 🇵🇱": {
+                    "enabled": false
+                },
+                "SPORT 🏆": {
+                    "enabled": false
+                },
+                "Tube (VPN)": {
+                    "enabled": false
+                },
+                "Turon Media": {
+                    "enabled": false
+                },
+                "UA-TEST": {
+                    "enabled": false
+                },
+                "USA 🇺🇸": {
+                    "enabled": false
+                },
+                "Voka": {
+                    "enabled": false
+                },
+                "Азербайджан 🇦🇿": {
+                    "enabled": false
+                },
+                "Армения 🇦🇲": {
+                    "enabled": false
+                },
+                "Бегет": {
+                    "enabled": false
+                },
+                "Болгария 🇧🇬": {
+                    "enabled": false
+                },
+                "Великобритания 🇬🇧": {
+                    "enabled": false
+                },
+                "Венгрия 🇭🇺": {
+                    "enabled": false
+                },
+                "Германия 🇩🇪": {
+                    "enabled": false
+                },
+                "Грузия 🇬🇪": {
+                    "enabled": false
+                },
+                "Израиль 🇮🇱": {
+                    "enabled": false
+                },
+                "Инет": {
+                    "enabled": false
+                },
+                "Испания 🇪🇸": {
+                    "enabled": false
+                },
+                "Италия 🇮🇹": {
+                    "enabled": false
+                },
+                "Казахстан 🇰🇿": {
+                    "enabled": false
+                },
+                "Каналы с VPN": {
+                    "enabled": false
+                },
+                "Кинозалы (VPN)": {
+                    "enabled": false
+                },
+                "Кухня": {
+                    "enabled": false
+                },
+                "Кыргызстан 🇰🇬": {
+                    "enabled": false
+                },
+                "Латвия 🇱🇻": {
+                    "enabled": false
+                },
+                "МОЛДОВА 🇲🇩": {
+                    "enabled": false
+                },
+                "МУЗИКА 🎶": {
+                    "enabled": false
+                },
+                "ОБЩИЕ": {
+                    "enabled": false
+                },
+                "Португалия 🇵🇹": {
+                    "enabled": false
+                },
+                "РЕЛАКС- расслабление": {
+                    "enabled": false
+                },
+                "Румыния 🇷🇴": {
+                    "enabled": false
+                },
+                "Словакия 🇸🇰": {
+                    "enabled": false
+                },
+                "Современные сетевые технологии (VPN)": {
+                    "enabled": false
+                },
+                "Спорткомплекс 🏆": {
+                    "enabled": false
+                },
+                "ТЕЛЕОС-1 (VPN)": {
+                    "enabled": false
+                },
+                "ТЕСТ 01-03-26": {
+                    "enabled": false
+                },
+                "ТТ мобайл": {
+                    "enabled": false
+                },
+                "ТаймВэб (VPN)": {
+                    "enabled": false
+                },
+                "Туркменистан (🇹🇲)": {
+                    "enabled": false
+                },
+                "Турция 🇹🇷": {
+                    "enabled": false
+                },
+                "Україна 🇺🇦": {
+                    "enabled": false
+                },
+                "Франция 🇫🇷": {
+                    "enabled": false
+                },
+                "Чехия 🇨🇿": {
+                    "enabled": false
+                },
+                "📺 Usba TV": {
+                    "enabled": false
+                },
+                "🔎 ПОЗНАВАТЕЛЬНЫЕ": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
