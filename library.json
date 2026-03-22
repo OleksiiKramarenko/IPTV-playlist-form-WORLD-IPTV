@@ -1612,6 +1612,91 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/x4ozum.m3u",
+            "date_added": "2026-03-22T11:18:39.572394",
+            "name": "Playlist from 2026-03-22",
+            "groups": {
+                "⚽️ Спортивные": {
+                    "enabled": false
+                },
+                "⭐️ DTV": {
+                    "enabled": false
+                },
+                "⭐️ HomTV ⭐️": {
+                    "enabled": false
+                },
+                "⭐️ IPTV-FREE ⭐️": {
+                    "enabled": false
+                },
+                "⭐️ TvZaTak ⭐️": {
+                    "enabled": false
+                },
+                "⭐️ ВокаТВ": {
+                    "enabled": false
+                },
+                "🇷🇺 RU (Xtreme)": {
+                    "enabled": false
+                },
+                "🇷🇺 Русский Канал": {
+                    "enabled": false
+                },
+                "🇹🇯 TJ": {
+                    "enabled": false
+                },
+                "🇹🇲 TM": {
+                    "enabled": false
+                },
+                "🇹🇷 TR": {
+                    "enabled": false
+                },
+                "🇹🇷 TR (Xtreme)": {
+                    "enabled": false
+                },
+                "🇺🇦 UA": {
+                    "enabled": false
+                },
+                "🇺🇿 UZ": {
+                    "enabled": false
+                },
+                "🌿 Познавательные": {
+                    "enabled": false
+                },
+                "🎥 Фильмы и Сериалы": {
+                    "enabled": false
+                },
+                "🎵 Музыка": {
+                    "enabled": false
+                },
+                "🎶 Music (Xtreme)": {
+                    "enabled": false
+                },
+                "👶 Детский": {
+                    "enabled": false
+                },
+                "💎 Max TV List": {
+                    "enabled": false
+                },
+                "📈 Новости": {
+                    "enabled": false
+                },
+                "📺 VF-Кинозал IPTV": {
+                    "enabled": false
+                },
+                "📺 Woobl IPTV": {
+                    "enabled": false
+                },
+                "📺 Региональный": {
+                    "enabled": false
+                },
+                "📻 Радио": {
+                    "enabled": false
+                },
+                "🔹 Mediabay TV 🔹": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
