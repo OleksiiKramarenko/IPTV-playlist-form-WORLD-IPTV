@@ -1254,6 +1254,186 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/00bifg.m3u",
+            "date_added": "2026-03-22T04:13:50.223184",
+            "name": "Playlist from 2026-03-22",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/c4ogvw.m3u",
+            "date_added": "2026-03-22T04:13:50.410159",
+            "name": "Playlist from 2026-03-22",
+            "groups": {
+                "Австралия | Australia": {
+                    "enabled": false
+                },
+                "Азербайджан | Azərbaycan": {
+                    "enabled": false
+                },
+                "Арабские | عربي": {
+                    "enabled": false
+                },
+                "Армения | Հայկական": {
+                    "enabled": false
+                },
+                "Беларусь | Беларускія": {
+                    "enabled": false
+                },
+                "Болгария | Bulgaria": {
+                    "enabled": false
+                },
+                "Бразилия | Brasil": {
+                    "enabled": false
+                },
+                "Великобритания | United Kingdom": {
+                    "enabled": false
+                },
+                "Германия | Germany": {
+                    "enabled": false
+                },
+                "Грузия | ქართული": {
+                    "enabled": false
+                },
+                "Дания | Denmark": {
+                    "enabled": false
+                },
+                "Детские": {
+                    "enabled": false
+                },
+                "Европа | Europe": {
+                    "enabled": false
+                },
+                "Египет | Egypt": {
+                    "enabled": false
+                },
+                "Израиль | ישראלי": {
+                    "enabled": false
+                },
+                "Индия | India": {
+                    "enabled": false
+                },
+                "Испания | Spain": {
+                    "enabled": false
+                },
+                "Италия | Italy": {
+                    "enabled": false
+                },
+                "Казахстан | Қазақстан": {
+                    "enabled": false
+                },
+                "Канада | Canada": {
+                    "enabled": false
+                },
+                "Кино": {
+                    "enabled": false
+                },
+                "Латвия | Latvia": {
+                    "enabled": false
+                },
+                "Литва | Lithuania": {
+                    "enabled": false
+                },
+                "Молдавия | Moldovenească": {
+                    "enabled": false
+                },
+                "Музыка": {
+                    "enabled": false
+                },
+                "Нидерланды | Netherlands": {
+                    "enabled": false
+                },
+                "Новостные": {
+                    "enabled": false
+                },
+                "Норвегия | Norway": {
+                    "enabled": false
+                },
+                "ОАЭ | UAE": {
+                    "enabled": false
+                },
+                "Общие": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "Польша | Poland": {
+                    "enabled": false
+                },
+                "Португалия | Portugal": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Румыния | Romania": {
+                    "enabled": false
+                },
+                "США | USA": {
+                    "enabled": false
+                },
+                "Словакия | Slovakia": {
+                    "enabled": false
+                },
+                "Спорт": {
+                    "enabled": false
+                },
+                "Таджикистан | Точик": {
+                    "enabled": false
+                },
+                "Телемагазины": {
+                    "enabled": false
+                },
+                "Турция | Türk": {
+                    "enabled": false
+                },
+                "Узбекистан | O'zbek": {
+                    "enabled": false
+                },
+                "Украина | Українські": {
+                    "enabled": false
+                },
+                "Финляндия | Finland": {
+                    "enabled": false
+                },
+                "Франция | France": {
+                    "enabled": false
+                },
+                "Хорватия | Croatia": {
+                    "enabled": false
+                },
+                "Чехия | Czech Republic": {
+                    "enabled": false
+                },
+                "Швеция | Sweden": {
+                    "enabled": false
+                },
+                "Эстония | Estonia": {
+                    "enabled": false
+                },
+                "Южная Корея | Korea": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/kbia88.m3u",
+            "date_added": "2026-03-22T04:13:51.329221",
+            "name": "Playlist from 2026-03-22",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
