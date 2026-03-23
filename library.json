@@ -1720,6 +1720,668 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/fkenbs.m3u",
+            "date_added": "2026-03-23T06:06:58.155218",
+            "name": "Playlist from 2026-03-23",
+            "groups": {
+                "Albanija": {
+                    "enabled": false
+                },
+                "Austrija": {
+                    "enabled": false
+                },
+                "Bosna i Hercegovina": {
+                    "enabled": false
+                },
+                "Crna Gora": {
+                    "enabled": false
+                },
+                "Danska": {
+                    "enabled": false
+                },
+                "Djeciji": {
+                    "enabled": false
+                },
+                "Edukativni": {
+                    "enabled": false
+                },
+                "Film": {
+                    "enabled": false
+                },
+                "Finska": {
+                    "enabled": false
+                },
+                "Francuska": {
+                    "enabled": false
+                },
+                "Grcka": {
+                    "enabled": false
+                },
+                "Holandija": {
+                    "enabled": false
+                },
+                "Hrvatska": {
+                    "enabled": false
+                },
+                "Italija": {
+                    "enabled": false
+                },
+                "Kanada": {
+                    "enabled": false
+                },
+                "Madjarska": {
+                    "enabled": false
+                },
+                "Makedonija": {
+                    "enabled": false
+                },
+                "Malta": {
+                    "enabled": false
+                },
+                "Muzika": {
+                    "enabled": false
+                },
+                "Njemacka": {
+                    "enabled": false
+                },
+                "Norveska": {
+                    "enabled": false
+                },
+                "Pink": {
+                    "enabled": false
+                },
+                "Radio": {
+                    "enabled": false
+                },
+                "Radio Stanice": {
+                    "enabled": false
+                },
+                "SAD": {
+                    "enabled": false
+                },
+                "Slovenija": {
+                    "enabled": false
+                },
+                "Sport": {
+                    "enabled": false
+                },
+                "Srbija": {
+                    "enabled": false
+                },
+                "Svajcarska": {
+                    "enabled": false
+                },
+                "Svedska": {
+                    "enabled": false
+                },
+                "UK": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/th9psg.m3u",
+            "date_added": "2026-03-23T06:06:59.177313",
+            "name": "Playlist from 2026-03-23",
+            "groups": {
+                "AFR | SOUTH AFRICA VIP": {
+                    "enabled": false
+                },
+                "AFRICA VIP": {
+                    "enabled": false
+                },
+                "ARAB VIP": {
+                    "enabled": false
+                },
+                "ARAB VIP NEW": {
+                    "enabled": false
+                },
+                "ARAB | BEIN VIP": {
+                    "enabled": false
+                },
+                "ARAB | MBC & MYHD VIP": {
+                    "enabled": false
+                },
+                "ARAB | OSN VIP": {
+                    "enabled": false
+                },
+                "ASIA | AFGHANISTAN": {
+                    "enabled": false
+                },
+                "ASIA | ARMENIA VIP": {
+                    "enabled": false
+                },
+                "ASIA | AZERBAIJAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | BANGLADESH VIP": {
+                    "enabled": false
+                },
+                "ASIA | INDIA VIP": {
+                    "enabled": false
+                },
+                "ASIA | INDONESIA VIP": {
+                    "enabled": false
+                },
+                "ASIA | IRAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | ISRAEL VIP": {
+                    "enabled": false
+                },
+                "ASIA | JAPAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | KOREA VIP": {
+                    "enabled": false
+                },
+                "ASIA | KURDISTAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | MALAYSIA VIP": {
+                    "enabled": false
+                },
+                "ASIA | PAKISTAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | PHILIPPINES VIP": {
+                    "enabled": false
+                },
+                "ASIA | SINGAPORE VIP": {
+                    "enabled": false
+                },
+                "ASIA | THAILAND VIP": {
+                    "enabled": false
+                },
+                "ASIA | Taiwan, Province of China VIP": {
+                    "enabled": false
+                },
+                "ASIA | UZBEKISTAN VIP": {
+                    "enabled": false
+                },
+                "ASIA | VIETNAM VIP": {
+                    "enabled": false
+                },
+                "CANADA VIP": {
+                    "enabled": false
+                },
+                "DE | AMAZON EVENT": {
+                    "enabled": false
+                },
+                "DE | BUNDESLIGA": {
+                    "enabled": false
+                },
+                "DE | BUNDESLIGA HD": {
+                    "enabled": false
+                },
+                "DE | CINEMA SERIEN": {
+                    "enabled": false
+                },
+                "DE | DAZN EVENT": {
+                    "enabled": false
+                },
+                "DE | DEUTSCHLAND": {
+                    "enabled": false
+                },
+                "DE | DOKU": {
+                    "enabled": false
+                },
+                "DE | DYN SPORT": {
+                    "enabled": false
+                },
+                "DE | EUROSPORT EXTRA": {
+                    "enabled": false
+                },
+                "DE | FORMEL 1": {
+                    "enabled": false
+                },
+                "DE | KINDER": {
+                    "enabled": false
+                },
+                "DE | MAGENTA EVENTS": {
+                    "enabled": false
+                },
+                "DE | MIX SPORT": {
+                    "enabled": false
+                },
+                "DE | MIX SPORT HD": {
+                    "enabled": false
+                },
+                "DE | MUSIK": {
+                    "enabled": false
+                },
+                "DE | NACHRICHTEN": {
+                    "enabled": false
+                },
+                "DE | REGIONAL": {
+                    "enabled": false
+                },
+                "DE | RTL+ LIVE": {
+                    "enabled": false
+                },
+                "DE | SPORTDEUTSCHLAND.TV": {
+                    "enabled": false
+                },
+                "DE | SPORTTOTAL.TV": {
+                    "enabled": false
+                },
+                "ES | CINE & SERIES VIP": {
+                    "enabled": false
+                },
+                "ES | CULTURA VIP": {
+                    "enabled": false
+                },
+                "ES | DAZN ACB VIP": {
+                    "enabled": false
+                },
+                "ES | DEPORTES VIP": {
+                    "enabled": false
+                },
+                "ES | ESTILO DE VIDA VIP": {
+                    "enabled": false
+                },
+                "ES | INFANTILES VIP": {
+                    "enabled": false
+                },
+                "ES | LALIGA VIP": {
+                    "enabled": false
+                },
+                "ES | MUSICA VIP": {
+                    "enabled": false
+                },
+                "ES | NEWS VIP": {
+                    "enabled": false
+                },
+                "ES | OTHER VIP": {
+                    "enabled": false
+                },
+                "ES | REGIONAL VIP": {
+                    "enabled": false
+                },
+                "ES | TOP CANALES VIP": {
+                    "enabled": false
+                },
+                "ES | TOROS VIP": {
+                    "enabled": false
+                },
+                "ES | UFC": {
+                    "enabled": false
+                },
+                "EU | ALBANIA VIP": {
+                    "enabled": false
+                },
+                "EU | AUSTRIA VIP": {
+                    "enabled": false
+                },
+                "EU | BELGIUM VIP": {
+                    "enabled": false
+                },
+                "EU | BOSNIA VIP": {
+                    "enabled": false
+                },
+                "EU | BULGARIA VIP": {
+                    "enabled": false
+                },
+                "EU | CROATIA VIP": {
+                    "enabled": false
+                },
+                "EU | CZ & SLOVAK VIP": {
+                    "enabled": false
+                },
+                "EU | DENMARK VIP": {
+                    "enabled": false
+                },
+                "EU | EX-YU VIP": {
+                    "enabled": false
+                },
+                "EU | FINLAND VIP": {
+                    "enabled": false
+                },
+                "EU | GEORGIA VIP": {
+                    "enabled": false
+                },
+                "EU | GREECE VIP": {
+                    "enabled": false
+                },
+                "EU | HUNGARY VIP": {
+                    "enabled": false
+                },
+                "EU | MACEDONIA VIP": {
+                    "enabled": false
+                },
+                "EU | MALTA VIP": {
+                    "enabled": false
+                },
+                "EU | NORWAY VIP": {
+                    "enabled": false
+                },
+                "EU | ROMANIA VIP": {
+                    "enabled": false
+                },
+                "EU | SERBIA VIP": {
+                    "enabled": false
+                },
+                "EU | SLOVENIA VIP": {
+                    "enabled": false
+                },
+                "EU | SWEDEN VIP": {
+                    "enabled": false
+                },
+                "EU | SWITZERLAND VIP": {
+                    "enabled": false
+                },
+                "EXYU | BIH VIP": {
+                    "enabled": false
+                },
+                "EXYU | CRO VIP": {
+                    "enabled": false
+                },
+                "EXYU | DECA VIP": {
+                    "enabled": false
+                },
+                "EXYU | DOKUMENTARNI VIP": {
+                    "enabled": false
+                },
+                "EXYU | FILMSKI VIP": {
+                    "enabled": false
+                },
+                "EXYU | MKD VIP": {
+                    "enabled": false
+                },
+                "EXYU | MNE VIP": {
+                    "enabled": false
+                },
+                "EXYU | MUZIKA VIP": {
+                    "enabled": false
+                },
+                "EXYU | RADIO VIP": {
+                    "enabled": false
+                },
+                "EXYU | SLO VIP": {
+                    "enabled": false
+                },
+                "EXYU | SPORT VIP": {
+                    "enabled": false
+                },
+                "EXYU | SRB VIP": {
+                    "enabled": false
+                },
+                "FR | 000000": {
+                    "enabled": false
+                },
+                "FR | CANAL+ LIVE VIP": {
+                    "enabled": false
+                },
+                "FR | CINEMA VIP": {
+                    "enabled": false
+                },
+                "FR | DAZN VIP": {
+                    "enabled": false
+                },
+                "FR | DIVERTISSEMENT VIP": {
+                    "enabled": false
+                },
+                "FR | DOCUMENTAIRE VIP": {
+                    "enabled": false
+                },
+                "FR | ENFANT VIP": {
+                    "enabled": false
+                },
+                "FR | FRANCE 3": {
+                    "enabled": false
+                },
+                "FR | INFORMATION VIP": {
+                    "enabled": false
+                },
+                "FR | LIGUE1+ FHD": {
+                    "enabled": false
+                },
+                "FR | LIGUE1+ HD": {
+                    "enabled": false
+                },
+                "FR | LIGUE1+ VIP": {
+                    "enabled": false
+                },
+                "FR | MUSIQUE VIP": {
+                    "enabled": false
+                },
+                "FR | OTHER VIP": {
+                    "enabled": false
+                },
+                "FR | SPORT VIP": {
+                    "enabled": false
+                },
+                "FR | TOP CHAINES VIP": {
+                    "enabled": false
+                },
+                "IT | BAMBINI VIP": {
+                    "enabled": false
+                },
+                "IT | CINEMA VIP": {
+                    "enabled": false
+                },
+                "IT | CINEMA | EAGLE VIP": {
+                    "enabled": false
+                },
+                "IT | CINEMA | PRIMAFILA VIP": {
+                    "enabled": false
+                },
+                "IT | CINEMA | SKY VIP": {
+                    "enabled": false
+                },
+                "IT | CULTURA VIP": {
+                    "enabled": false
+                },
+                "IT | DAZN VIP": {
+                    "enabled": false
+                },
+                "IT | EUROSPORT VIP": {
+                    "enabled": false
+                },
+                "IT | GENERALE VIP": {
+                    "enabled": false
+                },
+                "IT | INFINITY VIP": {
+                    "enabled": false
+                },
+                "IT | INTRATTENIMENTO VIP": {
+                    "enabled": false
+                },
+                "IT | MUSICA VIP": {
+                    "enabled": false
+                },
+                "IT | NOTIZIE VIP": {
+                    "enabled": false
+                },
+                "IT | SERIE VIP": {
+                    "enabled": false
+                },
+                "IT | SKY CALCIO VIP": {
+                    "enabled": false
+                },
+                "IT | SKY SPORTS VIP": {
+                    "enabled": false
+                },
+                "LAME | ARGENTINA VIP": {
+                    "enabled": false
+                },
+                "LAME | BOLIVIA VIP": {
+                    "enabled": false
+                },
+                "LAME | BRAZIL VIP": {
+                    "enabled": false
+                },
+                "LAME | CARIBBEAN VIP": {
+                    "enabled": false
+                },
+                "LAME | CHILE VIP": {
+                    "enabled": false
+                },
+                "LAME | COLOMBIA VIP": {
+                    "enabled": false
+                },
+                "LAME | DOMINICAN VIP": {
+                    "enabled": false
+                },
+                "LAME | ECUADOR VIP": {
+                    "enabled": false
+                },
+                "LAME | LATINO VIP": {
+                    "enabled": false
+                },
+                "LAME | MEXICO VIP": {
+                    "enabled": false
+                },
+                "LAME | PARAGUAY VIP": {
+                    "enabled": false
+                },
+                "LAME | PERU VIP": {
+                    "enabled": false
+                },
+                "LAME | URUGUAY VIP": {
+                    "enabled": false
+                },
+                "NL | ALGEMEEN VIP": {
+                    "enabled": false
+                },
+                "NL | Categorizing": {
+                    "enabled": false
+                },
+                "NL | DAZN EVENTS": {
+                    "enabled": false
+                },
+                "NL | DOCUMENTAIRE VIP": {
+                    "enabled": false
+                },
+                "NL | ENTERTAINMENT VIP": {
+                    "enabled": false
+                },
+                "NL | FILMS EN SERIES VIP": {
+                    "enabled": false
+                },
+                "NL | KINDEREN VIP": {
+                    "enabled": false
+                },
+                "NL | MUZIEK VIP": {
+                    "enabled": false
+                },
+                "NL | REGIONALE VIP": {
+                    "enabled": false
+                },
+                "NL | SPORT VIP": {
+                    "enabled": false
+                },
+                "NL | VIAPLAY VIP": {
+                    "enabled": false
+                },
+                "OCEA | AUSTRALIA VIP": {
+                    "enabled": false
+                },
+                "OCEA | NEWZEALAND VIP": {
+                    "enabled": false
+                },
+                "PL | AKTUALNOŚCI VIP": {
+                    "enabled": false
+                },
+                "PL | CANAL+ EXTRA": {
+                    "enabled": false
+                },
+                "PL | Categorizing": {
+                    "enabled": false
+                },
+                "PL | DOKUMENTALNE VIP": {
+                    "enabled": false
+                },
+                "PL | DZIECI VIP": {
+                    "enabled": false
+                },
+                "PL | FILM VIP": {
+                    "enabled": false
+                },
+                "PL | HBO SPORTS LIVE": {
+                    "enabled": false
+                },
+                "PL | MUZYKA VIP": {
+                    "enabled": false
+                },
+                "PL | OGÓLNYL VIP": {
+                    "enabled": false
+                },
+                "PL | PPV LIVE": {
+                    "enabled": false
+                },
+                "PL | SPORT VIP": {
+                    "enabled": false
+                },
+                "PL | VIAPLAY EVENTS": {
+                    "enabled": false
+                },
+                "PPV": {
+                    "enabled": false
+                },
+                "PT | CRIANÇAS VIP": {
+                    "enabled": false
+                },
+                "PT | DOCUMENTÁRIO VIP": {
+                    "enabled": false
+                },
+                "PT | ENTRETENIMENTO VIP": {
+                    "enabled": false
+                },
+                "PT | ESPORTES VIP": {
+                    "enabled": false
+                },
+                "PT | FILME AND SERIES VIP": {
+                    "enabled": false
+                },
+                "PT | GERAL VIP": {
+                    "enabled": false
+                },
+                "PT | MÚSICA VIP": {
+                    "enabled": false
+                },
+                "PT | NOTÍCIAS VIP": {
+                    "enabled": false
+                },
+                "PT | OTHERS": {
+                    "enabled": false
+                },
+                "RUSSIAN VIP": {
+                    "enabled": false
+                },
+                "TR | CINEMA VIP": {
+                    "enabled": false
+                },
+                "TR | ENTERTAINMENT VIP": {
+                    "enabled": false
+                },
+                "TR | GENERAL VIP": {
+                    "enabled": false
+                },
+                "TR | KIDS VIP": {
+                    "enabled": false
+                },
+                "TR | SPORT VIP": {
+                    "enabled": false
+                },
+                "UK VIP NEW": {
+                    "enabled": false
+                },
+                "UK | ENGLAND VIP": {
+                    "enabled": false
+                },
+                "UKRAINE VIP": {
+                    "enabled": false
+                },
+                "USA VIP": {
+                    "enabled": false
+                },
+                "USA VIP NEW": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
