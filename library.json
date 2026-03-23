@@ -1707,6 +1707,19 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/lhsmds.m3u",
+            "date_added": "2026-03-23T04:23:43.343712",
+            "name": "Playlist from 2026-03-23",
+            "groups": {
+                "TvZaTak": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
