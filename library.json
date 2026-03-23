@@ -2382,6 +2382,155 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/lh52al.m3u",
+            "date_added": "2026-03-23T11:39:45.565144",
+            "name": "Playlist from 2026-03-23",
+            "groups": {
+                "4K VIDEO (VPN)": {
+                    "enabled": false
+                },
+                "AgroNet (VPN)": {
+                    "enabled": false
+                },
+                "Catcast TV 🐈 Not 24/7": {
+                    "enabled": false
+                },
+                "CloudFlare Inc (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc": {
+                    "enabled": false
+                },
+                "Cloudflare_Inc!": {
+                    "enabled": false
+                },
+                "Internet42 LLC": {
+                    "enabled": false
+                },
+                "Itv.uz (🇺🇿)": {
+                    "enabled": false
+                },
+                "KABELNET": {
+                    "enabled": false
+                },
+                "Lime (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Peers (VPN)": {
+                    "enabled": false
+                },
+                "RELAX": {
+                    "enabled": false
+                },
+                "Rutube (VPN)": {
+                    "enabled": false
+                },
+                "StarNet (VPN 🇳🇱)": {
+                    "enabled": false
+                },
+                "TEST (VPN)": {
+                    "enabled": false
+                },
+                "TEST ⓵": {
+                    "enabled": false
+                },
+                "Turon Media": {
+                    "enabled": false
+                },
+                "Voka": {
+                    "enabled": false
+                },
+                "Webhost (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Wink (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "АСАРТА (VPN)": {
+                    "enabled": false
+                },
+                "Большое ТВ (VPN)": {
+                    "enabled": false
+                },
+                "Виктория (VPN)": {
+                    "enabled": false
+                },
+                "Инет": {
+                    "enabled": false
+                },
+                "Квант-Телеком (VPN 🇷🇺)": {
+                    "enabled": false
+                },
+                "Кинозалы (VPN)": {
+                    "enabled": false
+                },
+                "Кубань-Телеком (VPN)": {
+                    "enabled": false
+                },
+                "Музыкальные 🎶": {
+                    "enabled": false
+                },
+                "С сайтов": {
+                    "enabled": false
+                },
+                "С сайтов (VPN)": {
+                    "enabled": false
+                },
+                "Сайт (VPN)": {
+                    "enabled": false
+                },
+                "Селектел (VPN)": {
+                    "enabled": false
+                },
+                "Сириус": {
+                    "enabled": false
+                },
+                "Современные сетевые технологии": {
+                    "enabled": false
+                },
+                "Спорткомплекс 🏆": {
+                    "enabled": false
+                },
+                "ТЕЛЕОС-1 (VPN)": {
+                    "enabled": false
+                },
+                "ТаймВэб (VPN)": {
+                    "enabled": false
+                },
+                "Телевизор 24 (VPN)": {
+                    "enabled": false
+                },
+                "Цитадель-Крым (VPN)": {
+                    "enabled": false
+                },
+                "↕️ Торрент ТВ ↕️": {
+                    "enabled": false
+                },
+                "📺 Usba TV": {
+                    "enabled": false
+                },
+                "🔺 INFO 🔺": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/ja4fwm.m3u",
+            "date_added": "2026-03-23T11:39:45.974724",
+            "name": "Playlist from 2026-03-23",
+            "groups": {
+                "4K VIDEO (VPN)": {
+                    "enabled": false
+                },
+                "Новинки кино (VPN)": {
+                    "enabled": false
+                },
+                "🔺 INFO 🔺": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
