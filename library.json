@@ -2925,6 +2925,34 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/7lel0y.m3u",
+            "date_added": "2026-03-24T17:51:08.031090",
+            "name": "Playlist from 2026-03-24",
+            "groups": {
+                "КИНО": {
+                    "enabled": false
+                },
+                "МУЗЫКА": {
+                    "enabled": false
+                },
+                "РАЗВЛЕЧЕНИЕ": {
+                    "enabled": false
+                },
+                "РАЗНОЕ": {
+                    "enabled": false
+                },
+                "СПОРТ": {
+                    "enabled": false
+                },
+                "СТРАНЫ": {
+                    "enabled": false
+                },
+                "ФЕДЕРАЛЬНЫЕ": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
