@@ -123,10 +123,10 @@
             "name": "Playlist from 2026-03-19",
             "groups": {
                 "BCU Woobl IPTV": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "BOX Woobl IPTV": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "BPK TV Казахстан": {
                     "enabled": false
@@ -135,7 +135,7 @@
                     "enabled": false
                 },
                 "Clarity4K": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "Czech&Slovak": {
                     "enabled": false
@@ -200,7 +200,7 @@
                     "enabled": false
                 },
                 "⭐️ IPTV-FREE ⭐️": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "⭐️ TV Boom ⭐️": {
                     "enabled": false
