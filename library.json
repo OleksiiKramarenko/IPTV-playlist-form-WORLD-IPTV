@@ -2852,6 +2852,79 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/mhl2sg.m3u",
+            "date_added": "2026-03-24T16:00:42.899496",
+            "name": "Playlist from 2026-03-24",
+            "groups": {
+                "ARABIC": {
+                    "enabled": false
+                },
+                "Беларусь": {
+                    "enabled": false
+                },
+                "Детские": {
+                    "enabled": false
+                },
+                "ЕВРОПА": {
+                    "enabled": false
+                },
+                "Информационные": {
+                    "enabled": false
+                },
+                "Казахстанские": {
+                    "enabled": false
+                },
+                "Музыкальные": {
+                    "enabled": false
+                },
+                "Новости": {
+                    "enabled": false
+                },
+                "ОПЛОТ": {
+                    "enabled": false
+                },
+                "Познавательные": {
+                    "enabled": false
+                },
+                "Радиостанции": {
+                    "enabled": false
+                },
+                "Развлекательные": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                },
+                "Региональные": {
+                    "enabled": false
+                },
+                "Российские": {
+                    "enabled": false
+                },
+                "С сайтов": {
+                    "enabled": false
+                },
+                "Спортивные": {
+                    "enabled": false
+                },
+                "Татарстан": {
+                    "enabled": false
+                },
+                "Турецкие": {
+                    "enabled": false
+                },
+                "Удалить": {
+                    "enabled": false
+                },
+                "Фильмовые": {
+                    "enabled": false
+                },
+                "Хобби и увлечения": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
