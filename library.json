@@ -2661,6 +2661,19 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/e395yn.m3u",
+            "date_added": "2026-03-24T04:12:52.339065",
+            "name": "Playlist from 2026-03-24",
+            "groups": {
+                "TvZaTak": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
