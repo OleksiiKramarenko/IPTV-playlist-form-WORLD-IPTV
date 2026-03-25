@@ -2953,6 +2953,85 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/olatpa.m3u",
+            "date_added": "2026-03-25T04:14:07.230898",
+            "name": "Playlist from 2026-03-25",
+            "groups": {
+                "FreeOTT #IPTV": {
+                    "enabled": false
+                },
+                "Детский #IPTV": {
+                    "enabled": false
+                },
+                "Кино #IPTV": {
+                    "enabled": false
+                },
+                "Музыка #IPTV": {
+                    "enabled": false
+                },
+                "Познавательный #IPTV": {
+                    "enabled": false
+                },
+                "Россия #IPTV": {
+                    "enabled": false
+                },
+                "Спорт #IPTV": {
+                    "enabled": false
+                },
+                "▶️ IPTV-Play": {
+                    "enabled": false
+                },
+                "☁️ SKY HIGH": {
+                    "enabled": false
+                },
+                "⭐️ HomTV ⭐️": {
+                    "enabled": false
+                },
+                "⭐️ TvZaTak ⭐️": {
+                    "enabled": false
+                },
+                "⭐️ ВокаТВ": {
+                    "enabled": false
+                },
+                "🇹🇯 TJ": {
+                    "enabled": false
+                },
+                "🇹🇲 TM": {
+                    "enabled": false
+                },
+                "🇹🇷 TR": {
+                    "enabled": false
+                },
+                "🇺🇦 UA": {
+                    "enabled": false
+                },
+                "🌐 Интернет ТВ": {
+                    "enabled": false
+                },
+                "🍏 TV-Line": {
+                    "enabled": false
+                },
+                "🍿 BCU": {
+                    "enabled": false
+                },
+                "🐝 Bee TV": {
+                    "enabled": false
+                },
+                "💎 Max TV List": {
+                    "enabled": false
+                },
+                "📦 BOX": {
+                    "enabled": false
+                },
+                "📺 VF-Кинозал IPTV": {
+                    "enabled": false
+                },
+                "📺 Региональный": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
