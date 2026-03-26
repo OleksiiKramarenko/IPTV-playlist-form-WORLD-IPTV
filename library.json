@@ -3032,6 +3032,22 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/4j5cu8.m3u",
+            "date_added": "2026-03-26T07:58:50.758614",
+            "name": "Playlist from 2026-03-26",
+            "groups": {
+                "☁️ SKY HIGH": {
+                    "enabled": false
+                },
+                "🍿 BCU": {
+                    "enabled": false
+                },
+                "📦 BOX": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
