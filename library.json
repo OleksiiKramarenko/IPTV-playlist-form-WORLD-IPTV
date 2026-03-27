@@ -3366,6 +3366,66 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/rsyl5m.m3u",
+            "date_added": "2026-03-27T06:09:27.170524",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/1ls003.m3u",
+            "date_added": "2026-03-27T06:09:27.287663",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/ineopr.m3u",
+            "date_added": "2026-03-27T06:09:28.085908",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/u169zr.m3u",
+            "date_added": "2026-03-27T06:09:28.252034",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/h2aifn.m3u",
+            "date_added": "2026-03-27T06:09:28.315637",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "https://files.catbox.moe/4wq17t.m3u",
+            "date_added": "2026-03-27T06:09:28.815804",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
