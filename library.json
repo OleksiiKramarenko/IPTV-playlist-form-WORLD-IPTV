@@ -3353,6 +3353,19 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "https://files.catbox.moe/f0z7rq.m3u",
+            "date_added": "2026-03-27T04:29:54.587217",
+            "name": "Playlist from 2026-03-27",
+            "groups": {
+                "TvZaTak": {
+                    "enabled": false
+                },
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
