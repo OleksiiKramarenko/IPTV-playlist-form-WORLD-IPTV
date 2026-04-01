@@ -208,15 +208,39 @@ def deduplicate(channels: List[dict], stats: dict) -> List[dict]:
 # ── Library Management ───────────────────────────────────────────────────────
 
 def load_library() -> dict:
+    lib = {"playlists": [], "groups": {}}
     if os.path.exists(LIBRARY_FILE):
         try:
             with open(LIBRARY_FILE, encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return {"playlists": []}
-    return {"playlists": []}
+                lib = json.load(f)
+                
+                # Migration: if any playlist has "groups" as dict, move them to global "groups"
+                # and remove them from the playlist entry.
+                if "playlists" in lib and any("groups" in pl for pl in lib["playlists"]):
+                    print("🔄 Migrating library to new format...")
+                    global_groups = lib.get("groups", {})
+                    for pl in lib["playlists"]:
+                        if "groups" in pl:
+                            for g_name in pl["groups"]:
+                                if g_name not in global_groups:
+                                    global_groups[g_name] = False
+                            del pl["groups"]
+                    lib["groups"] = global_groups
+                    # Save immediately after migration to avoid losing the new structure
+                    # We'll save it after the check or update
+                return lib
+        except Exception as e:
+            print(f"Error loading library: {e}")
+    return lib
 
 def save_library(lib: dict):
+    # Sort groups by name for convenience
+    if "groups" in lib:
+        lib["groups"] = dict(sorted(lib["groups"].items()))
+    # Sort playlists by date added (newest first)
+    if "playlists" in lib:
+        lib["playlists"].sort(key=lambda x: x.get("date_added", ""), reverse=True)
+        
     with open(LIBRARY_FILE, "w", encoding="utf-8") as f:
         json.dump(lib, f, ensure_ascii=False, indent=4)
 
@@ -271,17 +295,17 @@ def update_library():
 
     lib = load_library()
     # Map of existing URLs to their playlist objects for easy access
-    existing_playlists = {pl["url"]: pl for pl in lib["playlists"]}
+    existing_playlists = {pl["url"]: pl for pl in lib.get("playlists", [])}
+    global_groups = lib.get("groups", {})
 
     links = fetch_links(CHANNEL, DAYS_BACK)
     
-    # We process ALL found links to update their group lists (in case new groups appeared in old playlists)
-    # But we prioritize showing "New" count
     new_links_count = sum(1 for l in links if l not in existing_playlists)
     print(f"Found {len(links)} links, {new_links_count} are new.")
 
     if not links:
         print("No playlists found.")
+        save_library(lib)
         return
 
     updated_count = 0
@@ -301,25 +325,20 @@ def update_library():
                     for ch in channels:
                         found_groups.add(ch["group"])
                     
-                    # 2. Get existing config for this playlist (if any)
-                    pl_entry = existing_playlists.get(url, {
-                        "url": url,
-                        "date_added": datetime.now().isoformat(),
-                        "name": f"Playlist from {datetime.now().strftime('%Y-%m-%d')}",
-                        "groups": {}
-                    })
+                    # 2. Add new groups to global whitelist (default disabled)
+                    for g_name in found_groups:
+                        if g_name not in global_groups:
+                            global_groups[g_name] = False
                     
-                    # 3. Update groups (preserve enabled status)
-                    existing_groups = pl_entry.get("groups", {})
-                    new_groups_config = {}
-                    
-                    for g_name in sorted(found_groups):
-                        # Preserve existing setting, default to False
-                        is_enabled = existing_groups.get(g_name, {}).get("enabled", False)
-                        new_groups_config[g_name] = {"enabled": is_enabled}
-                    
-                    pl_entry["groups"] = new_groups_config
-                    existing_playlists[url] = pl_entry
+                    # 3. Get/Create playlist entry (without 'groups' field)
+                    if url not in existing_playlists:
+                        pl_entry = {
+                            "url": url,
+                            "date_added": datetime.now().isoformat(),
+                            "name": f"Playlist from {datetime.now().strftime('%Y-%m-%d')}"
+                        }
+                        existing_playlists[url] = pl_entry
+                        
                     updated_count += 1
                     print(f"Processed: {url} ({len(found_groups)} groups)")
             except Exception as e:
@@ -327,8 +346,9 @@ def update_library():
 
     # Rebuild library list
     lib["playlists"] = list(existing_playlists.values())
+    lib["groups"] = global_groups
     save_library(lib)
-    print(f"Library updated. Processed {updated_count} playlists.")
+    print(f"Library updated. Total playlists: {len(lib['playlists'])}, Total groups: {len(lib['groups'])}")
     print(f"Edit '{LIBRARY_FILE}' to enable groups.")
 
 # ── Workflow: Generate ───────────────────────────────────────────────────────
@@ -338,31 +358,34 @@ def generate_playlist():
     lib = load_library()
     stats = load_stats()
     
-    candidates = []
+    # 1. Identify enabled groups
+    global_groups = lib.get("groups", {})
+    enabled_groups = {g for g, is_enabled in global_groups.items() if is_enabled}
     
-    # 1. Identify enabled playlists and groups
-    tasks = []
-    for pl in lib["playlists"]:
-        url = pl["url"]
-        enabled_groups = {g for g, data in pl.get("groups", {}).items() if data.get("enabled", False)}
-        
-        if enabled_groups:
-            tasks.append((url, enabled_groups))
-            
-    if not tasks:
-        print(f"No groups enabled! Edit '{LIBRARY_FILE}' and set 'enabled': true for some groups.")
+    if not enabled_groups:
+        print(f"No groups enabled! Edit '{LIBRARY_FILE}' and set 'true' for some groups in 'groups' section.")
         sys.exit(0)
 
-    print(f"Re-fetching {len(tasks)} playlists to extract enabled channels...")
+    print(f"Enabled groups: {', '.join(sorted(enabled_groups))}")
+    
+    candidates = []
+    playlists = lib.get("playlists", [])
+    
+    if not playlists:
+        print("No playlists in library.")
+        return
+
+    print(f"Re-fetching {len(playlists)} playlists to extract enabled channels...")
 
     # 2. Re-fetch and parse
-    with ThreadPoolExecutor(max_workers=5) as ex:
-        futures = {}
-        for url, enabled_groups in tasks:
-            futures[ex.submit(requests.get, url, headers=HEADERS, timeout=15)] = (url, enabled_groups)
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        futures = {ex.submit(requests.get, pl["url"], headers=HEADERS, timeout=15): pl["url"] for pl in playlists}
             
+        done = 0
         for f in as_completed(futures):
-            url, enabled_groups = futures[f]
+            url = futures[f]
+            done += 1
+            if done % 10 == 0: print(f"   {done}/{len(playlists)}...")
             try:
                 r = f.result()
                 if r.status_code == 200:
@@ -372,9 +395,10 @@ def generate_playlist():
                         if ch["group"] in enabled_groups:
                             candidates.append(ch)
             except Exception as e:
-                print(f"Error fetching {url}: {e}")
+                # print(f"Error fetching {url}: {e}")
+                pass
     
-    print(f"Collected {len(candidates)} candidates.")
+    print(f"Collected {len(candidates)} candidates from {len(playlists)} playlists.")
 
     # Verify
     verified, stats = check_batch(candidates, stats)
@@ -400,6 +424,7 @@ def generate_playlist():
         f.write("\n".join(lines) + "\n")
         
     save_stats(stats)
+    save_library(lib) # Save in case migration happened during load
     print(f"Playlist generated: {PLAYLIST_FILE} ({len(verified)} channels)")
 
 # ── Main Entry ───────────────────────────────────────────────────────────────

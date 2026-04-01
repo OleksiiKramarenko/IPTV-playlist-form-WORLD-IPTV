@@ -1,4672 +1,1084 @@
 {
     "playlists": [
         {
-            "url": "https://files.catbox.moe/oxms7p.m3u",
-            "date_added": "2026-03-19T17:08:28.592391",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Marvel": {
-                    "enabled": false
-                },
-                "Боевик": {
-                    "enabled": false
-                },
-                "Драма": {
-                    "enabled": false
-                },
-                "История": {
-                    "enabled": false
-                },
-                "Комедия": {
-                    "enabled": false
-                },
-                "Мелодрама": {
-                    "enabled": false
-                },
-                "Мультфильмы": {
-                    "enabled": false
-                },
-                "Приключения": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "РуКино": {
-                    "enabled": false
-                },
-                "ТОП": {
-                    "enabled": false
-                },
-                "Театр на экране": {
-                    "enabled": false
-                },
-                "Триллер": {
-                    "enabled": false
-                },
-                "Ужасы": {
-                    "enabled": false
-                },
-                "Фантастика": {
-                    "enabled": false
-                },
-                "Фэнтези": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/z2btu3.m3u",
-            "date_added": "2026-03-19T17:08:28.686590",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Marvel": {
-                    "enabled": false
-                },
-                "Боевики": {
-                    "enabled": false
-                },
-                "Драмы": {
-                    "enabled": false
-                },
-                "История": {
-                    "enabled": false
-                },
-                "Комедии": {
-                    "enabled": false
-                },
-                "Мелодрамы": {
-                    "enabled": false
-                },
-                "Мультфильмы": {
-                    "enabled": false
-                },
-                "Популярные": {
-                    "enabled": false
-                },
-                "Приключения": {
-                    "enabled": false
-                },
-                "Русское кино": {
-                    "enabled": false
-                },
-                "Театр на экране": {
-                    "enabled": false
-                },
-                "Триллеры": {
-                    "enabled": false
-                },
-                "Ужасы": {
-                    "enabled": false
-                },
-                "Фантастика": {
-                    "enabled": false
-                },
-                "Фэнтези": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/qkkgw0.m3u",
-            "date_added": "2026-03-19T17:08:28.734071",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/zk6a0h.m3u",
-            "date_added": "2026-03-19T17:08:28.744989",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "BCU Woobl IPTV": {
-                    "enabled": true
-                },
-                "BOX Woobl IPTV": {
-                    "enabled": true
-                },
-                "BPK TV Казахстан": {
-                    "enabled": false
-                },
-                "Cinerama UZ": {
-                    "enabled": false
-                },
-                "Clarity4K": {
-                    "enabled": true
-                },
-                "Czech&Slovak": {
-                    "enabled": false
-                },
-                "FREE OTT": {
-                    "enabled": false
-                },
-                "Kubtel TV": {
-                    "enabled": false
-                },
-                "SKY HIGH Woobl IPTV": {
-                    "enabled": false
-                },
-                "Voka TV": {
-                    "enabled": false
-                },
-                "Woobl TV": {
-                    "enabled": false
-                },
-                "Информационные": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Просто ТВ": {
-                    "enabled": false
-                },
-                "Спорт Тест": {
-                    "enabled": false
-                },
-                "Украина": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ijm8u6.m3u",
-            "date_added": "2026-03-19T17:08:29.123513",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/cqiqpk.m3u",
-            "date_added": "2026-03-19T17:08:29.147852",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "⚽️ Спортивные": {
-                    "enabled": false
-                },
-                "⭐️ DTV": {
-                    "enabled": false
-                },
-                "⭐️ HomTV ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ IPTV-FREE ⭐️": {
-                    "enabled": true
-                },
-                "⭐️ TV Boom ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ TvZaTak ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ ВокаТВ": {
-                    "enabled": false
-                },
-                "🇷🇺 Русский Канал": {
-                    "enabled": false
-                },
-                "🇹🇯 TJ": {
-                    "enabled": false
-                },
-                "🇹🇲 TM": {
-                    "enabled": false
-                },
-                "🇹🇷 TR": {
-                    "enabled": false
-                },
-                "🇺🇦 UA": {
-                    "enabled": false
-                },
-                "🇺🇿 UZ": {
-                    "enabled": false
-                },
-                "🌿 Познавательные": {
-                    "enabled": true
-                },
-                "🍭 VF": {
-                    "enabled": false
-                },
-                "🎥 Фильмы и Сериалы": {
-                    "enabled": false
-                },
-                "🎵 Музыка": {
-                    "enabled": false
-                },
-                "👶 Детский": {
-                    "enabled": false
-                },
-                "💎 Max TV List": {
-                    "enabled": true
-                },
-                "💎 Кинозал (server-1)": {
-                    "enabled": true
-                },
-                "📈 Новости": {
-                    "enabled": false
-                },
-                "📺 Региональный": {
-                    "enabled": false
-                },
-                "📻 Радио": {
-                    "enabled": false
-                },
-                "🔹 Mediabay TV 🔹": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/bhv9rv.m3u",
-            "date_added": "2026-03-19T17:08:29.209195",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "4K VIDEO (VPN)": {
-                    "enabled": false
-                },
-                "AgroNet (VPN)": {
-                    "enabled": false
-                },
-                "Catcast TV 🐈 Not 24/7": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc!": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "Itv.uz (🇺🇿)": {
-                    "enabled": false
-                },
-                "KABELNET": {
-                    "enabled": false
-                },
-                "Lime (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Peers (VPN)": {
-                    "enabled": false
-                },
-                "RELAX": {
-                    "enabled": false
-                },
-                "Rutube (VPN)": {
-                    "enabled": false
-                },
-                "StarNet (VPN 🇳🇱)": {
-                    "enabled": false
-                },
-                "TEST (VPN)": {
-                    "enabled": false
-                },
-                "TEST ⓵": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Webhost (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Wink (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "АСАРТА (VPN)": {
-                    "enabled": false
-                },
-                "Большое ТВ (VPN)": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Квант-Телеком (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": true
-                },
-                "Музыкальные 🎶": {
-                    "enabled": false
-                },
-                "С сайтов": {
-                    "enabled": false
-                },
-                "С сайтов (VPN)": {
-                    "enabled": false
-                },
-                "Сайт (VPN)": {
-                    "enabled": false
-                },
-                "Селектел (VPN)": {
-                    "enabled": false
-                },
-                "Сириус": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": true
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Телевизор 24 (VPN)": {
-                    "enabled": false
-                },
-                "Узбектелеком": {
-                    "enabled": false
-                },
-                "Узбектелеком_2": {
-                    "enabled": false
-                },
-                "Цитадель-Крым (VPN)": {
-                    "enabled": false
-                },
-                "↕️ Торрент ТВ ↕️": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔺 INFO 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/z5gk86.m3u",
-            "date_added": "2026-03-19T17:08:29.231278",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/274p8l.m3u",
-            "date_added": "2026-03-19T17:08:29.332377",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/3yie2l.m3u",
-            "date_added": "2026-03-19T17:08:29.370151",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Новостные": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": true
-                },
-                "Развлекательные": {
-                    "enabled": true
-                },
-                "Фильмы и сериалы": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": true
-                },
-                "Музыкальные": {
-                    "enabled": true
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Украина (UA)": {
-                    "enabled": false
-                },
-                "Беларусь (BY)": {
-                    "enabled": false
-                },
-                "Россия (RU)": {
-                    "enabled": false
-                },
-                "Turon Media😎": {
-                    "enabled": false
-                },
-                "cdn.kubteltv 👀": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "KABELNET": {
-                    "enabled": false
-                },
-                "Itv.uz 🇺🇿": {
-                    "enabled": false
-                },
-                "Телевизор 24": {
-                    "enabled": false
-                },
-                "Триколор 🇷🇺": {
-                    "enabled": true
-                },
-                "Узбек телеком 🇺🇿": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/blv1ev.m3u",
-            "date_added": "2026-03-19T17:08:30.062350",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/utyf1r.m3u",
-            "date_added": "2026-03-19T17:39:43.119373",
-            "name": "Playlist from 2026-03-19",
-            "groups": {
-                "РЕГИОНАЛЬНЫЕ ✅": {
-                    "enabled": false
-                },
-                "РОССИЯ.РЕГИОНЫ 🇷🇺": {
-                    "enabled": false
-                },
-                "Радио ЕКБ ⛪️": {
-                    "enabled": false
-                },
-                "Радио ТВ 🔊": {
-                    "enabled": false
-                },
-                "Региональные ♻️": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/04onj6.m3u",
-            "date_added": "2026-03-20T07:41:26.260135",
-            "name": "Playlist from 2026-03-20",
-            "groups": {
-                "Детский": {
-                    "enabled": false
-                },
-                "ИНФО": {
-                    "enabled": false
-                },
-                "Информационные": {
-                    "enabled": false
-                },
-                "КИНОЗАЛ": {
-                    "enabled": false
-                },
-                "Кино и сериалы": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Общероссийские": {
-                    "enabled": false
-                },
-                "Познавательное": {
-                    "enabled": false
-                },
-                "Развлекательное": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/xqrw9u.m3u",
-            "date_added": "2026-03-20T10:31:54.149207",
-            "name": "Playlist from 2026-03-20",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/t04yl5.m3u",
-            "date_added": "2026-03-20T10:31:54.873183",
-            "name": "Playlist from 2026-03-20",
-            "groups": {
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Детям": {
-                    "enabled": false
-                },
-                "Досуг": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Мужские": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Регионы": {
-                    "enabled": false
-                },
-                "Религия": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Федеральные": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/lo6sis.m3u",
-            "date_added": "2026-03-20T16:35:49.706801",
-            "name": "Playlist from 2026-03-20",
-            "groups": {
-                "4K KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "CHILDREN'S": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN)": {
-                    "enabled": false
-                },
-                "Cloudflare (🇺🇦)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "KINO ZAL": {
-                    "enabled": false
-                },
-                "KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "KINO+📺": {
-                    "enabled": false
-                },
-                "Lime (VPN)": {
-                    "enabled": false
-                },
-                "NNT": {
-                    "enabled": false
-                },
-                "Peers-test-(VPN)": {
-                    "enabled": false
-                },
-                "Poland 🇵🇱": {
-                    "enabled": false
-                },
-                "SPORT 🏆": {
-                    "enabled": false
-                },
-                "Tube (VPN)": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "UA-TEST": {
-                    "enabled": false
-                },
-                "USA 🇺🇸": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Азербайджан 🇦🇿": {
-                    "enabled": false
-                },
-                "Армения 🇦🇲": {
-                    "enabled": false
-                },
-                "Бегет": {
-                    "enabled": false
-                },
-                "Болгария 🇧🇬": {
-                    "enabled": false
-                },
-                "Великобритания 🇬🇧": {
-                    "enabled": false
-                },
-                "Венгрия 🇭🇺": {
-                    "enabled": false
-                },
-                "Германия 🇩🇪": {
-                    "enabled": false
-                },
-                "Грузия 🇬🇪": {
-                    "enabled": false
-                },
-                "Израиль 🇮🇱": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Испания 🇪🇸": {
-                    "enabled": false
-                },
-                "Италия 🇮🇹": {
-                    "enabled": false
-                },
-                "Казахстан 🇰🇿": {
-                    "enabled": false
-                },
-                "Каналы с VPN": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": false
-                },
-                "Кухня": {
-                    "enabled": false
-                },
-                "Кыргызстан 🇰🇬": {
-                    "enabled": false
-                },
-                "Латвия 🇱🇻": {
-                    "enabled": false
-                },
-                "МОЛДОВА 🇲🇩": {
-                    "enabled": false
-                },
-                "МУЗИКА 🎶": {
-                    "enabled": false
-                },
-                "ОБЩИЕ": {
-                    "enabled": false
-                },
-                "Португалия 🇵🇹": {
-                    "enabled": false
-                },
-                "РЕЛАКС- расслабление": {
-                    "enabled": false
-                },
-                "Румыния 🇷🇴": {
-                    "enabled": false
-                },
-                "Словакия 🇸🇰": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии (VPN)": {
-                    "enabled": false
-                },
-                "ТЕСТ 01-03-26": {
-                    "enabled": false
-                },
-                "ТТ мобайл": {
-                    "enabled": false
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Туркменистан (🇹🇲)": {
-                    "enabled": false
-                },
-                "Турция 🇹🇷": {
-                    "enabled": false
-                },
-                "Україна 🇺🇦": {
-                    "enabled": false
-                },
-                "Франция 🇫🇷": {
-                    "enabled": false
-                },
-                "Чехия 🇨🇿": {
-                    "enabled": false
-                },
-                "𝕂𝔸ℂℂ𝔼𝕋𝔸 (VPN)": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔎 ПОЗНАВАТЕЛЬНЫЕ": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/6s5odw.m3u",
-            "date_added": "2026-03-20T16:35:51.279641",
-            "name": "Playlist from 2026-03-20",
-            "groups": {
-                "4K VIDEO (VPN)": {
-                    "enabled": false
-                },
-                "AgroNet (VPN)": {
-                    "enabled": false
-                },
-                "Catcast TV 🐈 Not 24/7": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc!": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "Itv.uz (🇺🇿)": {
-                    "enabled": false
-                },
-                "KABELNET": {
-                    "enabled": false
-                },
-                "Lime (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Peers (VPN)": {
-                    "enabled": false
-                },
-                "RELAX": {
-                    "enabled": false
-                },
-                "Rutube (VPN)": {
-                    "enabled": false
-                },
-                "StarNet (VPN 🇳🇱)": {
-                    "enabled": false
-                },
-                "TEST (VPN)": {
-                    "enabled": false
-                },
-                "TEST ⓵": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Webhost (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Wink (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "АСАРТА (VPN)": {
-                    "enabled": false
-                },
-                "Большое ТВ (VPN)": {
-                    "enabled": false
-                },
-                "Виктория (VPN)": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Квант-Телеком (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": false
-                },
-                "Музыкальные 🎶": {
-                    "enabled": false
-                },
-                "С сайтов": {
-                    "enabled": false
-                },
-                "С сайтов (VPN)": {
-                    "enabled": false
-                },
-                "Сайт (VPN)": {
-                    "enabled": false
-                },
-                "Селектел (VPN)": {
-                    "enabled": false
-                },
-                "Сириус": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": false
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Телевизор 24 (VPN)": {
-                    "enabled": false
-                },
-                "Цитадель-Крым (VPN)": {
-                    "enabled": false
-                },
-                "↕️ Торрент ТВ ↕️": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔺 INFO 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/fw5h7y.m3u",
-            "date_added": "2026-03-21T03:59:54.164212",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/4oo8ks.m3u",
-            "date_added": "2026-03-21T03:59:54.189512",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/pbfxis.m3u",
-            "date_added": "2026-03-21T08:25:02.629990",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "NEXO": {
-                    "enabled": false
-                },
-                "TEST": {
-                    "enabled": false
-                },
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Кинозал Top Gear": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "ОПЛОТ": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Радио": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Российские": {
-                    "enabled": false
-                },
-                "С сайтов": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                },
-                "Удалить": {
-                    "enabled": false
-                },
-                "Фильмовые": {
-                    "enabled": false
-                },
-                "Хобби и увлечения": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/cq07s7.m3u",
-            "date_added": "2026-03-21T08:25:03.311178",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Белорусские": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "ЕВРОПА": {
-                    "enabled": false
-                },
-                "Казахстанские": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "ОПЛОТ": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "РАЗНОЕ": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Российские": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                },
-                "Удалить": {
-                    "enabled": false
-                },
-                "Фильмовые": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/6y1uns.m3u",
-            "date_added": "2026-03-21T10:20:21.769492",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Itv.uz": {
-                    "enabled": false
-                },
-                "USA": {
-                    "enabled": false
-                },
-                "Usba TV": {
-                    "enabled": false
-                },
-                "Азербайжан": {
-                    "enabled": false
-                },
-                "Армения": {
-                    "enabled": false
-                },
-                "Афганистан": {
-                    "enabled": false
-                },
-                "Болгария": {
-                    "enabled": false
-                },
-                "Великобритания": {
-                    "enabled": false
-                },
-                "Венгрия": {
-                    "enabled": false
-                },
-                "Германия": {
-                    "enabled": false
-                },
-                "Грузия": {
-                    "enabled": false
-                },
-                "Детский": {
-                    "enabled": false
-                },
-                "Индия": {
-                    "enabled": false
-                },
-                "Испания": {
-                    "enabled": false
-                },
-                "Италия": {
-                    "enabled": false
-                },
-                "Казахстан": {
-                    "enabled": false
-                },
-                "Кино Канал": {
-                    "enabled": false
-                },
-                "Латвия": {
-                    "enabled": false
-                },
-                "Молдавия": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Мултики на (UZB) языке": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Россия": {
-                    "enabled": false
-                },
-                "Россия (ТЕСТ)": {
-                    "enabled": false
-                },
-                "СПОРТ": {
-                    "enabled": false
-                },
-                "Сербия": {
-                    "enabled": false
-                },
-                "Словакия": {
-                    "enabled": false
-                },
-                "Таджикистан": {
-                    "enabled": false
-                },
-                "Туркменистан": {
-                    "enabled": false
-                },
-                "Турция": {
-                    "enabled": false
-                },
-                "Узбекистан": {
-                    "enabled": false
-                },
-                "Фильмы на (UZB) языке": {
-                    "enabled": false
-                },
-                "Франция": {
-                    "enabled": false
-                },
-                "Хорватия": {
-                    "enabled": false
-                },
-                "Чехия": {
-                    "enabled": false
-                },
-                "☞ꀤᖘ꓄ᐯ ☜": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/gksyh3.m3u",
-            "date_added": "2026-03-21T14:21:09.233704",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "ARABIC": {
-                    "enabled": false
-                },
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Белорусские": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "ЕВРОПА": {
-                    "enabled": false
-                },
-                "Казахстанские": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Новости 🗞": {
-                    "enabled": false
-                },
-                "ОПЛОТ": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Радиостанции": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Российские": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                },
-                "Турецкие": {
-                    "enabled": false
-                },
-                "Узбекские": {
-                    "enabled": false
-                },
-                "Фильмовые": {
-                    "enabled": false
-                },
-                "Хобби и увлечения": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/aimahl.m3u",
-            "date_added": "2026-03-21T14:21:09.734560",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/4tcn5n.m3u",
-            "date_added": "2026-03-21T16:21:53.379219",
-            "name": "Playlist from 2026-03-21",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/00bifg.m3u",
-            "date_added": "2026-03-22T04:13:50.223184",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/c4ogvw.m3u",
-            "date_added": "2026-03-22T04:13:50.410159",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italy": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Estonia": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/kbia88.m3u",
-            "date_added": "2026-03-22T04:13:51.329221",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/rgtoa1.m3u",
-            "date_added": "2026-03-22T07:34:41.350710",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "4K KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "CHILDREN'S": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN)": {
-                    "enabled": false
-                },
-                "Cloudflare (🇺🇦)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "KINO ZAL": {
-                    "enabled": false
-                },
-                "KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "KINO+📺": {
-                    "enabled": false
-                },
-                "Lime (VPN)": {
-                    "enabled": false
-                },
-                "NNT": {
-                    "enabled": false
-                },
-                "Peers-test-(VPN)": {
-                    "enabled": false
-                },
-                "Poland 🇵🇱": {
-                    "enabled": false
-                },
-                "SPORT 🏆": {
-                    "enabled": false
-                },
-                "Tube (VPN)": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "UA-TEST": {
-                    "enabled": false
-                },
-                "USA 🇺🇸": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Азербайджан 🇦🇿": {
-                    "enabled": false
-                },
-                "Армения 🇦🇲": {
-                    "enabled": false
-                },
-                "Бегет": {
-                    "enabled": false
-                },
-                "Болгария 🇧🇬": {
-                    "enabled": false
-                },
-                "Великобритания 🇬🇧": {
-                    "enabled": false
-                },
-                "Венгрия 🇭🇺": {
-                    "enabled": false
-                },
-                "Германия 🇩🇪": {
-                    "enabled": false
-                },
-                "Грузия 🇬🇪": {
-                    "enabled": false
-                },
-                "Израиль 🇮🇱": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Испания 🇪🇸": {
-                    "enabled": false
-                },
-                "Италия 🇮🇹": {
-                    "enabled": false
-                },
-                "Казахстан 🇰🇿": {
-                    "enabled": false
-                },
-                "Каналы с VPN": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": false
-                },
-                "Кухня": {
-                    "enabled": false
-                },
-                "Кыргызстан 🇰🇬": {
-                    "enabled": false
-                },
-                "Латвия 🇱🇻": {
-                    "enabled": false
-                },
-                "МОЛДОВА 🇲🇩": {
-                    "enabled": false
-                },
-                "МУЗИКА 🎶": {
-                    "enabled": false
-                },
-                "ОБЩИЕ": {
-                    "enabled": false
-                },
-                "Португалия 🇵🇹": {
-                    "enabled": false
-                },
-                "РЕЛАКС- расслабление": {
-                    "enabled": false
-                },
-                "Румыния 🇷🇴": {
-                    "enabled": false
-                },
-                "Словакия 🇸🇰": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии (VPN)": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": false
-                },
-                "ТЕЛЕОС-1 (VPN)": {
-                    "enabled": false
-                },
-                "ТЕСТ 01-03-26": {
-                    "enabled": false
-                },
-                "ТТ мобайл": {
-                    "enabled": false
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Туркменистан (🇹🇲)": {
-                    "enabled": false
-                },
-                "Турция 🇹🇷": {
-                    "enabled": false
-                },
-                "Україна 🇺🇦": {
-                    "enabled": false
-                },
-                "Франция 🇫🇷": {
-                    "enabled": false
-                },
-                "Чехия 🇨🇿": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔎 ПОЗНАВАТЕЛЬНЫЕ": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/x4ozum.m3u",
-            "date_added": "2026-03-22T11:18:39.572394",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "⚽️ Спортивные": {
-                    "enabled": false
-                },
-                "⭐️ DTV": {
-                    "enabled": false
-                },
-                "⭐️ HomTV ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ IPTV-FREE ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ TvZaTak ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ ВокаТВ": {
-                    "enabled": false
-                },
-                "🇷🇺 RU (Xtreme)": {
-                    "enabled": false
-                },
-                "🇷🇺 Русский Канал": {
-                    "enabled": false
-                },
-                "🇹🇯 TJ": {
-                    "enabled": false
-                },
-                "🇹🇲 TM": {
-                    "enabled": false
-                },
-                "🇹🇷 TR": {
-                    "enabled": false
-                },
-                "🇹🇷 TR (Xtreme)": {
-                    "enabled": false
-                },
-                "🇺🇦 UA": {
-                    "enabled": false
-                },
-                "🇺🇿 UZ": {
-                    "enabled": false
-                },
-                "🌿 Познавательные": {
-                    "enabled": false
-                },
-                "🎥 Фильмы и Сериалы": {
-                    "enabled": false
-                },
-                "🎵 Музыка": {
-                    "enabled": false
-                },
-                "🎶 Music (Xtreme)": {
-                    "enabled": false
-                },
-                "👶 Детский": {
-                    "enabled": false
-                },
-                "💎 Max TV List": {
-                    "enabled": false
-                },
-                "📈 Новости": {
-                    "enabled": false
-                },
-                "📺 VF-Кинозал IPTV": {
-                    "enabled": false
-                },
-                "📺 Woobl IPTV": {
-                    "enabled": false
-                },
-                "📺 Региональный": {
-                    "enabled": false
-                },
-                "📻 Радио": {
-                    "enabled": false
-                },
-                "🔹 Mediabay TV 🔹": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/0xzi4x.m3u",
-            "date_added": "2026-03-22T13:39:27.502461",
-            "name": "Playlist from 2026-03-22",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/lhsmds.m3u",
-            "date_added": "2026-03-23T04:23:43.343712",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "TvZaTak": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/fkenbs.m3u",
-            "date_added": "2026-03-23T06:06:58.155218",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Albanija": {
-                    "enabled": false
-                },
-                "Austrija": {
-                    "enabled": false
-                },
-                "Bosna i Hercegovina": {
-                    "enabled": false
-                },
-                "Crna Gora": {
-                    "enabled": false
-                },
-                "Danska": {
-                    "enabled": false
-                },
-                "Djeciji": {
-                    "enabled": false
-                },
-                "Edukativni": {
-                    "enabled": false
-                },
-                "Film": {
-                    "enabled": false
-                },
-                "Finska": {
-                    "enabled": false
-                },
-                "Francuska": {
-                    "enabled": false
-                },
-                "Grcka": {
-                    "enabled": false
-                },
-                "Holandija": {
-                    "enabled": false
-                },
-                "Hrvatska": {
-                    "enabled": false
-                },
-                "Italija": {
-                    "enabled": false
-                },
-                "Kanada": {
-                    "enabled": false
-                },
-                "Madjarska": {
-                    "enabled": false
-                },
-                "Makedonija": {
-                    "enabled": false
-                },
-                "Malta": {
-                    "enabled": false
-                },
-                "Muzika": {
-                    "enabled": false
-                },
-                "Njemacka": {
-                    "enabled": false
-                },
-                "Norveska": {
-                    "enabled": false
-                },
-                "Pink": {
-                    "enabled": false
-                },
-                "Radio": {
-                    "enabled": false
-                },
-                "Radio Stanice": {
-                    "enabled": false
-                },
-                "SAD": {
-                    "enabled": false
-                },
-                "Slovenija": {
-                    "enabled": false
-                },
-                "Sport": {
-                    "enabled": false
-                },
-                "Srbija": {
-                    "enabled": false
-                },
-                "Svajcarska": {
-                    "enabled": false
-                },
-                "Svedska": {
-                    "enabled": false
-                },
-                "UK": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/th9psg.m3u",
-            "date_added": "2026-03-23T06:06:59.177313",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "AFR | SOUTH AFRICA VIP": {
-                    "enabled": false
-                },
-                "AFRICA VIP": {
-                    "enabled": false
-                },
-                "ARAB VIP": {
-                    "enabled": false
-                },
-                "ARAB VIP NEW": {
-                    "enabled": false
-                },
-                "ARAB | BEIN VIP": {
-                    "enabled": false
-                },
-                "ARAB | MBC & MYHD VIP": {
-                    "enabled": false
-                },
-                "ARAB | OSN VIP": {
-                    "enabled": false
-                },
-                "ASIA | AFGHANISTAN": {
-                    "enabled": false
-                },
-                "ASIA | ARMENIA VIP": {
-                    "enabled": false
-                },
-                "ASIA | AZERBAIJAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | BANGLADESH VIP": {
-                    "enabled": false
-                },
-                "ASIA | INDIA VIP": {
-                    "enabled": false
-                },
-                "ASIA | INDONESIA VIP": {
-                    "enabled": false
-                },
-                "ASIA | IRAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | ISRAEL VIP": {
-                    "enabled": false
-                },
-                "ASIA | JAPAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | KOREA VIP": {
-                    "enabled": false
-                },
-                "ASIA | KURDISTAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | MALAYSIA VIP": {
-                    "enabled": false
-                },
-                "ASIA | PAKISTAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | PHILIPPINES VIP": {
-                    "enabled": false
-                },
-                "ASIA | SINGAPORE VIP": {
-                    "enabled": false
-                },
-                "ASIA | THAILAND VIP": {
-                    "enabled": false
-                },
-                "ASIA | Taiwan, Province of China VIP": {
-                    "enabled": false
-                },
-                "ASIA | UZBEKISTAN VIP": {
-                    "enabled": false
-                },
-                "ASIA | VIETNAM VIP": {
-                    "enabled": false
-                },
-                "CANADA VIP": {
-                    "enabled": false
-                },
-                "DE | AMAZON EVENT": {
-                    "enabled": false
-                },
-                "DE | BUNDESLIGA": {
-                    "enabled": false
-                },
-                "DE | BUNDESLIGA HD": {
-                    "enabled": false
-                },
-                "DE | CINEMA SERIEN": {
-                    "enabled": false
-                },
-                "DE | DAZN EVENT": {
-                    "enabled": false
-                },
-                "DE | DEUTSCHLAND": {
-                    "enabled": false
-                },
-                "DE | DOKU": {
-                    "enabled": false
-                },
-                "DE | DYN SPORT": {
-                    "enabled": false
-                },
-                "DE | EUROSPORT EXTRA": {
-                    "enabled": false
-                },
-                "DE | FORMEL 1": {
-                    "enabled": false
-                },
-                "DE | KINDER": {
-                    "enabled": false
-                },
-                "DE | MAGENTA EVENTS": {
-                    "enabled": false
-                },
-                "DE | MIX SPORT": {
-                    "enabled": false
-                },
-                "DE | MIX SPORT HD": {
-                    "enabled": false
-                },
-                "DE | MUSIK": {
-                    "enabled": false
-                },
-                "DE | NACHRICHTEN": {
-                    "enabled": false
-                },
-                "DE | REGIONAL": {
-                    "enabled": false
-                },
-                "DE | RTL+ LIVE": {
-                    "enabled": false
-                },
-                "DE | SPORTDEUTSCHLAND.TV": {
-                    "enabled": false
-                },
-                "DE | SPORTTOTAL.TV": {
-                    "enabled": false
-                },
-                "ES | CINE & SERIES VIP": {
-                    "enabled": false
-                },
-                "ES | CULTURA VIP": {
-                    "enabled": false
-                },
-                "ES | DAZN ACB VIP": {
-                    "enabled": false
-                },
-                "ES | DEPORTES VIP": {
-                    "enabled": false
-                },
-                "ES | ESTILO DE VIDA VIP": {
-                    "enabled": false
-                },
-                "ES | INFANTILES VIP": {
-                    "enabled": false
-                },
-                "ES | LALIGA VIP": {
-                    "enabled": false
-                },
-                "ES | MUSICA VIP": {
-                    "enabled": false
-                },
-                "ES | NEWS VIP": {
-                    "enabled": false
-                },
-                "ES | OTHER VIP": {
-                    "enabled": false
-                },
-                "ES | REGIONAL VIP": {
-                    "enabled": false
-                },
-                "ES | TOP CANALES VIP": {
-                    "enabled": false
-                },
-                "ES | TOROS VIP": {
-                    "enabled": false
-                },
-                "ES | UFC": {
-                    "enabled": false
-                },
-                "EU | ALBANIA VIP": {
-                    "enabled": false
-                },
-                "EU | AUSTRIA VIP": {
-                    "enabled": false
-                },
-                "EU | BELGIUM VIP": {
-                    "enabled": false
-                },
-                "EU | BOSNIA VIP": {
-                    "enabled": false
-                },
-                "EU | BULGARIA VIP": {
-                    "enabled": false
-                },
-                "EU | CROATIA VIP": {
-                    "enabled": false
-                },
-                "EU | CZ & SLOVAK VIP": {
-                    "enabled": false
-                },
-                "EU | DENMARK VIP": {
-                    "enabled": false
-                },
-                "EU | EX-YU VIP": {
-                    "enabled": false
-                },
-                "EU | FINLAND VIP": {
-                    "enabled": false
-                },
-                "EU | GEORGIA VIP": {
-                    "enabled": false
-                },
-                "EU | GREECE VIP": {
-                    "enabled": false
-                },
-                "EU | HUNGARY VIP": {
-                    "enabled": false
-                },
-                "EU | MACEDONIA VIP": {
-                    "enabled": false
-                },
-                "EU | MALTA VIP": {
-                    "enabled": false
-                },
-                "EU | NORWAY VIP": {
-                    "enabled": false
-                },
-                "EU | ROMANIA VIP": {
-                    "enabled": false
-                },
-                "EU | SERBIA VIP": {
-                    "enabled": false
-                },
-                "EU | SLOVENIA VIP": {
-                    "enabled": false
-                },
-                "EU | SWEDEN VIP": {
-                    "enabled": false
-                },
-                "EU | SWITZERLAND VIP": {
-                    "enabled": false
-                },
-                "EXYU | BIH VIP": {
-                    "enabled": false
-                },
-                "EXYU | CRO VIP": {
-                    "enabled": false
-                },
-                "EXYU | DECA VIP": {
-                    "enabled": false
-                },
-                "EXYU | DOKUMENTARNI VIP": {
-                    "enabled": false
-                },
-                "EXYU | FILMSKI VIP": {
-                    "enabled": false
-                },
-                "EXYU | MKD VIP": {
-                    "enabled": false
-                },
-                "EXYU | MNE VIP": {
-                    "enabled": false
-                },
-                "EXYU | MUZIKA VIP": {
-                    "enabled": false
-                },
-                "EXYU | RADIO VIP": {
-                    "enabled": false
-                },
-                "EXYU | SLO VIP": {
-                    "enabled": false
-                },
-                "EXYU | SPORT VIP": {
-                    "enabled": false
-                },
-                "EXYU | SRB VIP": {
-                    "enabled": false
-                },
-                "FR | 000000": {
-                    "enabled": false
-                },
-                "FR | CANAL+ LIVE VIP": {
-                    "enabled": false
-                },
-                "FR | CINEMA VIP": {
-                    "enabled": false
-                },
-                "FR | DAZN VIP": {
-                    "enabled": false
-                },
-                "FR | DIVERTISSEMENT VIP": {
-                    "enabled": false
-                },
-                "FR | DOCUMENTAIRE VIP": {
-                    "enabled": false
-                },
-                "FR | ENFANT VIP": {
-                    "enabled": false
-                },
-                "FR | FRANCE 3": {
-                    "enabled": false
-                },
-                "FR | INFORMATION VIP": {
-                    "enabled": false
-                },
-                "FR | LIGUE1+ FHD": {
-                    "enabled": false
-                },
-                "FR | LIGUE1+ HD": {
-                    "enabled": false
-                },
-                "FR | LIGUE1+ VIP": {
-                    "enabled": false
-                },
-                "FR | MUSIQUE VIP": {
-                    "enabled": false
-                },
-                "FR | OTHER VIP": {
-                    "enabled": false
-                },
-                "FR | SPORT VIP": {
-                    "enabled": false
-                },
-                "FR | TOP CHAINES VIP": {
-                    "enabled": false
-                },
-                "IT | BAMBINI VIP": {
-                    "enabled": false
-                },
-                "IT | CINEMA VIP": {
-                    "enabled": false
-                },
-                "IT | CINEMA | EAGLE VIP": {
-                    "enabled": false
-                },
-                "IT | CINEMA | PRIMAFILA VIP": {
-                    "enabled": false
-                },
-                "IT | CINEMA | SKY VIP": {
-                    "enabled": false
-                },
-                "IT | CULTURA VIP": {
-                    "enabled": false
-                },
-                "IT | DAZN VIP": {
-                    "enabled": false
-                },
-                "IT | EUROSPORT VIP": {
-                    "enabled": false
-                },
-                "IT | GENERALE VIP": {
-                    "enabled": false
-                },
-                "IT | INFINITY VIP": {
-                    "enabled": false
-                },
-                "IT | INTRATTENIMENTO VIP": {
-                    "enabled": false
-                },
-                "IT | MUSICA VIP": {
-                    "enabled": false
-                },
-                "IT | NOTIZIE VIP": {
-                    "enabled": false
-                },
-                "IT | SERIE VIP": {
-                    "enabled": false
-                },
-                "IT | SKY CALCIO VIP": {
-                    "enabled": false
-                },
-                "IT | SKY SPORTS VIP": {
-                    "enabled": false
-                },
-                "LAME | ARGENTINA VIP": {
-                    "enabled": false
-                },
-                "LAME | BOLIVIA VIP": {
-                    "enabled": false
-                },
-                "LAME | BRAZIL VIP": {
-                    "enabled": false
-                },
-                "LAME | CARIBBEAN VIP": {
-                    "enabled": false
-                },
-                "LAME | CHILE VIP": {
-                    "enabled": false
-                },
-                "LAME | COLOMBIA VIP": {
-                    "enabled": false
-                },
-                "LAME | DOMINICAN VIP": {
-                    "enabled": false
-                },
-                "LAME | ECUADOR VIP": {
-                    "enabled": false
-                },
-                "LAME | LATINO VIP": {
-                    "enabled": false
-                },
-                "LAME | MEXICO VIP": {
-                    "enabled": false
-                },
-                "LAME | PARAGUAY VIP": {
-                    "enabled": false
-                },
-                "LAME | PERU VIP": {
-                    "enabled": false
-                },
-                "LAME | URUGUAY VIP": {
-                    "enabled": false
-                },
-                "NL | ALGEMEEN VIP": {
-                    "enabled": false
-                },
-                "NL | Categorizing": {
-                    "enabled": false
-                },
-                "NL | DAZN EVENTS": {
-                    "enabled": false
-                },
-                "NL | DOCUMENTAIRE VIP": {
-                    "enabled": false
-                },
-                "NL | ENTERTAINMENT VIP": {
-                    "enabled": false
-                },
-                "NL | FILMS EN SERIES VIP": {
-                    "enabled": false
-                },
-                "NL | KINDEREN VIP": {
-                    "enabled": false
-                },
-                "NL | MUZIEK VIP": {
-                    "enabled": false
-                },
-                "NL | REGIONALE VIP": {
-                    "enabled": false
-                },
-                "NL | SPORT VIP": {
-                    "enabled": false
-                },
-                "NL | VIAPLAY VIP": {
-                    "enabled": false
-                },
-                "OCEA | AUSTRALIA VIP": {
-                    "enabled": false
-                },
-                "OCEA | NEWZEALAND VIP": {
-                    "enabled": false
-                },
-                "PL | AKTUALNOŚCI VIP": {
-                    "enabled": false
-                },
-                "PL | CANAL+ EXTRA": {
-                    "enabled": false
-                },
-                "PL | Categorizing": {
-                    "enabled": false
-                },
-                "PL | DOKUMENTALNE VIP": {
-                    "enabled": false
-                },
-                "PL | DZIECI VIP": {
-                    "enabled": false
-                },
-                "PL | FILM VIP": {
-                    "enabled": false
-                },
-                "PL | HBO SPORTS LIVE": {
-                    "enabled": false
-                },
-                "PL | MUZYKA VIP": {
-                    "enabled": false
-                },
-                "PL | OGÓLNYL VIP": {
-                    "enabled": false
-                },
-                "PL | PPV LIVE": {
-                    "enabled": false
-                },
-                "PL | SPORT VIP": {
-                    "enabled": false
-                },
-                "PL | VIAPLAY EVENTS": {
-                    "enabled": false
-                },
-                "PPV": {
-                    "enabled": false
-                },
-                "PT | CRIANÇAS VIP": {
-                    "enabled": false
-                },
-                "PT | DOCUMENTÁRIO VIP": {
-                    "enabled": false
-                },
-                "PT | ENTRETENIMENTO VIP": {
-                    "enabled": false
-                },
-                "PT | ESPORTES VIP": {
-                    "enabled": false
-                },
-                "PT | FILME AND SERIES VIP": {
-                    "enabled": false
-                },
-                "PT | GERAL VIP": {
-                    "enabled": false
-                },
-                "PT | MÚSICA VIP": {
-                    "enabled": false
-                },
-                "PT | NOTÍCIAS VIP": {
-                    "enabled": false
-                },
-                "PT | OTHERS": {
-                    "enabled": false
-                },
-                "RUSSIAN VIP": {
-                    "enabled": false
-                },
-                "TR | CINEMA VIP": {
-                    "enabled": false
-                },
-                "TR | ENTERTAINMENT VIP": {
-                    "enabled": false
-                },
-                "TR | GENERAL VIP": {
-                    "enabled": false
-                },
-                "TR | KIDS VIP": {
-                    "enabled": false
-                },
-                "TR | SPORT VIP": {
-                    "enabled": false
-                },
-                "UK VIP NEW": {
-                    "enabled": false
-                },
-                "UK | ENGLAND VIP": {
-                    "enabled": false
-                },
-                "UKRAINE VIP": {
-                    "enabled": false
-                },
-                "USA VIP": {
-                    "enabled": false
-                },
-                "USA VIP NEW": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/lh52al.m3u",
-            "date_added": "2026-03-23T11:39:45.565144",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "4K VIDEO (VPN)": {
-                    "enabled": false
-                },
-                "AgroNet (VPN)": {
-                    "enabled": false
-                },
-                "Catcast TV 🐈 Not 24/7": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc!": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "Itv.uz (🇺🇿)": {
-                    "enabled": false
-                },
-                "KABELNET": {
-                    "enabled": false
-                },
-                "Lime (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Peers (VPN)": {
-                    "enabled": false
-                },
-                "RELAX": {
-                    "enabled": false
-                },
-                "Rutube (VPN)": {
-                    "enabled": false
-                },
-                "StarNet (VPN 🇳🇱)": {
-                    "enabled": false
-                },
-                "TEST (VPN)": {
-                    "enabled": false
-                },
-                "TEST ⓵": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Webhost (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Wink (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "АСАРТА (VPN)": {
-                    "enabled": false
-                },
-                "Большое ТВ (VPN)": {
-                    "enabled": false
-                },
-                "Виктория (VPN)": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Квант-Телеком (VPN 🇷🇺)": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": false
-                },
-                "Кубань-Телеком (VPN)": {
-                    "enabled": false
-                },
-                "Музыкальные 🎶": {
-                    "enabled": false
-                },
-                "С сайтов": {
-                    "enabled": false
-                },
-                "С сайтов (VPN)": {
-                    "enabled": false
-                },
-                "Сайт (VPN)": {
-                    "enabled": false
-                },
-                "Селектел (VPN)": {
-                    "enabled": false
-                },
-                "Сириус": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": false
-                },
-                "ТЕЛЕОС-1 (VPN)": {
-                    "enabled": false
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Телевизор 24 (VPN)": {
-                    "enabled": false
-                },
-                "Цитадель-Крым (VPN)": {
-                    "enabled": false
-                },
-                "↕️ Торрент ТВ ↕️": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔺 INFO 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ja4fwm.m3u",
-            "date_added": "2026-03-23T11:39:45.974724",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "4K VIDEO (VPN)": {
-                    "enabled": false
-                },
-                "Новинки кино (VPN)": {
-                    "enabled": false
-                },
-                "🔺 INFO 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/5n0qmf.m3u",
-            "date_added": "2026-03-23T12:52:22.904170",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/jnoq5k.m3u",
-            "date_added": "2026-03-23T12:52:22.989446",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/yqvmmr.m3u",
-            "date_added": "2026-03-23T12:52:23.096478",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/19c3b2.m3u",
-            "date_added": "2026-03-23T12:52:23.700120",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ws7quq.m3u",
-            "date_added": "2026-03-23T12:52:23.722597",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/iw5opx.m3u",
-            "date_added": "2026-03-23T12:52:23.742271",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/veb6ok.m3u",
-            "date_added": "2026-03-23T12:52:23.874195",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/c3708x.m3u",
-            "date_added": "2026-03-23T12:52:24.038414",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/t7a94p.m3u",
-            "date_added": "2026-03-23T12:52:24.195365",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ueecn6.m3u",
-            "date_added": "2026-03-23T12:52:24.259238",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/2ofi9e.m3u",
-            "date_added": "2026-03-23T12:52:24.379793",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/fqa6wu.m3u",
-            "date_added": "2026-03-23T12:52:24.513546",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/msfdq2.m3u",
-            "date_added": "2026-03-23T12:52:24.777964",
-            "name": "Playlist from 2026-03-23",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/e395yn.m3u",
-            "date_added": "2026-03-24T04:12:52.339065",
-            "name": "Playlist from 2026-03-24",
-            "groups": {
-                "TvZaTak": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ed8bm9.m3u",
-            "date_added": "2026-03-24T10:44:22.934010",
-            "name": "Playlist from 2026-03-24",
-            "groups": {
-                "4K KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "CHILDREN'S": {
-                    "enabled": false
-                },
-                "CloudFlare Inc (VPN)": {
-                    "enabled": false
-                },
-                "Cloudflare (🇺🇦)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "KINO ZAL": {
-                    "enabled": false
-                },
-                "KINO ZAL (VPN)": {
-                    "enabled": false
-                },
-                "KINO+📺": {
-                    "enabled": false
-                },
-                "Lime (VPN)": {
-                    "enabled": false
-                },
-                "NNT": {
-                    "enabled": false
-                },
-                "Peers-test-(VPN)": {
-                    "enabled": false
-                },
-                "Poland 🇵🇱": {
-                    "enabled": false
-                },
-                "SPORT 🏆": {
-                    "enabled": false
-                },
-                "Tube (VPN)": {
-                    "enabled": false
-                },
-                "Turon Media": {
-                    "enabled": false
-                },
-                "UA-TEST": {
-                    "enabled": false
-                },
-                "USA 🇺🇸": {
-                    "enabled": false
-                },
-                "Voka": {
-                    "enabled": false
-                },
-                "Азербайджан 🇦🇿": {
-                    "enabled": false
-                },
-                "Армения 🇦🇲": {
-                    "enabled": false
-                },
-                "Бегет": {
-                    "enabled": false
-                },
-                "Болгария 🇧🇬": {
-                    "enabled": false
-                },
-                "Великобритания 🇬🇧": {
-                    "enabled": false
-                },
-                "Венгрия 🇭🇺": {
-                    "enabled": false
-                },
-                "Германия 🇩🇪": {
-                    "enabled": false
-                },
-                "Грузия 🇬🇪": {
-                    "enabled": false
-                },
-                "Израиль 🇮🇱": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Испания 🇪🇸": {
-                    "enabled": false
-                },
-                "Италия 🇮🇹": {
-                    "enabled": false
-                },
-                "Казахстан 🇰🇿": {
-                    "enabled": false
-                },
-                "Каналы с VPN": {
-                    "enabled": false
-                },
-                "Кинозалы (VPN)": {
-                    "enabled": false
-                },
-                "Ку-Телеком (VPN)": {
-                    "enabled": false
-                },
-                "Кухня": {
-                    "enabled": false
-                },
-                "Кыргызстан 🇰🇬": {
-                    "enabled": false
-                },
-                "Латвия 🇱🇻": {
-                    "enabled": false
-                },
-                "МОЛДОВА 🇲🇩": {
-                    "enabled": false
-                },
-                "МУЗИКА 🎶": {
-                    "enabled": false
-                },
-                "ОБЩИЕ": {
-                    "enabled": false
-                },
-                "Португалия 🇵🇹": {
-                    "enabled": false
-                },
-                "РЕЛАКС- расслабление": {
-                    "enabled": false
-                },
-                "Румыния 🇷🇴": {
-                    "enabled": false
-                },
-                "Словакия 🇸🇰": {
-                    "enabled": false
-                },
-                "Современные сетевые технологии (VPN)": {
-                    "enabled": false
-                },
-                "ТЕЛЕОС-1 (VPN)": {
-                    "enabled": false
-                },
-                "ТЕСТ 01-03-26": {
-                    "enabled": false
-                },
-                "ТТ мобайл": {
-                    "enabled": false
-                },
-                "ТаймВэб (VPN)": {
-                    "enabled": false
-                },
-                "Туркменистан (🇹🇲)": {
-                    "enabled": false
-                },
-                "Турция 🇹🇷": {
-                    "enabled": false
-                },
-                "Україна 🇺🇦": {
-                    "enabled": false
-                },
-                "Франция 🇫🇷": {
-                    "enabled": false
-                },
-                "Чехия 🇨🇿": {
-                    "enabled": false
-                },
-                "📺 Usba TV": {
-                    "enabled": false
-                },
-                "🔎 ПОЗНАВАТЕЛЬНЫЕ": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/mhl2sg.m3u",
-            "date_added": "2026-03-24T16:00:42.899496",
-            "name": "Playlist from 2026-03-24",
-            "groups": {
-                "ARABIC": {
-                    "enabled": false
-                },
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "ЕВРОПА": {
-                    "enabled": false
-                },
-                "Информационные": {
-                    "enabled": false
-                },
-                "Казахстанские": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "ОПЛОТ": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Радиостанции": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Российские": {
-                    "enabled": false
-                },
-                "С сайтов": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                },
-                "Татарстан": {
-                    "enabled": false
-                },
-                "Турецкие": {
-                    "enabled": false
-                },
-                "Удалить": {
-                    "enabled": false
-                },
-                "Фильмовые": {
-                    "enabled": false
-                },
-                "Хобби и увлечения": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/7lel0y.m3u",
-            "date_added": "2026-03-24T17:51:08.031090",
-            "name": "Playlist from 2026-03-24",
-            "groups": {
-                "КИНО": {
-                    "enabled": false
-                },
-                "МУЗЫКА": {
-                    "enabled": false
-                },
-                "РАЗВЛЕЧЕНИЕ": {
-                    "enabled": false
-                },
-                "РАЗНОЕ": {
-                    "enabled": false
-                },
-                "СПОРТ": {
-                    "enabled": false
-                },
-                "СТРАНЫ": {
-                    "enabled": false
-                },
-                "ФЕДЕРАЛЬНЫЕ": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/olatpa.m3u",
-            "date_added": "2026-03-25T04:14:07.230898",
-            "name": "Playlist from 2026-03-25",
-            "groups": {
-                "FreeOTT #IPTV": {
-                    "enabled": false
-                },
-                "Детский #IPTV": {
-                    "enabled": false
-                },
-                "Кино #IPTV": {
-                    "enabled": false
-                },
-                "Музыка #IPTV": {
-                    "enabled": false
-                },
-                "Познавательный #IPTV": {
-                    "enabled": false
-                },
-                "Россия #IPTV": {
-                    "enabled": false
-                },
-                "Спорт #IPTV": {
-                    "enabled": false
-                },
-                "▶️ IPTV-Play": {
-                    "enabled": false
-                },
-                "☁️ SKY HIGH": {
-                    "enabled": false
-                },
-                "⭐️ HomTV ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ TvZaTak ⭐️": {
-                    "enabled": false
-                },
-                "⭐️ ВокаТВ": {
-                    "enabled": false
-                },
-                "🇹🇯 TJ": {
-                    "enabled": false
-                },
-                "🇹🇲 TM": {
-                    "enabled": false
-                },
-                "🇹🇷 TR": {
-                    "enabled": false
-                },
-                "🇺🇦 UA": {
-                    "enabled": false
-                },
-                "🌐 Интернет ТВ": {
-                    "enabled": false
-                },
-                "🍏 TV-Line": {
-                    "enabled": false
-                },
-                "🍿 BCU": {
-                    "enabled": false
-                },
-                "🐝 Bee TV": {
-                    "enabled": false
-                },
-                "💎 Max TV List": {
-                    "enabled": false
-                },
-                "📦 BOX": {
-                    "enabled": false
-                },
-                "📺 VF-Кинозал IPTV": {
-                    "enabled": false
-                },
-                "📺 Региональный": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/4j5cu8.m3u",
-            "date_added": "2026-03-26T07:58:50.758614",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "☁️ SKY HIGH": {
-                    "enabled": false
-                },
-                "🍿 BCU": {
-                    "enabled": false
-                },
-                "📦 BOX": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/6s66hc.m3u",
-            "date_added": "2026-03-26T17:57:02.633885",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/3ayyte.m3u",
-            "date_added": "2026-03-26T17:57:02.682229",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "4K": {
-                    "enabled": false
-                },
-                "IPZATAK": {
-                    "enabled": false
-                },
-                "Детки ТВ": {
-                    "enabled": false
-                },
-                "Киноканалы": {
-                    "enabled": false
-                },
-                "Наша.группа": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Украина": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/dthxhr.m3u",
-            "date_added": "2026-03-26T17:57:02.968922",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "4K VIDEO (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "AZ+GE+AM": {
-                    "enabled": false
-                },
-                "AgroNet (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "IP Petrosyan (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Internet42 LLC": {
-                    "enabled": false
-                },
-                "Itv.uz (🇺🇿)": {
-                    "enabled": false
-                },
-                "Peers (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Qazaqstan": {
-                    "enabled": false
-                },
-                "Rutube (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "TJ+TM": {
-                    "enabled": false
-                },
-                "Webhost (🤯🤯🤯 🇷🇺)": {
-                    "enabled": false
-                },
-                "Wink (🤯🤯🤯 🇷🇺)": {
-                    "enabled": false
-                },
-                "АСАРТА (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "БЕЛАРУСЬ [BY]": {
-                    "enabled": false
-                },
-                "Байкал-Телеком (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Большое ТВ (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Детям": {
-                    "enabled": false
-                },
-                "Диджитал Нетворк (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Знания": {
-                    "enabled": false
-                },
-                "Инет": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Развлечение": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Сайт (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": false
-                },
-                "ТТ мобайл": {
-                    "enabled": false
-                },
-                "Таттелеком (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Хобби": {
-                    "enabled": false
-                },
-                "Цитадель-Крым (🤯🤯🤯)": {
-                    "enabled": false
-                },
-                "Ⓜ️ МУЗЫКА Ⓜ️": {
-                    "enabled": false
-                },
-                "🌌 Россия Геоблок 🌌": {
-                    "enabled": false
-                },
-                "🌐 Региональное ТВ 🌐": {
-                    "enabled": false
-                },
-                "💥 USHBA TV 💥": {
-                    "enabled": false
-                },
-                "🔴 Кинозалы 🔴": {
-                    "enabled": false
-                },
-                "🔺 ИНФОРМАЦИЯ 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/vydmmi.m3u",
-            "date_added": "2026-03-26T17:57:03.200320",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/cya72t.m3u",
-            "date_added": "2026-03-26T17:57:03.280768",
-            "name": "Playlist from 2026-03-26",
-            "groups": {
-                "4K VIDEO (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "AZ+GE+AM": {
-                    "enabled": false
-                },
-                "AgroNet (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Cloudflare_Inc": {
-                    "enabled": false
-                },
-                "Contact+ Ltd (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "IP Petrosyan (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Itv.uz (🇺🇿)": {
-                    "enabled": false
-                },
-                "Lime (🎅🎅🎅 🇷🇺)": {
-                    "enabled": false
-                },
-                "MULTISOFT": {
-                    "enabled": false
-                },
-                "Peers (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Qazaqstan": {
-                    "enabled": false
-                },
-                "Rutube (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "TJ+TM": {
-                    "enabled": false
-                },
-                "Webhost (🎅🎅🎅 🇷🇺)": {
-                    "enabled": false
-                },
-                "Wink (🎅🎅🎅 🇷🇺)": {
-                    "enabled": false
-                },
-                "АСАРТА (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "БЕЛАРУСЬ [BY]": {
-                    "enabled": false
-                },
-                "Байкал-Телеком (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Большое ТВ (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "ВЛАДИНФО (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Детям": {
-                    "enabled": false
-                },
-                "Диджитал Нетворк (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Знания": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Развлечение": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Сайт (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Сириус": {
-                    "enabled": false
-                },
-                "Спорткомплекс 🏆": {
-                    "enabled": false
-                },
-                "ТТ мобайл": {
-                    "enabled": false
-                },
-                "Таттелеком (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Хобби": {
-                    "enabled": false
-                },
-                "Цитадель-Крым (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Ялта (🎅🎅🎅)": {
-                    "enabled": false
-                },
-                "Ⓜ️ МУЗЫКА Ⓜ️": {
-                    "enabled": false
-                },
-                "🌌 Россия Геоблок 🌌": {
-                    "enabled": false
-                },
-                "🌐 Региональное ТВ 🌐": {
-                    "enabled": false
-                },
-                "💥 USHBA TV 💥": {
-                    "enabled": false
-                },
-                "🔴 Кинозалы 🔴": {
-                    "enabled": false
-                },
-                "🔺 ИНФОРМАЦИЯ 🔺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/f0z7rq.m3u",
-            "date_added": "2026-03-27T04:29:54.587217",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "TvZaTak": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/rsyl5m.m3u",
-            "date_added": "2026-03-27T06:09:27.170524",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/1ls003.m3u",
-            "date_added": "2026-03-27T06:09:27.287663",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/ineopr.m3u",
-            "date_added": "2026-03-27T06:09:28.085908",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/u169zr.m3u",
-            "date_added": "2026-03-27T06:09:28.252034",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/h2aifn.m3u",
-            "date_added": "2026-03-27T06:09:28.315637",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/4wq17t.m3u",
-            "date_added": "2026-03-27T06:09:28.815804",
-            "name": "Playlist from 2026-03-27",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/6qenkj.m3u",
-            "date_added": "2026-03-28T04:13:47.441811",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Relax": {
-                    "enabled": false
-                },
-                "Архив.(-+)": {
-                    "enabled": false
-                },
-                "Архив.(mc+)": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Кинозал": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Радио": {
-                    "enabled": false
-                },
-                "Разное": {
-                    "enabled": false
-                },
-                "Разные": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Фильмы": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/yq4f93.m3u",
-            "date_added": "2026-03-28T04:13:47.458915",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Armenia": {
-                    "enabled": false
-                },
-                "Azerbaijan": {
-                    "enabled": false
-                },
-                "Baltic": {
-                    "enabled": false
-                },
-                "Deutschland": {
-                    "enabled": false
-                },
-                "Israel": {
-                    "enabled": false
-                },
-                "Türkiye": {
-                    "enabled": false
-                },
-                "UK": {
-                    "enabled": false
-                },
-                "Ultra HD": {
-                    "enabled": false
-                },
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Мультфильмы": {
-                    "enabled": false
-                },
-                "Новости": {
-                    "enabled": false
-                },
-                "Общероссийские": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Россия +2ч": {
-                    "enabled": false
-                },
-                "Россия +4ч": {
-                    "enabled": false
-                },
-                "Россия +7ч": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Украина": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/bhci3q.m3u",
-            "date_added": "2026-03-28T04:13:47.496172",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "TvZavTak": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/aus4gj.m3u",
-            "date_added": "2026-03-28T04:13:47.630506",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/86pobu.m3u",
-            "date_added": "2026-03-28T04:13:47.829484",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/okgejm.m3u",
-            "date_added": "2026-03-28T04:13:48.360556",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Азербайджан": {
-                    "enabled": false
-                },
-                "Армения": {
-                    "enabled": false
-                },
-                "Беларусь": {
-                    "enabled": false
-                },
-                "Германия": {
-                    "enabled": false
-                },
-                "Грузия": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Другие (тест)": {
-                    "enabled": false
-                },
-                "Израиль": {
-                    "enabled": false
-                },
-                "Казахстан": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Кинозалы": {
-                    "enabled": false
-                },
-                "Кулинарные": {
-                    "enabled": false
-                },
-                "Латвия": {
-                    "enabled": false
-                },
-                "Литва": {
-                    "enabled": false
-                },
-                "Молдова": {
-                    "enabled": false
-                },
-                "Мужские": {
-                    "enabled": false
-                },
-                "Музыкальные": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Плюсовые": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Религиозные": {
-                    "enabled": false
-                },
-                "Саудовская Аравия": {
-                    "enabled": false
-                },
-                "Спортивные": {
-                    "enabled": false
-                },
-                "Таджикистан": {
-                    "enabled": false
-                },
-                "Турция": {
-                    "enabled": false
-                },
-                "Узбекистан": {
-                    "enabled": false
-                },
-                "Украина": {
-                    "enabled": false
-                },
-                "Федеральные": {
-                    "enabled": false
-                },
-                "Экстра": {
-                    "enabled": false
-                },
-                "Эстония": {
-                    "enabled": false
-                },
-                "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/s526r7.m3u",
-            "date_added": "2026-03-28T04:13:48.520576",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italy": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Estonia": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/whvz0u.m3u",
-            "date_added": "2026-03-28T04:13:48.701155",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italy": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Estonia": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/1h6bgx.m3u",
-            "date_added": "2026-03-28T04:13:48.745482",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "4K": {
-                    "enabled": false
-                },
-                "HD": {
-                    "enabled": false
-                },
-                "HD Orig": {
-                    "enabled": false
-                },
-                "USA": {
-                    "enabled": false
-                },
-                "azərbaycan": {
-                    "enabled": false
-                },
-                "moldovenească": {
-                    "enabled": false
-                },
-                "o'zbek": {
-                    "enabled": false
-                },
-                "türk": {
-                    "enabled": false
-                },
-                "беларускія": {
-                    "enabled": false
-                },
-                "детские": {
-                    "enabled": false
-                },
-                "другие": {
-                    "enabled": false
-                },
-                "кино": {
-                    "enabled": false
-                },
-                "музыка": {
-                    "enabled": false
-                },
-                "новости": {
-                    "enabled": false
-                },
-                "познавательные": {
-                    "enabled": false
-                },
-                "развлекательные": {
-                    "enabled": false
-                },
-                "спорт": {
-                    "enabled": false
-                },
-                "точик": {
-                    "enabled": false
-                },
-                "українські": {
-                    "enabled": false
-                },
-                "қазақстан": {
-                    "enabled": false
-                },
-                "Հայկական": {
-                    "enabled": false
-                },
-                "ישראלי": {
-                    "enabled": false
-                },
-                "ქართული": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/tro6l8.m3u",
-            "date_added": "2026-03-28T04:13:48.883071",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italia": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Кинозалы": {
-                    "enabled": false
-                },
-                "Киргизия | Кыргызстан": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Религиозные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Eesti": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/a78fzh.m3u",
-            "date_added": "2026-03-28T04:13:49.299881",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/yk81xr.m3u",
-            "date_added": "2026-03-28T04:13:49.321755",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/m18lwe.m3u",
-            "date_added": "2026-03-28T04:13:49.572095",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italia": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Кинозалы": {
-                    "enabled": false
-                },
-                "Киргизия | Кыргызстан": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Религиозные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Eesti": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/l3e1yc.m3u",
-            "date_added": "2026-03-28T04:13:49.705695",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "Австралия | Australia": {
-                    "enabled": false
-                },
-                "Азербайджан | Azərbaycan": {
-                    "enabled": false
-                },
-                "Арабские | عربي": {
-                    "enabled": false
-                },
-                "Армения | Հայկական": {
-                    "enabled": false
-                },
-                "Беларусь | Беларускія": {
-                    "enabled": false
-                },
-                "Болгария | Bulgaria": {
-                    "enabled": false
-                },
-                "Бразилия | Brasil": {
-                    "enabled": false
-                },
-                "Великобритания | United Kingdom": {
-                    "enabled": false
-                },
-                "Германия | Germany": {
-                    "enabled": false
-                },
-                "Грузия | ქართული": {
-                    "enabled": false
-                },
-                "Дания | Denmark": {
-                    "enabled": false
-                },
-                "Детские": {
-                    "enabled": false
-                },
-                "Европа | Europe": {
-                    "enabled": false
-                },
-                "Египет | Egypt": {
-                    "enabled": false
-                },
-                "Израиль | ישראלי": {
-                    "enabled": false
-                },
-                "Индия | India": {
-                    "enabled": false
-                },
-                "Испания | Spain": {
-                    "enabled": false
-                },
-                "Италия | Italy": {
-                    "enabled": false
-                },
-                "Казахстан | Қазақстан": {
-                    "enabled": false
-                },
-                "Канада | Canada": {
-                    "enabled": false
-                },
-                "Кино": {
-                    "enabled": false
-                },
-                "Латвия | Latvia": {
-                    "enabled": false
-                },
-                "Литва | Lithuania": {
-                    "enabled": false
-                },
-                "Молдавия | Moldovenească": {
-                    "enabled": false
-                },
-                "Музыка": {
-                    "enabled": false
-                },
-                "Нидерланды | Netherlands": {
-                    "enabled": false
-                },
-                "Новостные": {
-                    "enabled": false
-                },
-                "Норвегия | Norway": {
-                    "enabled": false
-                },
-                "ОАЭ | UAE": {
-                    "enabled": false
-                },
-                "Общие": {
-                    "enabled": false
-                },
-                "Познавательные": {
-                    "enabled": false
-                },
-                "Польша | Poland": {
-                    "enabled": false
-                },
-                "Португалия | Portugal": {
-                    "enabled": false
-                },
-                "Развлекательные": {
-                    "enabled": false
-                },
-                "Региональные": {
-                    "enabled": false
-                },
-                "Румыния | Romania": {
-                    "enabled": false
-                },
-                "США | USA": {
-                    "enabled": false
-                },
-                "Словакия | Slovakia": {
-                    "enabled": false
-                },
-                "Спорт": {
-                    "enabled": false
-                },
-                "Таджикистан | Точик": {
-                    "enabled": false
-                },
-                "Телемагазины": {
-                    "enabled": false
-                },
-                "Турция | Türk": {
-                    "enabled": false
-                },
-                "Узбекистан | O'zbek": {
-                    "enabled": false
-                },
-                "Украина | Українські": {
-                    "enabled": false
-                },
-                "Финляндия | Finland": {
-                    "enabled": false
-                },
-                "Франция | France": {
-                    "enabled": false
-                },
-                "Хорватия | Croatia": {
-                    "enabled": false
-                },
-                "Чехия | Czech Republic": {
-                    "enabled": false
-                },
-                "Швеция | Sweden": {
-                    "enabled": false
-                },
-                "Эстония | Estonia": {
-                    "enabled": false
-                },
-                "Южная Корея | Korea": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "https://files.catbox.moe/zev7yu.m3u",
-            "date_added": "2026-03-28T04:13:49.715498",
-            "name": "Playlist from 2026-03-28",
-            "groups": {
-                "DEOOLEG": {
-                    "enabled": false
-                },
-                "Детки ТВ": {
-                    "enabled": false
-                },
-                "Израильские": {
-                    "enabled": false
-                },
-                "Позавательые": {
-                    "enabled": false
-                },
-                "Прибалтийские": {
-                    "enabled": false
-                },
-                "Спортивые": {
-                    "enabled": false
-                },
-                "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "http://6a6d1df892a4.mylistbest.net/playlists/uplist/e7e6d2f80ce94fa8d491e74cf8cefbe2/playlist.m3u8",
-            "date_added": "2026-04-01T06:24:19.954799",
-            "name": "Playlist from 2026-04-01",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "http://7ae79dee2a2a.ottclub.net/playlists/uplist/4adbd7201db3583d7217d9be56b37f5f/playlist.m3u8",
-            "date_added": "2026-04-01T06:24:20.164348",
-            "name": "Playlist from 2026-04-01",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
-        },
-        {
-            "url": "http://1397e6fe97bb.mylistbest.net/playlists/uplist/86b6dfbb756378fd0d48a05bf5f6af43/playlist.m3u8",
-            "date_added": "2026-04-01T06:24:20.190923",
-            "name": "Playlist from 2026-04-01",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
+            "url": "http://efe4e593b093.akciatv.org/playlists/uplist/32f7a50f6a46ba2a9b119eac958a8720/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.354751",
+            "name": "Playlist from 2026-04-01"
         },
         {
             "url": "http://1d60239845ee.faststreem.org/playlists/uplist/cbef58315a0cbecc4afbd134e9b45444/playlist.m3u8",
             "date_added": "2026-04-01T06:24:20.324826",
-            "name": "Playlist from 2026-04-01",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
+            "name": "Playlist from 2026-04-01"
         },
         {
-            "url": "http://efe4e593b093.akciatv.org/playlists/uplist/32f7a50f6a46ba2a9b119eac958a8720/playlist.m3u8",
-            "date_added": "2026-04-01T06:24:20.354751",
-            "name": "Playlist from 2026-04-01",
-            "groups": {
-                "Разное": {
-                    "enabled": false
-                }
-            }
+            "url": "http://1397e6fe97bb.mylistbest.net/playlists/uplist/86b6dfbb756378fd0d48a05bf5f6af43/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.190923",
+            "name": "Playlist from 2026-04-01"
+        },
+        {
+            "url": "http://7ae79dee2a2a.ottclub.net/playlists/uplist/4adbd7201db3583d7217d9be56b37f5f/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.164348",
+            "name": "Playlist from 2026-04-01"
+        },
+        {
+            "url": "http://6a6d1df892a4.mylistbest.net/playlists/uplist/e7e6d2f80ce94fa8d491e74cf8cefbe2/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:19.954799",
+            "name": "Playlist from 2026-04-01"
+        },
+        {
+            "url": "https://files.catbox.moe/zev7yu.m3u",
+            "date_added": "2026-03-28T04:13:49.715498",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/l3e1yc.m3u",
+            "date_added": "2026-03-28T04:13:49.705695",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/m18lwe.m3u",
+            "date_added": "2026-03-28T04:13:49.572095",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/yk81xr.m3u",
+            "date_added": "2026-03-28T04:13:49.321755",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/a78fzh.m3u",
+            "date_added": "2026-03-28T04:13:49.299881",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/tro6l8.m3u",
+            "date_added": "2026-03-28T04:13:48.883071",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/1h6bgx.m3u",
+            "date_added": "2026-03-28T04:13:48.745482",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/whvz0u.m3u",
+            "date_added": "2026-03-28T04:13:48.701155",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/s526r7.m3u",
+            "date_added": "2026-03-28T04:13:48.520576",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/okgejm.m3u",
+            "date_added": "2026-03-28T04:13:48.360556",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/86pobu.m3u",
+            "date_added": "2026-03-28T04:13:47.829484",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/aus4gj.m3u",
+            "date_added": "2026-03-28T04:13:47.630506",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/bhci3q.m3u",
+            "date_added": "2026-03-28T04:13:47.496172",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/yq4f93.m3u",
+            "date_added": "2026-03-28T04:13:47.458915",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/6qenkj.m3u",
+            "date_added": "2026-03-28T04:13:47.441811",
+            "name": "Playlist from 2026-03-28"
+        },
+        {
+            "url": "https://files.catbox.moe/4wq17t.m3u",
+            "date_added": "2026-03-27T06:09:28.815804",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/h2aifn.m3u",
+            "date_added": "2026-03-27T06:09:28.315637",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/u169zr.m3u",
+            "date_added": "2026-03-27T06:09:28.252034",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/ineopr.m3u",
+            "date_added": "2026-03-27T06:09:28.085908",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/1ls003.m3u",
+            "date_added": "2026-03-27T06:09:27.287663",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/rsyl5m.m3u",
+            "date_added": "2026-03-27T06:09:27.170524",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/f0z7rq.m3u",
+            "date_added": "2026-03-27T04:29:54.587217",
+            "name": "Playlist from 2026-03-27"
+        },
+        {
+            "url": "https://files.catbox.moe/cya72t.m3u",
+            "date_added": "2026-03-26T17:57:03.280768",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/vydmmi.m3u",
+            "date_added": "2026-03-26T17:57:03.200320",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/dthxhr.m3u",
+            "date_added": "2026-03-26T17:57:02.968922",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/3ayyte.m3u",
+            "date_added": "2026-03-26T17:57:02.682229",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/6s66hc.m3u",
+            "date_added": "2026-03-26T17:57:02.633885",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/4j5cu8.m3u",
+            "date_added": "2026-03-26T07:58:50.758614",
+            "name": "Playlist from 2026-03-26"
+        },
+        {
+            "url": "https://files.catbox.moe/olatpa.m3u",
+            "date_added": "2026-03-25T04:14:07.230898",
+            "name": "Playlist from 2026-03-25"
+        },
+        {
+            "url": "https://files.catbox.moe/7lel0y.m3u",
+            "date_added": "2026-03-24T17:51:08.031090",
+            "name": "Playlist from 2026-03-24"
+        },
+        {
+            "url": "https://files.catbox.moe/mhl2sg.m3u",
+            "date_added": "2026-03-24T16:00:42.899496",
+            "name": "Playlist from 2026-03-24"
+        },
+        {
+            "url": "https://files.catbox.moe/ed8bm9.m3u",
+            "date_added": "2026-03-24T10:44:22.934010",
+            "name": "Playlist from 2026-03-24"
+        },
+        {
+            "url": "https://files.catbox.moe/e395yn.m3u",
+            "date_added": "2026-03-24T04:12:52.339065",
+            "name": "Playlist from 2026-03-24"
+        },
+        {
+            "url": "https://files.catbox.moe/msfdq2.m3u",
+            "date_added": "2026-03-23T12:52:24.777964",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/fqa6wu.m3u",
+            "date_added": "2026-03-23T12:52:24.513546",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/2ofi9e.m3u",
+            "date_added": "2026-03-23T12:52:24.379793",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/ueecn6.m3u",
+            "date_added": "2026-03-23T12:52:24.259238",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/t7a94p.m3u",
+            "date_added": "2026-03-23T12:52:24.195365",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/c3708x.m3u",
+            "date_added": "2026-03-23T12:52:24.038414",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/veb6ok.m3u",
+            "date_added": "2026-03-23T12:52:23.874195",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/iw5opx.m3u",
+            "date_added": "2026-03-23T12:52:23.742271",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/ws7quq.m3u",
+            "date_added": "2026-03-23T12:52:23.722597",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/19c3b2.m3u",
+            "date_added": "2026-03-23T12:52:23.700120",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/yqvmmr.m3u",
+            "date_added": "2026-03-23T12:52:23.096478",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/jnoq5k.m3u",
+            "date_added": "2026-03-23T12:52:22.989446",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/5n0qmf.m3u",
+            "date_added": "2026-03-23T12:52:22.904170",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/ja4fwm.m3u",
+            "date_added": "2026-03-23T11:39:45.974724",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/lh52al.m3u",
+            "date_added": "2026-03-23T11:39:45.565144",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/th9psg.m3u",
+            "date_added": "2026-03-23T06:06:59.177313",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/fkenbs.m3u",
+            "date_added": "2026-03-23T06:06:58.155218",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/lhsmds.m3u",
+            "date_added": "2026-03-23T04:23:43.343712",
+            "name": "Playlist from 2026-03-23"
+        },
+        {
+            "url": "https://files.catbox.moe/0xzi4x.m3u",
+            "date_added": "2026-03-22T13:39:27.502461",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/x4ozum.m3u",
+            "date_added": "2026-03-22T11:18:39.572394",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/rgtoa1.m3u",
+            "date_added": "2026-03-22T07:34:41.350710",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/kbia88.m3u",
+            "date_added": "2026-03-22T04:13:51.329221",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/c4ogvw.m3u",
+            "date_added": "2026-03-22T04:13:50.410159",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/00bifg.m3u",
+            "date_added": "2026-03-22T04:13:50.223184",
+            "name": "Playlist from 2026-03-22"
+        },
+        {
+            "url": "https://files.catbox.moe/4tcn5n.m3u",
+            "date_added": "2026-03-21T16:21:53.379219",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/aimahl.m3u",
+            "date_added": "2026-03-21T14:21:09.734560",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/gksyh3.m3u",
+            "date_added": "2026-03-21T14:21:09.233704",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/6y1uns.m3u",
+            "date_added": "2026-03-21T10:20:21.769492",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/cq07s7.m3u",
+            "date_added": "2026-03-21T08:25:03.311178",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/pbfxis.m3u",
+            "date_added": "2026-03-21T08:25:02.629990",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/4oo8ks.m3u",
+            "date_added": "2026-03-21T03:59:54.189512",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/fw5h7y.m3u",
+            "date_added": "2026-03-21T03:59:54.164212",
+            "name": "Playlist from 2026-03-21"
+        },
+        {
+            "url": "https://files.catbox.moe/6s5odw.m3u",
+            "date_added": "2026-03-20T16:35:51.279641",
+            "name": "Playlist from 2026-03-20"
+        },
+        {
+            "url": "https://files.catbox.moe/lo6sis.m3u",
+            "date_added": "2026-03-20T16:35:49.706801",
+            "name": "Playlist from 2026-03-20"
+        },
+        {
+            "url": "https://files.catbox.moe/t04yl5.m3u",
+            "date_added": "2026-03-20T10:31:54.873183",
+            "name": "Playlist from 2026-03-20"
+        },
+        {
+            "url": "https://files.catbox.moe/xqrw9u.m3u",
+            "date_added": "2026-03-20T10:31:54.149207",
+            "name": "Playlist from 2026-03-20"
+        },
+        {
+            "url": "https://files.catbox.moe/04onj6.m3u",
+            "date_added": "2026-03-20T07:41:26.260135",
+            "name": "Playlist from 2026-03-20"
+        },
+        {
+            "url": "https://files.catbox.moe/utyf1r.m3u",
+            "date_added": "2026-03-19T17:39:43.119373",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/blv1ev.m3u",
+            "date_added": "2026-03-19T17:08:30.062350",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/3yie2l.m3u",
+            "date_added": "2026-03-19T17:08:29.370151",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/274p8l.m3u",
+            "date_added": "2026-03-19T17:08:29.332377",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/z5gk86.m3u",
+            "date_added": "2026-03-19T17:08:29.231278",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/bhv9rv.m3u",
+            "date_added": "2026-03-19T17:08:29.209195",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/cqiqpk.m3u",
+            "date_added": "2026-03-19T17:08:29.147852",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/ijm8u6.m3u",
+            "date_added": "2026-03-19T17:08:29.123513",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/zk6a0h.m3u",
+            "date_added": "2026-03-19T17:08:28.744989",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/qkkgw0.m3u",
+            "date_added": "2026-03-19T17:08:28.734071",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/z2btu3.m3u",
+            "date_added": "2026-03-19T17:08:28.686590",
+            "name": "Playlist from 2026-03-19"
+        },
+        {
+            "url": "https://files.catbox.moe/oxms7p.m3u",
+            "date_added": "2026-03-19T17:08:28.592391",
+            "name": "Playlist from 2026-03-19"
         }
-    ]
+    ],
+    "groups": {
+        "4K": false,
+        "4K KINO ZAL (VPN)": false,
+        "4K VIDEO (VPN)": false,
+        "4K VIDEO (🎅🎅🎅)": false,
+        "4K VIDEO (🤯🤯🤯)": false,
+        "AFR | SOUTH AFRICA VIP": false,
+        "AFRICA VIP": false,
+        "ARAB VIP": false,
+        "ARAB VIP NEW": false,
+        "ARAB | BEIN VIP": false,
+        "ARAB | MBC & MYHD VIP": false,
+        "ARAB | OSN VIP": false,
+        "ARABIC": false,
+        "ASIA | AFGHANISTAN": false,
+        "ASIA | ARMENIA VIP": false,
+        "ASIA | AZERBAIJAN VIP": false,
+        "ASIA | BANGLADESH VIP": false,
+        "ASIA | INDIA VIP": false,
+        "ASIA | INDONESIA VIP": false,
+        "ASIA | IRAN VIP": false,
+        "ASIA | ISRAEL VIP": false,
+        "ASIA | JAPAN VIP": false,
+        "ASIA | KOREA VIP": false,
+        "ASIA | KURDISTAN VIP": false,
+        "ASIA | MALAYSIA VIP": false,
+        "ASIA | PAKISTAN VIP": false,
+        "ASIA | PHILIPPINES VIP": false,
+        "ASIA | SINGAPORE VIP": false,
+        "ASIA | THAILAND VIP": false,
+        "ASIA | Taiwan, Province of China VIP": false,
+        "ASIA | UZBEKISTAN VIP": false,
+        "ASIA | VIETNAM VIP": false,
+        "AZ+GE+AM": false,
+        "AgroNet (VPN)": false,
+        "AgroNet (🎅🎅🎅)": false,
+        "AgroNet (🤯🤯🤯)": false,
+        "Albanija": false,
+        "Armenia": false,
+        "Austrija": false,
+        "Azerbaijan": false,
+        "BCU Woobl IPTV": true,
+        "BOX Woobl IPTV": true,
+        "BPK TV Казахстан": false,
+        "Baltic": false,
+        "Bosna i Hercegovina": false,
+        "CANADA VIP": false,
+        "CHILDREN'S": false,
+        "Catcast TV 🐈 Not 24/7": false,
+        "Cinerama UZ": false,
+        "Clarity4K": true,
+        "CloudFlare Inc (VPN 🇷🇺)": false,
+        "CloudFlare Inc (VPN)": false,
+        "Cloudflare (🇺🇦)": false,
+        "Cloudflare_Inc": false,
+        "Cloudflare_Inc!": false,
+        "Contact+ Ltd (🎅🎅🎅)": false,
+        "Crna Gora": false,
+        "Czech&Slovak": false,
+        "DE | AMAZON EVENT": false,
+        "DE | BUNDESLIGA": false,
+        "DE | BUNDESLIGA HD": false,
+        "DE | CINEMA SERIEN": false,
+        "DE | DAZN EVENT": false,
+        "DE | DEUTSCHLAND": false,
+        "DE | DOKU": false,
+        "DE | DYN SPORT": false,
+        "DE | EUROSPORT EXTRA": false,
+        "DE | FORMEL 1": false,
+        "DE | KINDER": false,
+        "DE | MAGENTA EVENTS": false,
+        "DE | MIX SPORT": false,
+        "DE | MIX SPORT HD": false,
+        "DE | MUSIK": false,
+        "DE | NACHRICHTEN": false,
+        "DE | REGIONAL": false,
+        "DE | RTL+ LIVE": false,
+        "DE | SPORTDEUTSCHLAND.TV": false,
+        "DE | SPORTTOTAL.TV": false,
+        "DEOOLEG": false,
+        "Danska": false,
+        "Deutschland": false,
+        "Djeciji": false,
+        "ES | CINE & SERIES VIP": false,
+        "ES | CULTURA VIP": false,
+        "ES | DAZN ACB VIP": false,
+        "ES | DEPORTES VIP": false,
+        "ES | ESTILO DE VIDA VIP": false,
+        "ES | INFANTILES VIP": false,
+        "ES | LALIGA VIP": false,
+        "ES | MUSICA VIP": false,
+        "ES | NEWS VIP": false,
+        "ES | OTHER VIP": false,
+        "ES | REGIONAL VIP": false,
+        "ES | TOP CANALES VIP": false,
+        "ES | TOROS VIP": false,
+        "ES | UFC": false,
+        "EU | ALBANIA VIP": false,
+        "EU | AUSTRIA VIP": false,
+        "EU | BELGIUM VIP": false,
+        "EU | BOSNIA VIP": false,
+        "EU | BULGARIA VIP": false,
+        "EU | CROATIA VIP": false,
+        "EU | CZ & SLOVAK VIP": false,
+        "EU | DENMARK VIP": false,
+        "EU | EX-YU VIP": false,
+        "EU | FINLAND VIP": false,
+        "EU | GEORGIA VIP": false,
+        "EU | GREECE VIP": false,
+        "EU | HUNGARY VIP": false,
+        "EU | MACEDONIA VIP": false,
+        "EU | MALTA VIP": false,
+        "EU | NORWAY VIP": false,
+        "EU | ROMANIA VIP": false,
+        "EU | SERBIA VIP": false,
+        "EU | SLOVENIA VIP": false,
+        "EU | SWEDEN VIP": false,
+        "EU | SWITZERLAND VIP": false,
+        "EXYU | BIH VIP": false,
+        "EXYU | CRO VIP": false,
+        "EXYU | DECA VIP": false,
+        "EXYU | DOKUMENTARNI VIP": false,
+        "EXYU | FILMSKI VIP": false,
+        "EXYU | MKD VIP": false,
+        "EXYU | MNE VIP": false,
+        "EXYU | MUZIKA VIP": false,
+        "EXYU | RADIO VIP": false,
+        "EXYU | SLO VIP": false,
+        "EXYU | SPORT VIP": false,
+        "EXYU | SRB VIP": false,
+        "Edukativni": false,
+        "FR | 000000": false,
+        "FR | CANAL+ LIVE VIP": false,
+        "FR | CINEMA VIP": false,
+        "FR | DAZN VIP": false,
+        "FR | DIVERTISSEMENT VIP": false,
+        "FR | DOCUMENTAIRE VIP": false,
+        "FR | ENFANT VIP": false,
+        "FR | FRANCE 3": false,
+        "FR | INFORMATION VIP": false,
+        "FR | LIGUE1+ FHD": false,
+        "FR | LIGUE1+ HD": false,
+        "FR | LIGUE1+ VIP": false,
+        "FR | MUSIQUE VIP": false,
+        "FR | OTHER VIP": false,
+        "FR | SPORT VIP": false,
+        "FR | TOP CHAINES VIP": false,
+        "FREE OTT": false,
+        "Film": false,
+        "Finska": false,
+        "Francuska": false,
+        "FreeOTT #IPTV": false,
+        "Grcka": false,
+        "HD": false,
+        "HD Orig": false,
+        "Holandija": false,
+        "Hrvatska": false,
+        "IP Petrosyan (🎅🎅🎅)": false,
+        "IP Petrosyan (🤯🤯🤯)": false,
+        "IPZATAK": false,
+        "IT | BAMBINI VIP": false,
+        "IT | CINEMA VIP": false,
+        "IT | CINEMA | EAGLE VIP": false,
+        "IT | CINEMA | PRIMAFILA VIP": false,
+        "IT | CINEMA | SKY VIP": false,
+        "IT | CULTURA VIP": false,
+        "IT | DAZN VIP": false,
+        "IT | EUROSPORT VIP": false,
+        "IT | GENERALE VIP": false,
+        "IT | INFINITY VIP": false,
+        "IT | INTRATTENIMENTO VIP": false,
+        "IT | MUSICA VIP": false,
+        "IT | NOTIZIE VIP": false,
+        "IT | SERIE VIP": false,
+        "IT | SKY CALCIO VIP": false,
+        "IT | SKY SPORTS VIP": false,
+        "Internet42 LLC": false,
+        "Israel": false,
+        "Italija": false,
+        "Itv.uz": false,
+        "Itv.uz (🇺🇿)": false,
+        "Itv.uz 🇺🇿": false,
+        "KABELNET": false,
+        "KINO ZAL": true,
+        "KINO ZAL (VPN)": false,
+        "KINO+📺": false,
+        "Kanada": false,
+        "Kubtel TV": false,
+        "LAME | ARGENTINA VIP": false,
+        "LAME | BOLIVIA VIP": false,
+        "LAME | BRAZIL VIP": false,
+        "LAME | CARIBBEAN VIP": false,
+        "LAME | CHILE VIP": false,
+        "LAME | COLOMBIA VIP": false,
+        "LAME | DOMINICAN VIP": false,
+        "LAME | ECUADOR VIP": false,
+        "LAME | LATINO VIP": false,
+        "LAME | MEXICO VIP": false,
+        "LAME | PARAGUAY VIP": false,
+        "LAME | PERU VIP": false,
+        "LAME | URUGUAY VIP": false,
+        "Lime (VPN 🇷🇺)": false,
+        "Lime (VPN)": false,
+        "Lime (🎅🎅🎅 🇷🇺)": false,
+        "MULTISOFT": false,
+        "Madjarska": false,
+        "Makedonija": false,
+        "Malta": false,
+        "Marvel": true,
+        "Muzika": false,
+        "NEXO": false,
+        "NL | ALGEMEEN VIP": false,
+        "NL | Categorizing": false,
+        "NL | DAZN EVENTS": false,
+        "NL | DOCUMENTAIRE VIP": false,
+        "NL | ENTERTAINMENT VIP": false,
+        "NL | FILMS EN SERIES VIP": false,
+        "NL | KINDEREN VIP": false,
+        "NL | MUZIEK VIP": false,
+        "NL | REGIONALE VIP": false,
+        "NL | SPORT VIP": false,
+        "NL | VIAPLAY VIP": false,
+        "NNT": false,
+        "Njemacka": false,
+        "Norveska": false,
+        "OCEA | AUSTRALIA VIP": false,
+        "OCEA | NEWZEALAND VIP": false,
+        "PL | AKTUALNOŚCI VIP": false,
+        "PL | CANAL+ EXTRA": false,
+        "PL | Categorizing": false,
+        "PL | DOKUMENTALNE VIP": false,
+        "PL | DZIECI VIP": false,
+        "PL | FILM VIP": false,
+        "PL | HBO SPORTS LIVE": false,
+        "PL | MUZYKA VIP": false,
+        "PL | OGÓLNYL VIP": false,
+        "PL | PPV LIVE": false,
+        "PL | SPORT VIP": false,
+        "PL | VIAPLAY EVENTS": false,
+        "PPV": false,
+        "PT | CRIANÇAS VIP": false,
+        "PT | DOCUMENTÁRIO VIP": false,
+        "PT | ENTRETENIMENTO VIP": false,
+        "PT | ESPORTES VIP": false,
+        "PT | FILME AND SERIES VIP": false,
+        "PT | GERAL VIP": false,
+        "PT | MÚSICA VIP": false,
+        "PT | NOTÍCIAS VIP": false,
+        "PT | OTHERS": false,
+        "Peers (VPN)": false,
+        "Peers (🎅🎅🎅)": false,
+        "Peers (🤯🤯🤯)": false,
+        "Peers-test-(VPN)": false,
+        "Pink": false,
+        "Poland 🇵🇱": false,
+        "Qazaqstan": false,
+        "RELAX": false,
+        "RUSSIAN VIP": false,
+        "Radio": false,
+        "Radio Stanice": false,
+        "Relax": false,
+        "Rutube (VPN)": false,
+        "Rutube (🎅🎅🎅)": false,
+        "Rutube (🤯🤯🤯)": false,
+        "SAD": false,
+        "SKY HIGH Woobl IPTV": false,
+        "SPORT 🏆": false,
+        "Slovenija": false,
+        "Sport": true,
+        "Srbija": false,
+        "StarNet (VPN 🇳🇱)": false,
+        "Svajcarska": false,
+        "Svedska": false,
+        "TEST": false,
+        "TEST (VPN)": false,
+        "TEST ⓵": false,
+        "TJ+TM": false,
+        "TR | CINEMA VIP": false,
+        "TR | ENTERTAINMENT VIP": false,
+        "TR | GENERAL VIP": false,
+        "TR | KIDS VIP": false,
+        "TR | SPORT VIP": false,
+        "Tube (VPN)": false,
+        "Turon Media": false,
+        "Turon Media😎": false,
+        "TvZaTak": false,
+        "TvZavTak": false,
+        "Türkiye": false,
+        "UA-TEST": false,
+        "UK": false,
+        "UK VIP NEW": false,
+        "UK | ENGLAND VIP": false,
+        "UKRAINE VIP": false,
+        "USA": false,
+        "USA VIP": false,
+        "USA VIP NEW": false,
+        "USA 🇺🇸": false,
+        "Ultra HD": false,
+        "Usba TV": false,
+        "Voka": false,
+        "Voka TV": false,
+        "Webhost (VPN 🇷🇺)": false,
+        "Webhost (🎅🎅🎅 🇷🇺)": false,
+        "Webhost (🤯🤯🤯 🇷🇺)": false,
+        "Wink (VPN 🇷🇺)": false,
+        "Wink (🎅🎅🎅 🇷🇺)": false,
+        "Wink (🤯🤯🤯 🇷🇺)": false,
+        "Woobl TV": false,
+        "azərbaycan": false,
+        "cdn.kubteltv 👀": false,
+        "moldovenească": false,
+        "o'zbek": false,
+        "türk": false,
+        "АСАРТА (VPN)": false,
+        "АСАРТА (🎅🎅🎅)": false,
+        "АСАРТА (🤯🤯🤯)": false,
+        "Австралия | Australia": false,
+        "Азербайджан": false,
+        "Азербайджан | Azərbaycan": false,
+        "Азербайджан 🇦🇿": false,
+        "Азербайжан": false,
+        "Арабские | عربي": false,
+        "Армения": false,
+        "Армения | Հայկական": false,
+        "Армения 🇦🇲": false,
+        "Архив.(-+)": false,
+        "Архив.(mc+)": false,
+        "Афганистан": false,
+        "БЕЛАРУСЬ [BY]": false,
+        "Байкал-Телеком (🎅🎅🎅)": false,
+        "Байкал-Телеком (🤯🤯🤯)": false,
+        "Бегет": false,
+        "Беларусь": false,
+        "Беларусь (BY)": false,
+        "Беларусь | Беларускія": false,
+        "Белорусские": false,
+        "Боевик": false,
+        "Боевики": false,
+        "Болгария": false,
+        "Болгария | Bulgaria": false,
+        "Болгария 🇧🇬": false,
+        "Большое ТВ (VPN)": false,
+        "Большое ТВ (🎅🎅🎅)": false,
+        "Большое ТВ (🤯🤯🤯)": false,
+        "Бразилия | Brasil": false,
+        "ВЛАДИНФО (🎅🎅🎅)": false,
+        "Великобритания": false,
+        "Великобритания | United Kingdom": false,
+        "Великобритания 🇬🇧": false,
+        "Венгрия": false,
+        "Венгрия 🇭🇺": false,
+        "Виктория (VPN)": false,
+        "Германия": false,
+        "Германия | Germany": false,
+        "Германия 🇩🇪": false,
+        "Грузия": false,
+        "Грузия | ქართული": false,
+        "Грузия 🇬🇪": false,
+        "Дания | Denmark": false,
+        "Детки ТВ": false,
+        "Детские": false,
+        "Детский": false,
+        "Детский #IPTV": false,
+        "Детям": false,
+        "Диджитал Нетворк (🎅🎅🎅)": false,
+        "Диджитал Нетворк (🤯🤯🤯)": false,
+        "Досуг": false,
+        "Драма": false,
+        "Драмы": false,
+        "Другие (тест)": false,
+        "ЕВРОПА": false,
+        "Европа | Europe": false,
+        "Египет | Egypt": false,
+        "Знания": false,
+        "ИНФО": false,
+        "Израиль": false,
+        "Израиль | ישראלי": false,
+        "Израиль 🇮🇱": false,
+        "Израильские": false,
+        "Индия": false,
+        "Индия | India": false,
+        "Инет": false,
+        "Информационные": false,
+        "Испания": false,
+        "Испания | Spain": false,
+        "Испания 🇪🇸": false,
+        "История": false,
+        "Италия": false,
+        "Италия | Italia": false,
+        "Италия | Italy": false,
+        "Италия 🇮🇹": false,
+        "КИНО": false,
+        "КИНОЗАЛ": true,
+        "Казахстан": false,
+        "Казахстан | Қазақстан": false,
+        "Казахстан 🇰🇿": false,
+        "Казахстанские": false,
+        "Канада | Canada": false,
+        "Каналы с VPN": false,
+        "Квант-Телеком (VPN 🇷🇺)": false,
+        "Кино": false,
+        "Кино #IPTV": false,
+        "Кино Канал": false,
+        "Кино и сериалы": false,
+        "Кинозал": true,
+        "Кинозал Top Gear": true,
+        "Кинозалы": true,
+        "Кинозалы (VPN)": false,
+        "Киноканалы": false,
+        "Киргизия | Кыргызстан": false,
+        "Комедии": false,
+        "Комедия": false,
+        "Ку-Телеком (VPN)": false,
+        "Кубань-Телеком (VPN)": false,
+        "Кулинарные": false,
+        "Кухня": false,
+        "Кыргызстан 🇰🇬": false,
+        "Латвия": false,
+        "Латвия | Latvia": false,
+        "Латвия 🇱🇻": false,
+        "Литва": false,
+        "Литва | Lithuania": false,
+        "МОЛДОВА 🇲🇩": false,
+        "МУЗИКА 🎶": false,
+        "МУЗЫКА": false,
+        "Мелодрама": false,
+        "Мелодрамы": false,
+        "Молдавия": false,
+        "Молдавия | Moldovenească": false,
+        "Молдова": false,
+        "Мужские": false,
+        "Музыка": false,
+        "Музыка #IPTV": false,
+        "Музыкальные": false,
+        "Музыкальные 🎶": false,
+        "Мултики на (UZB) языке": false,
+        "Мультфильмы": false,
+        "Наша.группа": false,
+        "Нидерланды | Netherlands": false,
+        "Новинки кино (VPN)": false,
+        "Новости": false,
+        "Новости 🗞": false,
+        "Новостные": false,
+        "Норвегия | Norway": false,
+        "ОАЭ | UAE": false,
+        "ОБЩИЕ": false,
+        "ОПЛОТ": false,
+        "Общероссийские": false,
+        "Общие": false,
+        "Плюсовые": false,
+        "Позавательые": false,
+        "Познавательное": true,
+        "Познавательные": true,
+        "Познавательный #IPTV": true,
+        "Польша": false,
+        "Польша | Poland": false,
+        "Популярные": true,
+        "Португалия | Portugal": false,
+        "Португалия 🇵🇹": false,
+        "Прибалтийские": false,
+        "Приключения": false,
+        "Просто ТВ": false,
+        "РАЗВЛЕЧЕНИЕ": true,
+        "РАЗНОЕ": false,
+        "РЕГИОНАЛЬНЫЕ ✅": false,
+        "РЕЛАКС- расслабление": false,
+        "РОССИЯ.РЕГИОНЫ 🇷🇺": false,
+        "Радио": false,
+        "Радио ЕКБ ⛪️": false,
+        "Радио ТВ 🔊": false,
+        "Радиостанции": false,
+        "Развлекательное": true,
+        "Развлекательные": true,
+        "Развлечение": true,
+        "Разное": false,
+        "Разные": false,
+        "Региональные": false,
+        "Региональные ♻️": false,
+        "Регионы": false,
+        "Религиозные": false,
+        "Религия": false,
+        "Российские": false,
+        "Россия": false,
+        "Россия #IPTV": false,
+        "Россия (RU)": false,
+        "Россия (ТЕСТ)": false,
+        "Россия +2ч": false,
+        "Россия +4ч": false,
+        "Россия +7ч": false,
+        "РуКино": false,
+        "Румыния | Romania": false,
+        "Румыния 🇷🇴": false,
+        "Русское кино": false,
+        "С сайтов": false,
+        "С сайтов (VPN)": false,
+        "СПОРТ": false,
+        "СТРАНЫ": false,
+        "США | USA": false,
+        "Сайт (VPN)": false,
+        "Сайт (🎅🎅🎅)": false,
+        "Сайт (🤯🤯🤯)": false,
+        "Саудовская Аравия": false,
+        "Селектел (VPN)": false,
+        "Сербия": false,
+        "Сириус": false,
+        "Словакия": false,
+        "Словакия | Slovakia": false,
+        "Словакия 🇸🇰": false,
+        "Современные сетевые технологии": false,
+        "Современные сетевые технологии (VPN)": false,
+        "Спорт": false,
+        "Спорт #IPTV": false,
+        "Спорт Тест": false,
+        "Спортивные": false,
+        "Спортивые": false,
+        "Спорткомплекс 🏆": false,
+        "ТЕЛЕОС-1 (VPN)": false,
+        "ТЕСТ 01-03-26": false,
+        "ТОП": false,
+        "ТТ мобайл": false,
+        "Таджикистан": false,
+        "Таджикистан | Точик": false,
+        "ТаймВэб (VPN)": false,
+        "Татарстан": false,
+        "Таттелеком (🎅🎅🎅)": false,
+        "Таттелеком (🤯🤯🤯)": false,
+        "Театр на экране": false,
+        "Телевизор 24": false,
+        "Телевизор 24 (VPN)": false,
+        "Телемагазины": false,
+        "Триколор 🇷🇺": false,
+        "Триллер": false,
+        "Триллеры": false,
+        "Турецкие": false,
+        "Туркменистан": false,
+        "Туркменистан (🇹🇲)": false,
+        "Турция": false,
+        "Турция | Türk": false,
+        "Турция 🇹🇷": false,
+        "Удалить": false,
+        "Ужасы": false,
+        "Узбек телеком 🇺🇿": false,
+        "Узбекистан": false,
+        "Узбекистан | O'zbek": false,
+        "Узбекские": false,
+        "Узбектелеком": false,
+        "Узбектелеком_2": false,
+        "Украина": false,
+        "Украина (UA)": false,
+        "Украина | Українські": false,
+        "Україна 🇺🇦": false,
+        "ФЕДЕРАЛЬНЫЕ": false,
+        "Фантастика": false,
+        "Федеральные": false,
+        "Фильмовые": false,
+        "Фильмы": false,
+        "Фильмы и сериалы": false,
+        "Фильмы на (UZB) языке": false,
+        "Финляндия | Finland": false,
+        "Франция": false,
+        "Франция | France": false,
+        "Франция 🇫🇷": false,
+        "Фэнтези": false,
+        "Хобби": false,
+        "Хобби и увлечения": false,
+        "Хорватия": false,
+        "Хорватия | Croatia": false,
+        "Цитадель-Крым (VPN)": false,
+        "Цитадель-Крым (🎅🎅🎅)": false,
+        "Цитадель-Крым (🤯🤯🤯)": false,
+        "Чехия": false,
+        "Чехия | Czech Republic": false,
+        "Чехия 🇨🇿": false,
+        "Швеция | Sweden": false,
+        "Экстра": false,
+        "Эстония": false,
+        "Эстония | Eesti": false,
+        "Эстония | Estonia": false,
+        "Южная Корея | Korea": false,
+        "Ялта (🎅🎅🎅)": false,
+        "беларускія": false,
+        "детские": false,
+        "другие": false,
+        "кино": false,
+        "музыка": false,
+        "новости": false,
+        "познавательные": true,
+        "развлекательные": false,
+        "спорт": false,
+        "точик": false,
+        "українські": false,
+        "қазақстан": false,
+        "Հայկական": false,
+        "ישראלי": false,
+        "ქართული": false,
+        "↕️ Торрент ТВ ↕️": false,
+        "Ⓜ️ МУЗЫКА Ⓜ️": false,
+        "▶️ IPTV-Play": false,
+        "☁️ SKY HIGH": false,
+        "☞ꀤᖘ꓄ᐯ ☜": false,
+        "⚽️ Спортивные": false,
+        "⭐️ DTV": false,
+        "⭐️ HomTV ⭐️": false,
+        "⭐️ IPTV-FREE ⭐️": false,
+        "⭐️ TV Boom ⭐️": false,
+        "⭐️ TvZaTak ⭐️": false,
+        "⭐️ ВокаТВ": false,
+        "𝕂𝔸ℂℂ𝔼𝕋𝔸 (VPN)": false,
+        "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺": false,
+        "🇷🇺 RU (Xtreme)": false,
+        "🇷🇺 Русский Канал": false,
+        "🇹🇯 TJ": false,
+        "🇹🇲 TM": false,
+        "🇹🇷 TR": false,
+        "🇹🇷 TR (Xtreme)": false,
+        "🇺🇦 UA": false,
+        "🇺🇿 UZ": false,
+        "🌌 Россия Геоблок 🌌": false,
+        "🌐 Интернет ТВ": false,
+        "🌐 Региональное ТВ 🌐": false,
+        "🌿 Познавательные": true,
+        "🍏 TV-Line": false,
+        "🍭 VF": false,
+        "🍿 BCU": false,
+        "🎥 Фильмы и Сериалы": false,
+        "🎵 Музыка": false,
+        "🎶 Music (Xtreme)": false,
+        "🐝 Bee TV": false,
+        "👶 Детский": false,
+        "💎 Max TV List": false,
+        "💎 Кинозал (server-1)": false,
+        "💥 USHBA TV 💥": false,
+        "📈 Новости": false,
+        "📦 BOX": false,
+        "📺 Usba TV": false,
+        "📺 VF-Кинозал IPTV": false,
+        "📺 Woobl IPTV": false,
+        "📺 Региональный": false,
+        "📻 Радио": false,
+        "🔎 ПОЗНАВАТЕЛЬНЫЕ": true,
+        "🔴 Кинозалы 🔴": false,
+        "🔹 Mediabay TV 🔹": false,
+        "🔺 INFO 🔺": false,
+        "🔺 ИНФОРМАЦИЯ 🔺": false
+    }
 }
