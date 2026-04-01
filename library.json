@@ -4617,6 +4617,56 @@
                     "enabled": false
                 }
             }
+        },
+        {
+            "url": "http://6a6d1df892a4.mylistbest.net/playlists/uplist/e7e6d2f80ce94fa8d491e74cf8cefbe2/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:19.954799",
+            "name": "Playlist from 2026-04-01",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "http://7ae79dee2a2a.ottclub.net/playlists/uplist/4adbd7201db3583d7217d9be56b37f5f/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.164348",
+            "name": "Playlist from 2026-04-01",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "http://1397e6fe97bb.mylistbest.net/playlists/uplist/86b6dfbb756378fd0d48a05bf5f6af43/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.190923",
+            "name": "Playlist from 2026-04-01",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "http://1d60239845ee.faststreem.org/playlists/uplist/cbef58315a0cbecc4afbd134e9b45444/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.324826",
+            "name": "Playlist from 2026-04-01",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
+        },
+        {
+            "url": "http://efe4e593b093.akciatv.org/playlists/uplist/32f7a50f6a46ba2a9b119eac958a8720/playlist.m3u8",
+            "date_added": "2026-04-01T06:24:20.354751",
+            "name": "Playlist from 2026-04-01",
+            "groups": {
+                "Разное": {
+                    "enabled": false
+                }
+            }
         }
     ]
 }
