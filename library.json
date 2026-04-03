@@ -1,6 +1,31 @@
 {
     "playlists": [
         {
+            "url": "http://31.57.108.245:8080/iedem_tv_Ukraine2_1.m3u8",
+            "date_added": "2026-04-03T15:34:42.246150",
+            "name": "Playlist from 2026-04-03"
+        },
+        {
+            "url": "http://server-1.onlinetv-sochi.ru/live/mod.m3u",
+            "date_added": "2026-04-03T15:34:41.861284",
+            "name": "Playlist from 2026-04-03"
+        },
+        {
+            "url": "http://31.57.108.245:8080/iedem_tv_Ukraine3_2.m3u8",
+            "date_added": "2026-04-03T15:34:41.294016",
+            "name": "Playlist from 2026-04-03"
+        },
+        {
+            "url": "http://31.57.108.245:8080/iedem_tv_Ukraine.m3u8",
+            "date_added": "2026-04-03T15:34:40.675145",
+            "name": "Playlist from 2026-04-03"
+        },
+        {
+            "url": "http://31.57.108.245:8080/iedem_tv_Ukraine4_1.m3u8",
+            "date_added": "2026-04-03T15:34:40.226077",
+            "name": "Playlist from 2026-04-03"
+        },
+        {
             "url": "http://efe4e593b093.akciatv.org/playlists/uplist/32f7a50f6a46ba2a9b119eac958a8720/playlist.m3u8",
             "date_added": "2026-04-01T06:24:20.354751",
             "name": "Playlist from 2026-04-01"
@@ -787,6 +812,7 @@
         "Великобритания 🇬🇧": false,
         "Венгрия": false,
         "Венгрия 🇭🇺": false,
+        "Взрослые": false,
         "Виктория (VPN)": false,
         "Германия": false,
         "Германия | Germany": false,
@@ -809,6 +835,7 @@
         "ЕВРОПА": false,
         "Европа | Europe": false,
         "Египет | Egypt": false,
+        "Женские": false,
         "Знания": false,
         "ИНФО": false,
         "Израиль": false,
@@ -839,6 +866,7 @@
         "Кино": false,
         "Кино #IPTV": false,
         "Кино Канал": false,
+        "Кино и Сериалы": false,
         "Кино и сериалы": false,
         "Кинозал": true,
         "Кинозал Top Gear": true,
@@ -861,6 +889,7 @@
         "МОЛДОВА 🇲🇩": false,
         "МУЗИКА 🎶": false,
         "МУЗЫКА": false,
+        "Междунароные": false,
         "Мелодрама": false,
         "Мелодрамы": false,
         "Молдавия": false,
@@ -884,6 +913,7 @@
         "ОБЩИЕ": false,
         "ОПЛОТ": false,
         "Общероссийские": false,
+        "Общероссийские +": false,
         "Общие": false,
         "Плюсовые": false,
         "Позавательые": false,
