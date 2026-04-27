@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/167.png" tvg-name="Animal Planet",Animal Planet
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/167
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/168.png" tvg-name="Animal Planet HD",Animal Planet HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/168
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/172.png" tvg-name="Discovery HD",Discovery HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/172
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/174.png" tvg-name="ID Xtra",ID Xtra
@@ -9,8 +9,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/174
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/40
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/175.png" tvg-name="Russia Today Doc HD",Russia Today Doc HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/175
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/186.png" tvg-name="Моя планета HD",Моя планета HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/186
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/207.png" tvg-name="Моя планета",Моя планета
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/207
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/399.png" tvg-name="Поехали",Поехали
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/399
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1712.png" tvg-name="Наша тема",Наша тема
@@ -33,8 +33,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1973
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1713
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/177.png" tvg-name="National Geographic HD",National Geographic HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/177
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/179.png" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/179
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/178.png" tvg-name="Nat Geo Wild",Nat Geo Wild
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/178
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/180.png" tvg-name="viju History",viju History
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/180
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/181.png" tvg-name="viju+ Planet HD",viju+ Planet HD
@@ -49,8 +49,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/183
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/185
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1752.png" tvg-name="Galaxy HD",Galaxy HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1752
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/187.png" tvg-name="Нано ТВ",Нано ТВ
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/187
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1425.png" tvg-name="Нано ТВ HD",Нано ТВ HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1425
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/188.png" tvg-name="Наука 2.0",Наука 2.0
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/188
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1040.png" tvg-name="Наука HD",Наука HD
@@ -91,8 +91,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1977
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2038
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1700.png" tvg-name="Docu Box HD",Docu Box HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1700
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/200.png" tvg-name="History",History
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/200
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/362.png" tvg-name="History HD",History HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/362
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1299.png" tvg-name="H2 HD",H2 HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1299
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/358.png" tvg-name="Museum HD",Museum HD
@@ -125,8 +125,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/56
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/57
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1969.png" tvg-name="Усадьба HD",Усадьба HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1969
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/59.png" tvg-name="Драйв",Драйв
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/59
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1970.png" tvg-name="Драйв HD",Драйв HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1970
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/60.png" tvg-name="Охота и рыбалка",Охота и рыбалка
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/60
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/61.png" tvg-name="Рыболов",Рыболов

@@ -74508,673 +74508,673 @@
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/167": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770805",
-    "latency": 751.4,
-    "last_ok": "2026-04-26T23:35:57.214012"
+    "latency": 641.1,
+    "last_ok": "2026-04-27T02:11:13.467608"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/168": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770825",
-    "latency": 772.3,
-    "last_ok": "2026-04-26T23:35:57.214017"
+    "latency": 590.6,
+    "last_ok": "2026-04-27T02:11:13.467613"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/171": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770829",
-    "latency": 755.7,
-    "last_ok": "2026-04-26T23:35:57.214020"
+    "latency": 653.9,
+    "last_ok": "2026-04-27T02:11:13.467616"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/172": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770833",
-    "latency": 732.7,
-    "last_ok": "2026-04-26T23:35:57.214023"
+    "latency": 591.1,
+    "last_ok": "2026-04-27T02:11:13.467619"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/174": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770836",
-    "latency": 719.9,
-    "last_ok": "2026-04-26T23:35:57.214026"
+    "latency": 587.8,
+    "last_ok": "2026-04-27T02:11:13.467622"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/361": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770839",
-    "latency": 761.5,
-    "last_ok": "2026-04-26T23:35:57.214029"
+    "latency": 600.1,
+    "last_ok": "2026-04-27T02:11:13.467626"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/40": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770842",
-    "latency": 746.4,
-    "last_ok": "2026-04-26T23:35:57.214032"
+    "latency": 618.3,
+    "last_ok": "2026-04-27T02:11:13.467629"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/175": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770845",
-    "latency": 750.0,
-    "last_ok": "2026-04-26T23:35:57.214035"
+    "latency": 622.5,
+    "last_ok": "2026-04-27T02:11:13.467632"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/207": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770849",
-    "latency": 742.8,
-    "last_ok": "2026-04-26T23:35:57.214038"
+    "latency": 585.8,
+    "last_ok": "2026-04-27T02:11:13.467635"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/186": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770852",
-    "latency": 702.4,
-    "last_ok": "2026-04-26T23:35:57.214041"
+    "latency": 598.2,
+    "last_ok": "2026-04-27T02:11:13.467638"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/399": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770854",
-    "latency": 713.0,
-    "last_ok": "2026-04-26T23:35:57.214044"
+    "latency": 621.0,
+    "last_ok": "2026-04-27T02:11:13.467641"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1712": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770857",
-    "latency": 748.7,
-    "last_ok": "2026-04-26T23:35:57.214047"
+    "latency": 617.0,
+    "last_ok": "2026-04-27T02:11:13.467645"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/253": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770860",
-    "latency": 752.5,
-    "last_ok": "2026-04-26T23:35:57.214049"
+    "latency": 608.0,
+    "last_ok": "2026-04-27T02:11:13.467647"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/254": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770863",
-    "latency": 736.4,
-    "last_ok": "2026-04-26T23:35:57.214053"
+    "latency": 571.2,
+    "last_ok": "2026-04-27T02:11:13.467650"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1411": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770866",
-    "latency": 681.6,
-    "last_ok": "2026-04-26T23:35:57.214056"
+    "latency": 632.4,
+    "last_ok": "2026-04-27T02:11:13.467654"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2035": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770869",
-    "latency": 716.0,
-    "last_ok": "2026-04-26T23:35:57.214058"
+    "latency": 616.3,
+    "last_ok": "2026-04-27T02:11:13.467656"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1823": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770872",
-    "latency": 724.6,
-    "last_ok": "2026-04-26T23:35:57.214061"
+    "latency": 603.4,
+    "last_ok": "2026-04-27T02:11:13.467659"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2037": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770875",
-    "latency": 750.9,
-    "last_ok": "2026-04-26T23:35:57.214063"
+    "latency": 619.3,
+    "last_ok": "2026-04-27T02:11:13.467662"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1973": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770877",
-    "latency": 702.6,
-    "last_ok": "2026-04-26T23:35:57.214067"
+    "latency": 623.0,
+    "last_ok": "2026-04-27T02:11:13.467665"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1713": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770880",
-    "latency": 723.7,
-    "last_ok": "2026-04-26T23:35:57.214070"
+    "latency": 625.7,
+    "last_ok": "2026-04-27T02:11:13.467667"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/176": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770883",
-    "latency": 742.6,
-    "last_ok": "2026-04-26T23:35:57.214072"
+    "latency": 643.9,
+    "last_ok": "2026-04-27T02:11:13.467671"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/177": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770886",
-    "latency": 707.3,
-    "last_ok": "2026-04-26T23:35:57.214075"
+    "latency": 559.1,
+    "last_ok": "2026-04-27T02:11:13.467673"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/178": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770888",
-    "latency": 742.1,
-    "last_ok": "2026-04-26T23:35:57.214079"
+    "latency": 624.7,
+    "last_ok": "2026-04-27T02:11:13.467675"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/179": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770891",
-    "latency": 714.2,
-    "last_ok": "2026-04-26T23:35:57.214082"
+    "latency": 630.1,
+    "last_ok": "2026-04-27T02:11:13.467678"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/180": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770894",
-    "latency": 702.6,
-    "last_ok": "2026-04-26T23:35:57.214085"
+    "latency": 578.9,
+    "last_ok": "2026-04-27T02:11:13.467681"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/181": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770897",
-    "latency": 705.7,
-    "last_ok": "2026-04-26T23:35:57.214089"
+    "latency": 623.4,
+    "last_ok": "2026-04-27T02:11:13.467683"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/182": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770900",
-    "latency": 748.3,
-    "last_ok": "2026-04-26T23:35:57.214092"
+    "latency": 553.7,
+    "last_ok": "2026-04-27T02:11:13.467686"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1307": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770902",
-    "latency": 712.6,
-    "last_ok": "2026-04-26T23:35:57.214094"
+    "latency": 592.3,
+    "last_ok": "2026-04-27T02:11:13.467689"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/183": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770905",
-    "latency": 678.8,
-    "last_ok": "2026-04-26T23:35:57.214097"
+    "latency": 587.5,
+    "last_ok": "2026-04-27T02:11:13.467692"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/185": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770907",
-    "latency": 735.1,
-    "last_ok": "2026-04-26T23:35:57.214100"
+    "latency": 618.0,
+    "last_ok": "2026-04-27T02:11:13.467694"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1751": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770910",
-    "latency": 683.1,
-    "last_ok": "2026-04-26T23:35:57.214102"
+    "latency": 612.9,
+    "last_ok": "2026-04-27T02:11:13.467697"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1752": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770912",
-    "latency": 679.7,
-    "last_ok": "2026-04-26T23:35:57.214105"
+    "latency": 583.0,
+    "last_ok": "2026-04-27T02:11:13.467699"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/187": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770915",
-    "latency": 713.2,
-    "last_ok": "2026-04-26T23:35:57.214107"
+    "latency": 599.9,
+    "last_ok": "2026-04-27T02:11:13.467702"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1425": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770918",
-    "latency": 725.2,
-    "last_ok": "2026-04-26T23:35:57.214110"
+    "latency": 589.2,
+    "last_ok": "2026-04-27T02:11:13.467706"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/188": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770920",
-    "latency": 741.0,
-    "last_ok": "2026-04-26T23:35:57.214113"
+    "latency": 581.5,
+    "last_ok": "2026-04-27T02:11:13.467708"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1040": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770922",
-    "latency": 735.2,
-    "last_ok": "2026-04-26T23:35:57.214115"
+    "latency": 607.1,
+    "last_ok": "2026-04-27T02:11:13.467711"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/189": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770924",
-    "latency": 696.1,
-    "last_ok": "2026-04-26T23:35:57.214119"
+    "latency": 597.5,
+    "last_ok": "2026-04-27T02:11:13.467714"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/298": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770927",
-    "latency": 674.8,
-    "last_ok": "2026-04-26T23:35:57.214121"
+    "latency": 604.9,
+    "last_ok": "2026-04-27T02:11:13.467716"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/190": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770929",
-    "latency": 717.9,
-    "last_ok": "2026-04-26T23:35:57.214124"
+    "latency": 607.9,
+    "last_ok": "2026-04-27T02:11:13.467719"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/191": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770932",
-    "latency": 683.5,
-    "last_ok": "2026-04-26T23:35:57.214126"
+    "latency": 615.7,
+    "last_ok": "2026-04-27T02:11:13.467722"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1317": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770934",
-    "latency": 709.5,
-    "last_ok": "2026-04-26T23:35:57.214129"
+    "latency": 566.9,
+    "last_ok": "2026-04-27T02:11:13.467725"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/192": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770936",
-    "latency": 703.6,
-    "last_ok": "2026-04-26T23:35:57.214132"
+    "latency": 598.4,
+    "last_ok": "2026-04-27T02:11:13.467728"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/193": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770938",
-    "latency": 710.4,
-    "last_ok": "2026-04-26T23:35:57.214135"
+    "latency": 557.0,
+    "last_ok": "2026-04-27T02:11:13.467731"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/262": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770941",
-    "latency": 663.7,
-    "last_ok": "2026-04-26T23:35:57.214138"
+    "latency": 594.1,
+    "last_ok": "2026-04-27T02:11:13.467733"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/194": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770943",
-    "latency": 677.9,
-    "last_ok": "2026-04-26T23:35:57.214140"
+    "latency": 580.9,
+    "last_ok": "2026-04-27T02:11:13.467736"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/195": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770946",
-    "latency": 690.9,
-    "last_ok": "2026-04-26T23:35:57.214143"
+    "latency": 598.0,
+    "last_ok": "2026-04-27T02:11:13.467739"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/196": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770948",
-    "latency": 703.6,
-    "last_ok": "2026-04-26T23:35:57.214145"
+    "latency": 566.3,
+    "last_ok": "2026-04-27T02:11:13.467741"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1968": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770951",
-    "latency": 681.3,
-    "last_ok": "2026-04-26T23:35:57.214148"
+    "latency": 574.8,
+    "last_ok": "2026-04-27T02:11:13.467743"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/197": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770954",
-    "latency": 716.2,
-    "last_ok": "2026-04-26T23:35:57.214150"
+    "latency": 594.7,
+    "last_ok": "2026-04-27T02:11:13.467746"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/198": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770957",
-    "latency": 652.9,
-    "last_ok": "2026-04-26T23:35:57.214152"
+    "latency": 598.0,
+    "last_ok": "2026-04-27T02:11:13.467748"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/199": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770960",
-    "latency": 645.0,
-    "last_ok": "2026-04-26T23:35:57.214156"
+    "latency": 601.7,
+    "last_ok": "2026-04-27T02:11:13.467751"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/117": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770962",
-    "latency": 643.1,
-    "last_ok": "2026-04-26T23:35:57.214158"
+    "latency": 649.9,
+    "last_ok": "2026-04-27T02:11:13.467753"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1827": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770965",
-    "latency": 639.0,
-    "last_ok": "2026-04-26T23:35:57.214162"
+    "latency": 629.9,
+    "last_ok": "2026-04-27T02:11:13.467755"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1976": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770968",
-    "latency": 601.2,
-    "last_ok": "2026-04-26T23:35:57.214166"
+    "latency": 643.6,
+    "last_ok": "2026-04-27T02:11:13.467759"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1977": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770971",
-    "latency": 568.6,
-    "last_ok": "2026-04-26T23:35:57.214169"
+    "latency": 611.8,
+    "last_ok": "2026-04-27T02:11:13.467761"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2038": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770973",
-    "latency": 622.3,
-    "last_ok": "2026-04-26T23:35:57.214171"
+    "latency": 613.1,
+    "last_ok": "2026-04-27T02:11:13.467764"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1700": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770975",
-    "latency": 614.2,
-    "last_ok": "2026-04-26T23:35:57.214174"
+    "latency": 610.6,
+    "last_ok": "2026-04-27T02:11:13.467767"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/200": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770978",
-    "latency": 577.9,
-    "last_ok": "2026-04-26T23:35:57.214176"
+    "latency": 602.1,
+    "last_ok": "2026-04-27T02:11:13.467769"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/362": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770981",
-    "latency": 626.1,
-    "last_ok": "2026-04-26T23:35:57.214179"
+    "latency": 591.6,
+    "last_ok": "2026-04-27T02:11:13.467772"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1299": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770984",
-    "latency": 570.8,
-    "last_ok": "2026-04-26T23:35:57.214182"
+    "latency": 606.0,
+    "last_ok": "2026-04-27T02:11:13.467774"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/358": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770987",
-    "latency": 625.8,
-    "last_ok": "2026-04-26T23:35:57.214185"
+    "latency": 604.7,
+    "last_ok": "2026-04-27T02:11:13.467777"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/202": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770990",
-    "latency": 612.2,
-    "last_ok": "2026-04-26T23:35:57.214188"
+    "latency": 631.3,
+    "last_ok": "2026-04-27T02:11:13.467780"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/559": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770993",
-    "latency": 576.1,
-    "last_ok": "2026-04-26T23:35:57.214191"
+    "latency": 589.1,
+    "last_ok": "2026-04-27T02:11:13.467782"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/206": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770996",
-    "latency": 609.7,
-    "last_ok": "2026-04-26T23:35:57.214193"
+    "latency": 584.8,
+    "last_ok": "2026-04-27T02:11:13.467785"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/275": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.770999",
-    "latency": 625.8,
-    "last_ok": "2026-04-26T23:35:57.214196"
+    "latency": 608.7,
+    "last_ok": "2026-04-27T02:11:13.467788"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/204": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771002",
-    "latency": 589.2,
-    "last_ok": "2026-04-26T23:35:57.214199"
+    "latency": 574.7,
+    "last_ok": "2026-04-27T02:11:13.467791"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/51": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771005",
-    "latency": 589.7,
-    "last_ok": "2026-04-26T23:35:57.214201"
+    "latency": 589.6,
+    "last_ok": "2026-04-27T02:11:13.467793"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1478": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771008",
-    "latency": 590.4,
-    "last_ok": "2026-04-26T23:35:57.214204"
+    "latency": 616.0,
+    "last_ok": "2026-04-27T02:11:13.467796"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1300": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771010",
-    "latency": 615.3,
-    "last_ok": "2026-04-26T23:35:57.214207"
+    "latency": 578.0,
+    "last_ok": "2026-04-27T02:11:13.467798"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/52": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771013",
-    "latency": 575.1,
-    "last_ok": "2026-04-26T23:35:57.214209"
+    "latency": 554.2,
+    "last_ok": "2026-04-27T02:11:13.467801"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/443": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771015",
-    "latency": 579.7,
-    "last_ok": "2026-04-26T23:35:57.214212"
+    "latency": 592.9,
+    "last_ok": "2026-04-27T02:11:13.467803"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/53": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771018",
-    "latency": 569.6,
-    "last_ok": "2026-04-26T23:35:57.214214"
+    "latency": 592.5,
+    "last_ok": "2026-04-27T02:11:13.467806"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/54": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771020",
-    "latency": 588.2,
-    "last_ok": "2026-04-26T23:35:57.214217"
+    "latency": 603.6,
+    "last_ok": "2026-04-27T02:11:13.467809"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/55": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771023",
-    "latency": 614.1,
-    "last_ok": "2026-04-26T23:35:57.214219"
+    "latency": 605.3,
+    "last_ok": "2026-04-27T02:11:13.467811"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/56": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771025",
-    "latency": 579.5,
-    "last_ok": "2026-04-26T23:35:57.214222"
+    "latency": 596.9,
+    "last_ok": "2026-04-27T02:11:13.467813"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/57": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771028",
-    "latency": 603.0,
-    "last_ok": "2026-04-26T23:35:57.214225"
+    "latency": 580.7,
+    "last_ok": "2026-04-27T02:11:13.467816"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/58": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771031",
-    "latency": 582.3,
-    "last_ok": "2026-04-26T23:35:57.214227"
+    "latency": 597.6,
+    "last_ok": "2026-04-27T02:11:13.467819"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1969": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771040",
-    "latency": 552.6,
-    "last_ok": "2026-04-26T23:35:57.214232"
+    "latency": 549.5,
+    "last_ok": "2026-04-27T02:11:13.467824"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/59": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771044",
-    "latency": 539.8,
-    "last_ok": "2026-04-26T23:35:57.214234"
+    "latency": 580.4,
+    "last_ok": "2026-04-27T02:11:13.467826"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1970": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771046",
-    "latency": 595.0,
-    "last_ok": "2026-04-26T23:35:57.214237"
+    "latency": 552.6,
+    "last_ok": "2026-04-27T02:11:13.467829"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/60": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771049",
-    "latency": 604.7,
-    "last_ok": "2026-04-26T23:35:57.214239"
+    "latency": 566.2,
+    "last_ok": "2026-04-27T02:11:13.467832"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/61": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771052",
-    "latency": 594.6,
-    "last_ok": "2026-04-26T23:35:57.214241"
+    "latency": 597.9,
+    "last_ok": "2026-04-27T02:11:13.467834"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/62": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771054",
-    "latency": 600.2,
-    "last_ok": "2026-04-26T23:35:57.214244"
+    "latency": 562.9,
+    "last_ok": "2026-04-27T02:11:13.467837"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1824": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771056",
-    "latency": 599.2,
-    "last_ok": "2026-04-26T23:35:57.214247"
+    "latency": 590.3,
+    "last_ok": "2026-04-27T02:11:13.467839"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1825": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771059",
-    "latency": 547.8,
-    "last_ok": "2026-04-26T23:35:57.214251"
+    "latency": 575.4,
+    "last_ok": "2026-04-27T02:11:13.467842"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/63": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771061",
-    "latency": 551.5,
-    "last_ok": "2026-04-26T23:35:57.214254"
+    "latency": 573.0,
+    "last_ok": "2026-04-27T02:11:13.467844"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/64": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771064",
-    "latency": 584.9,
-    "last_ok": "2026-04-26T23:35:57.214256"
+    "latency": 530.2,
+    "last_ok": "2026-04-27T02:11:13.467848"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/65": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771066",
-    "latency": 575.8,
-    "last_ok": "2026-04-26T23:35:57.214258"
+    "latency": 565.4,
+    "last_ok": "2026-04-27T02:11:13.467851"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1048": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771069",
-    "latency": 577.9,
-    "last_ok": "2026-04-26T23:35:57.214291"
+    "latency": 567.1,
+    "last_ok": "2026-04-27T02:11:13.467854"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/67": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771072",
-    "latency": 540.0,
-    "last_ok": "2026-04-26T23:35:57.214295"
+    "latency": 587.4,
+    "last_ok": "2026-04-27T02:11:13.467857"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1413": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771074",
-    "latency": 566.6,
-    "last_ok": "2026-04-26T23:35:57.214299"
+    "latency": 570.7,
+    "last_ok": "2026-04-27T02:11:13.467859"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/69": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771077",
-    "latency": 533.6,
-    "last_ok": "2026-04-26T23:35:57.214301"
+    "latency": 574.7,
+    "last_ok": "2026-04-27T02:11:13.467862"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/70": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771079",
-    "latency": 561.5,
-    "last_ok": "2026-04-26T23:35:57.214304"
+    "latency": 554.9,
+    "last_ok": "2026-04-27T02:11:13.467864"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1822": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771102",
-    "latency": 557.9,
-    "last_ok": "2026-04-26T23:35:57.214309"
+    "latency": 534.7,
+    "last_ok": "2026-04-27T02:11:13.467867"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/71": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771104",
-    "latency": 568.0,
-    "last_ok": "2026-04-26T23:35:57.214312"
+    "latency": 580.8,
+    "last_ok": "2026-04-27T02:11:13.467870"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2039": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771107",
-    "latency": 579.0,
-    "last_ok": "2026-04-26T23:35:57.214315"
+    "latency": 578.8,
+    "last_ok": "2026-04-27T02:11:13.467873"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2040": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771109",
-    "latency": 512.7,
-    "last_ok": "2026-04-26T23:35:57.214317"
+    "latency": 551.5,
+    "last_ok": "2026-04-27T02:11:13.467876"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2041": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771111",
-    "latency": 569.8,
-    "last_ok": "2026-04-26T23:35:57.214321"
+    "latency": 557.3,
+    "last_ok": "2026-04-27T02:11:13.467879"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2042": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771114",
-    "latency": 578.2,
-    "last_ok": "2026-04-26T23:35:57.214324"
+    "latency": 563.0,
+    "last_ok": "2026-04-27T02:11:13.467882"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/72": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771116",
-    "latency": 560.7,
-    "last_ok": "2026-04-26T23:35:57.214327"
+    "latency": 563.6,
+    "last_ok": "2026-04-27T02:11:13.467884"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/73": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771119",
-    "latency": 596.1,
-    "last_ok": "2026-04-26T23:35:57.214329"
+    "latency": 676.9,
+    "last_ok": "2026-04-27T02:11:13.467887"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1457": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771121",
-    "latency": 578.6,
-    "last_ok": "2026-04-26T23:35:57.214332"
+    "latency": 683.0,
+    "last_ok": "2026-04-27T02:11:13.467890"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1458": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771123",
-    "latency": 573.7,
-    "last_ok": "2026-04-26T23:35:57.214335"
+    "latency": 676.7,
+    "last_ok": "2026-04-27T02:11:13.467893"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/76": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771125",
-    "latency": 582.6,
-    "last_ok": "2026-04-26T23:35:57.214338"
+    "latency": 677.4,
+    "last_ok": "2026-04-27T02:11:13.467895"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/77": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771128",
-    "latency": 567.9,
-    "last_ok": "2026-04-26T23:35:57.214340"
+    "latency": 668.6,
+    "last_ok": "2026-04-27T02:11:13.467898"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1743": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771131",
-    "latency": 572.6,
-    "last_ok": "2026-04-26T23:35:57.214342"
+    "latency": 671.0,
+    "last_ok": "2026-04-27T02:11:13.467901"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/80": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771134",
-    "latency": 554.1,
-    "last_ok": "2026-04-26T23:35:57.214345"
+    "latency": 660.2,
+    "last_ok": "2026-04-27T02:11:13.467903"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1701": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771137",
-    "latency": 562.8,
-    "last_ok": "2026-04-26T23:35:57.214347"
+    "latency": 669.8,
+    "last_ok": "2026-04-27T02:11:13.467906"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1747": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771139",
-    "latency": 564.1,
-    "last_ok": "2026-04-26T23:35:57.214350"
+    "latency": 666.3,
+    "last_ok": "2026-04-27T02:11:13.467908"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1202": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771143",
-    "latency": 554.5,
-    "last_ok": "2026-04-26T23:35:57.214361"
+    "latency": 653.5,
+    "last_ok": "2026-04-27T02:11:13.467916"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1808": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771146",
-    "latency": 563.6,
-    "last_ok": "2026-04-26T23:35:57.214364"
+    "latency": 663.8,
+    "last_ok": "2026-04-27T02:11:13.467919"
   },
   "http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1294": {
     "fails": 0,
     "first_seen": "2026-04-24T17:47:57.771149",
-    "latency": 555.5,
-    "last_ok": "2026-04-26T23:35:57.214367"
+    "latency": 652.4,
+    "last_ok": "2026-04-27T02:11:13.467921"
   }
 }
