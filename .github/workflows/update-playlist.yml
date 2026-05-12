@@ -2,14 +2,12 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'   # каждый час
-  workflow_dispatch:        # ручной запуск из интерфейса GitHub
+    - cron: '0 6 * * *'  # every day at 06:00 UTC
+  workflow_dispatch:       # manual run from GitHub UI
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       contents: write
 
@@ -23,19 +21,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install aiohttp
 
-      - name: Fetch and Generate playlist
-        env:
-          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
-        run: |
-          python fetch_playlist.py --update
-          python fetch_playlist.py --generate
+      - name: Build playlist
+        run: python fetch_playlist.py
 
       - name: Commit & push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u library.json channel_stats.json
+          git add playlist.m3u
           git diff --cached --quiet || git commit -m "Update playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

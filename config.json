@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "countries": ["UA", "RU"],
+    "categories": ["auto", "animation",  "comedy",  "documentary",  "education",  "entertainment", "family",  "general",  "interactive",  "kids",  "lifestyle", "movies",  "music",  "outdoor",  "public",  "relax", "series",  "science",  "sports",  "travel",  "xxx"],
+    "languages": ["ukr", "rus"],
+    "exclude_channel_ids": [],
+    "exclude_nsfw": true
+  },
+  "output": {
+    "file": "playlist.m3u",
+    "group_by": "category",
+    "include_logos": true
+  },
+  "epg": {
+    "enabled": true,
+    "url": ""
+  },
+  "stream_check": {
+    "enabled": true,
+    "timeout": 8,
+    "workers": 50
+  }
+}
+
