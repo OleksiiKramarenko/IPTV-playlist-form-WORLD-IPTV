@@ -1,7 +1,7 @@
 {
   "filters": {
     "countries": ["UA", "RU"],
-    "categories": ["auto", "animation",  "comedy",  "documentary",  "education",  "entertainment", "family",  "general",  "interactive",  "kids",  "lifestyle", "movies",  "music",  "outdoor",  "public",  "relax", "series",  "science",  "sports",  "travel",  "xxx"],
+    "categories": [],
     "languages": [],
     "exclude_channel_ids": [],
     "exclude_nsfw": true
