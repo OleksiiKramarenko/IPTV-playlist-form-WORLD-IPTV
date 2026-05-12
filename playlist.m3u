@@ -18,8 +18,17 @@ https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="Drive.ru" tvg-name="Drive" tvg-logo="" group-title="Auto",Drive
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="FirstBusiness.ua" tvg-name="First Business" tvg-logo="" group-title="Business",First Business
+https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="" group-title="Business",RBK-TV
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" tvg-logo="" group-title="Classic",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Classic",Nostalgia
+http://31.148.48.15/Nostalgiya/index.m3u8
 
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="" group-title="Comedy",KVN TV
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -41,6 +50,33 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" tvg-logo="" group-title="Comedy",viju+ Comedy
 http://tmptv.sunduk.tv/CH311/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-name="City Eden Recepty Gurmana" tvg-logo="" group-title="Cooking",City Eden Recepty Gurmana
+https://cityeden.catcast.tv/content/47516/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="FoodTime" tvg-logo="" group-title="Cooking",FoodTime
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-name="Kukhnya TV" tvg-logo="" group-title="Cooking",Kukhnya TV
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="" group-title="Cooking",Telecafe
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+
+#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" tvg-logo="" group-title="Culture",ATR
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" group-title="Culture",NTV Mir
+https://streaming.thestream.cyou/live/213.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="" group-title="Culture",Russia-K
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-name="Suspilne. Kultura" tvg-logo="" group-title="Culture",Suspilne. Kultura
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+
+#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Teatr" tvg-logo="" group-title="Culture",Teatr
+http://31.148.48.15/Sochi_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" tvg-logo="" group-title="Documentary",365 days TV
 http://31.148.48.15/365_dney/index.m3u8
@@ -180,11 +216,20 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Aris 24" tvg-logo="" group-title="General",Aris 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-name="Arkhyz 24" tvg-logo="" group-title="General",Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Arktika24.ru" tvg-name="Arktika 24" tvg-logo="" group-title="General",Arktika 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Astrahan.Ru TV" tvg-logo="" group-title="General",Astrahan.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Avers.ua" tvg-name="Avers" tvg-logo="" group-title="General",Avers
 https://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" tvg-logo="" group-title="General",BST
+http://bst.bratsk.ru/hls/bst2/index.m3u8
 
 #EXTINF:-1 tvg-id="BaltaTV.ua" tvg-name="Balta TV" tvg-logo="" group-title="General",Balta TV
 http://194.50.51.34/playlist.m3u8
@@ -197,6 +242,9 @@ https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Belgorod 24" tvg-logo="" group-title="General",Belgorod 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
+#EXTINF:-1 tvg-id="BigAsia.ru" tvg-name="Big Asia" tvg-logo="" group-title="General",Big Asia
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel10.ru" tvg-name="Channel 10" tvg-logo="" group-title="General",Channel 10
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
@@ -225,6 +273,9 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-name="City Eden TV" tvg-logo="" group-title="General",City Eden TV
 https://cityeden.catcast.tv/content/34246/index.m3u8
 
+#EXTINF:-1 tvg-id="Dagestan.ru" tvg-name="Dagestan" tvg-logo="" group-title="General",Dagestan
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-name="Dnipro TV" tvg-logo="" group-title="General",Dnipro TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 
@@ -248,6 +299,9 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ingushetia.ru" tvg-name="Ingushetia" tvg-logo="" group-title="General",Ingushetia
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsaytTV.ru" tvg-name="Insayt TV" tvg-logo="" group-title="General",Insayt TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IzmailTV.ua" tvg-name="Izmail TV" tvg-logo="" group-title="General",Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
@@ -279,6 +333,9 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" tvg-logo="" group-title="General",Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Mir Belogorya" tvg-logo="" group-title="General",Mir Belogorya
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+
 #EXTINF:-1 tvg-id="MistoPlus.ua" tvg-name="Misto+" tvg-logo="" group-title="General",Misto+
 http://93.78.206.172:8080/stream3/stream.m3u8
 
@@ -299,6 +356,9 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="" group-title="General",NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
+
+#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-name="NTV Law" tvg-logo="" group-title="General",NTV Law
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NVKSakha.ru" tvg-name="NVK Sakha" tvg-logo="" group-title="General",NVK Sakha
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -321,6 +381,9 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" tvg-logo="" group-title="General",OTR
 http://tmptv.sunduk.tv/CH317/index.m3u8
 
+#EXTINF:-1 tvg-id="OTV.ua" tvg-name="OTV" tvg-logo="" group-title="General",OTV
+http://91.193.128.233:1935/live/otv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-name="Orbita TV" tvg-logo="" group-title="General",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 
@@ -336,6 +399,24 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy. Odessa" tvg-logo="" group-title="General",Pervyy gorodskoy. Odessa
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Pobeda.ru" tvg-name="Pobeda" tvg-logo="" group-title="General",Pobeda
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+
+#EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-name="PravdaTUT" tvg-logo="" group-title="General",PravdaTUT
+https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
+
+#EXTINF:-1 tvg-id="Priamyi.ua" tvg-name="Priamyi" tvg-logo="" group-title="General",Priamyi
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+
+#EXTINF:-1 tvg-id="Prima.ru" tvg-name="Prima" tvg-logo="" group-title="General",Prima
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Prodvizhenie" tvg-logo="" group-title="General",Prodvizhenie
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-name="Prosveshchenie" tvg-logo="" group-title="General",Prosveshchenie
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" tvg-logo="" group-title="General",REN TV
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
@@ -344,6 +425,12 @@ https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="RTR-Planeta" tvg-logo="" group-title="General",RTR-Planeta
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
+#EXTINF:-1 tvg-id="RZDTV.ru" tvg-name="RZD TV" tvg-logo="" group-title="General",RZD TV
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedLine.ru" tvg-name="Red Line" tvg-logo="" group-title="General",Red Line
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
 #EXTINF:-1 tvg-id="RenomeTV.ua" tvg-name="Renome TV" tvg-logo="" group-title="General",Renome TV
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
@@ -357,11 +444,41 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="" group-title="General",Russia-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="S1.ru" tvg-name="S1" tvg-logo="" group-title="General",S1
+https://sitv.ru/hls/stv.m3u8
+
+#EXTINF:-1 tvg-id="STSInternational.ru" tvg-name="STS International" tvg-logo="" group-title="General",STS International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+
+#EXTINF:-1 tvg-id="Salyam.ru" tvg-name="Salyam" tvg-logo="" group-title="General",Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Samara24.ru" tvg-name="Samara 24" tvg-logo="" group-title="General",Samara 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-name="Samara-GIS" tvg-logo="" group-title="General",Samara-GIS
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SanktPeterburg.ru" tvg-name="Sankt-Peterburg" tvg-logo="" group-title="General",Sankt-Peterburg
+https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
+
+#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Sarafan" tvg-logo="" group-title="General",Sarafan
+http://31.148.48.15/Sarafan/index.m3u8
+
+#EXTINF:-1 tvg-id="Seven.ru" tvg-name="Seven" tvg-logo="" group-title="General",Seven
+http://31.148.48.15/7TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" tvg-logo="" group-title="General",Sever
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SferaTV.ua" tvg-name="Sfera-TV" tvg-logo="" group-title="General",Sfera-TV
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShayanTV.ru" tvg-name="Shayan TV" tvg-logo="" group-title="General",Shayan TV
+https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-name="Shchyolkovskoe TV" tvg-logo="" group-title="General",Shchyolkovskoe TV
+http://stream0.tv41.ru/live.m3u8
 
 #EXTINF:-1 tvg-id="Sibir24.ru" tvg-name="Sibir 24" tvg-logo="" group-title="General",Sibir 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
@@ -369,11 +486,29 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Simferopol24.ru" tvg-name="Simferopol 24" tvg-logo="" group-title="General",Simferopol 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 
+#EXTINF:-1 tvg-id="Skrypinua.ua" tvg-name="Skrypin.ua" tvg-logo="" group-title="General",Skrypin.ua
+https://open-cdn.lanet.tv/play/skrypin.m3u8
+
 #EXTINF:-1 tvg-id="SochiLive.ru" tvg-name="Sochi Live" tvg-logo="" group-title="General",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-name="Sochi24" tvg-logo="" group-title="General",Sochi24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-name="Solovyov Live" tvg-logo="" group-title="General",Solovyov Live
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
+#EXTINF:-1 tvg-id="SonataTV.ua" tvg-name="Sonata TV" tvg-logo="" group-title="General",Sonata TV
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+
+#EXTINF:-1 tvg-id="StudiyaFakt.ru" tvg-name="Studiya Fakt" tvg-logo="" group-title="General",Studiya Fakt
+https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" tvg-logo="" group-title="General",Subbota!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
+
+#EXTINF:-1 tvg-id="Surgut24.ru" tvg-name="Surgut 24" tvg-logo="" group-title="General",Surgut 24
+https://video1.in-news.ru/c24/index.m3u8
 
 #EXTINF:-1 tvg-id="SuspilneKrym.ua" tvg-name="Suspilne. Krym" tvg-logo="" group-title="General",Suspilne. Krym
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
@@ -381,14 +516,44 @@ https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 #EXTINF:-1 tvg-id="SuspilneKyiv.ua" tvg-name="Suspilne. Kyiv" tvg-logo="" group-title="General",Suspilne. Kyiv
 https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 
+#EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" tvg-logo="" group-title="General",Svoyo TV
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TISTV.ua" tvg-name="TIS TV" tvg-logo="" group-title="General",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TKR.ru" tvg-name="TKR" tvg-logo="" group-title="General",TKR
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="" group-title="General",TNV-Planet
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRKAleks.ua" tvg-name="TRK Aleks" tvg-logo="" group-title="General",TRK Aleks
+http://46.46.112.223/live/livestream1.m3u8
+
 #EXTINF:-1 tvg-id="TRKIldana.ua" tvg-name="TRK Ildana" tvg-logo="" group-title="General",TRK Ildana
 https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-name="TV BRICS Russian" tvg-logo="" group-title="General",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="" group-title="General",TV Centr
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="TV Centr International" tvg-logo="" group-title="General",TV Centr International
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+
+#EXTINF:-1 tvg-id="TVPRO.ru" tvg-name="TV PRO" tvg-logo="" group-title="General",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-name="TV7+" tvg-logo="" group-title="General",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="" group-title="General",TVA
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+
+#EXTINF:-1 tvg-id="TVK.ru" tvg-name="TVK" tvg-logo="" group-title="General",TVK
+https://air.tvk6.ru/tvk24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" tvg-logo="" group-title="General",Tavriya
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
@@ -399,14 +564,62 @@ https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-name="Telekanal RAI" tvg-logo="" group-title="General",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 
+#EXTINF:-1 tvg-id="Televsesvit.ua" tvg-name="Televsesvit" tvg-logo="" group-title="General",Televsesvit
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Telplus.ru" tvg-name="Telplus" tvg-logo="" group-title="General",Telplus
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TochkaTV.ru" tvg-name="Tochka TV" tvg-logo="" group-title="General",Tochka TV
+http://31.148.48.15/Tochka_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Tonus.ru" tvg-name="Tonus" tvg-logo="" group-title="General",Tonus
+http://31.148.48.15/Zdorovie/index.m3u8
+
+#EXTINF:-1 tvg-id="TretiyCifrovoy.ua" tvg-name="Tretiy Cifrovoy" tvg-logo="" group-title="General",Tretiy Cifrovoy
+https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UgraTV.ru" tvg-name="Ugra-TV" tvg-logo="" group-title="General",Ugra-TV
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Unikum" tvg-logo="" group-title="General",Unikum
+http://tmptv.sunduk.tv/CH167/index.m3u8
+
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" tvg-logo="" group-title="General",Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-name="Unknown Russia" tvg-logo="" group-title="General",Unknown Russia
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ural24.ru" tvg-name="Ural 24" tvg-logo="" group-title="General",Ural 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Usadba.ru" tvg-name="Usadba" tvg-logo="" group-title="General",Usadba
+http://tmptv.sunduk.tv/CH137/index.m3u8
+
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-name="Vetta 24" tvg-logo="" group-title="General",Vetta 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Vmeste-RF" tvg-logo="" group-title="General",Vmeste-RF
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volga.ru" tvg-name="Volga" tvg-logo="" group-title="General",Volga
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volgograd24.ru" tvg-name="Volgograd 24" tvg-logo="" group-title="General",Volgograd 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Vostok24.ru" tvg-name="Vostok 24" tvg-logo="" group-title="General",Vostok 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Vremya.ru" tvg-name="Vremya" tvg-logo="" group-title="General",Vremya
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+
 #EXTINF:-1 tvg-id="YaPervyy.ru" tvg-name="YaPervyy" tvg-logo="" group-title="General",YaPervyy
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Z.ua" tvg-name="Z" tvg-logo="" group-title="General",Z
+https://stream.ztv.zp.ua/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" tvg-logo="" group-title="General",Za! TV
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
@@ -414,8 +627,20 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-id="Zapad24.ru" tvg-name="Zapad 24" tvg-logo="" group-title="General",Zapad 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" tvg-name="Zhivaya Planeta" tvg-logo="" group-title="General",Zhivaya Planeta
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="Zoo TV" tvg-logo="" group-title="General",Zoo TV
+http://31.148.48.15/Zoo_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-name="Zoopark" tvg-logo="" group-title="General",Zoopark
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="" group-title="General",Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-name="Zvezda Plus" tvg-logo="" group-title="General",Zvezda Plus
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" tvg-logo="" group-title="Kids",Ani
 http://31.148.48.15/Ani/index.m3u8
@@ -464,6 +689,15 @@ https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" tvg-logo="" group-title="Kids",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" tvg-logo="" group-title="Legislative",Duma TV
+https://dumatv.iptv2022.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-name="Pershyi Zahidnyi" tvg-logo="" group-title="Legislative",Pershyi Zahidnyi
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+
+#EXTINF:-1 tvg-id="RadaTV.ua" tvg-name="Rada TV" tvg-logo="" group-title="Legislative",Rada TV
+https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 
 #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-name="City Eden MedZdrav" tvg-logo="" group-title="Lifestyle",City Eden MedZdrav
 https://cityeden.catcast.tv/content/47519/index.m3u8
@@ -732,6 +966,120 @@ http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" tvg-logo="" group-title="Music",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="" group-title="News",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" tvg-logo="" group-title="News",360° News
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ApostropheTV.ua" tvg-name="Apostrophe TV" tvg-logo="" group-title="News",Apostrophe TV
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" tvg-logo="" group-title="News",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Astrahan 24" tvg-logo="" group-title="News",Astrahan 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChPinfo.ua" tvg-name="ChP info" tvg-logo="" group-title="News",ChP info
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.ua" tvg-name="Channel 24" tvg-logo="" group-title="News",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua" tvg-name="Channel 5" tvg-logo="" group-title="News",Channel 5
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Crimea 24" tvg-logo="" group-title="News",Crimea 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+
+#EXTINF:-1 tvg-id="Don24.ru" tvg-name="Don 24" tvg-logo="" group-title="News",Don 24
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DonbassOnline.ua" tvg-name="Donbass Online" tvg-logo="" group-title="News",Donbass Online
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DonechchynaTV.ua" tvg-name="Donechchyna TV" tvg-logo="" group-title="News",Donechchyna TV
+https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" tvg-logo="" group-title="News",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FREEDOM.ua" tvg-name="FREEDOM" tvg-logo="" group-title="News",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" tvg-logo="" group-title="News",GIT
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-name="Govorit Moskva" tvg-logo="" group-title="News",Govorit Moskva
+https://video.govoritmoskva.ru/rufm/index.m3u8
+
+#EXTINF:-1 tvg-id="IUAtv.ua" tvg-name="I-UA.tv" tvg-logo="" group-title="News",I-UA.tv
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+
+#EXTINF:-1 tvg-id="IT3.ua" tvg-name="IT3" tvg-logo="" group-title="News",IT3
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-name="Izvestia" tvg-logo="" group-title="News",Izvestia
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik-TV" tvg-logo="" group-title="News",Krik-TV
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kyiv.ua" tvg-name="Kyiv" tvg-logo="" group-title="News",Kyiv
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1 tvg-id="Legendarnyy24.ru" tvg-name="Legendarnyy 24" tvg-logo="" group-title="News",Legendarnyy 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
+#EXTINF:-1 tvg-id="Millet.ru" tvg-name="Millet" tvg-logo="" group-title="News",Millet
+https://live1.1tvcrimea.ru/milletlive.m3u8
+
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" tvg-logo="" group-title="News",Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" tvg-logo="" group-title="News",Obozrevatel TV
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" tvg-logo="" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" tvg-logo="" group-title="News",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PershiyXTVMedia.ua" tvg-name="Pershiy XTV Media" tvg-logo="" group-title="News",Pershiy XTV Media
+https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-name="Pervyy Respublikanskiy" tvg-logo="" group-title="News",Pervyy Respublikanskiy
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-logo="" group-title="News",RT
+https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-logo="" group-title="News",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" group-title="News",RT en Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" tvg-logo="" group-title="News",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" group-title="News",Russia-24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" tvg-logo="" group-title="News",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ternopil1.ua" tvg-name="Ternopil 1" tvg-logo="" group-title="News",Ternopil 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tolk.ru" tvg-name="Tolk" tvg-logo="" group-title="News",Tolk
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VestiFM.ru" tvg-name="Vesti FM" tvg-logo="" group-title="News",Vesti FM
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+
 #EXTINF:-1 tvg-id="Konniymir.ru" tvg-name="Konniy mir" tvg-logo="" group-title="Outdoor",Konniy mir
 https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 
@@ -740,6 +1088,36 @@ http://tmptv.sunduk.tv/CH225/index.m3u8
 
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="" group-title="Outdoor",Ohotnik i rybolov
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" tvg-logo="" group-title="Religious",3ABN Russia
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-name="EWTN Ukraine" tvg-logo="" group-title="Religious",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Glas.ua" tvg-name="Glas" tvg-logo="" group-title="Religious",Glas
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" tvg-logo="" group-title="Religious",Hope Channel Russia
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelUkraine.ua" tvg-name="Hope Channel Ukraine" tvg-logo="" group-title="Religious",Hope Channel Ukraine
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Huzur TV" tvg-logo="" group-title="Religious",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Soyuz" tvg-logo="" group-title="Religious",Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" tvg-logo="" group-title="Religious",Spas
+https://streaming.televizor-24-tochka.ru/live/15.m3u8
+
+#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="Tsargrad TV" tvg-logo="" group-title="Religious",Tsargrad TV
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+
+#EXTINF:-1 tvg-id="Vera24.ru" tvg-name="Vera 24" tvg-logo="" group-title="Religious",Vera 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="" group-title="Science",.sci-fi
 http://tmptv.sunduk.tv/CH175/index.m3u8
@@ -773,6 +1151,21 @@ https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619
 
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-name="Smotrim Chestnyy Detektiv" tvg-logo="" group-title="Series",Smotrim Chestnyy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-name="Leomax 24" tvg-logo="" group-title="Shop",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Magnat.ru" tvg-name="Magnat" tvg-logo="" group-title="Shop",Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" tvg-logo="" group-title="Shop",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUSO.ua" tvg-name="TUSO" tvg-logo="" group-title="Shop",TUSO
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-name="Yuvelirochka" tvg-logo="" group-title="Shop",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Astrahan.Ru Sport" tvg-logo="" group-title="Sports",Astrahan.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
