@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/167.png" tvg-name="Animal Planet",Animal Planet
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/167
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/168.png" tvg-name="Animal Planet HD",Animal Planet HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/168
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/172.png" tvg-name="Discovery HD",Discovery HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/172
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/174.png" tvg-name="ID Xtra",ID Xtra
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/174
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/361.png" tvg-name="ID Xtra HD",ID Xtra HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/361
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/40.png" tvg-name="Кто есть кто",Кто есть кто
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/40
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/175.png" tvg-name="Russia Today Doc HD",Russia Today Doc HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/175
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/186.png" tvg-name="Моя планета HD",Моя планета HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/186
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/207.png" tvg-name="Моя планета",Моя планета
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/207
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/399.png" tvg-name="Поехали",Поехали
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/399
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1712.png" tvg-name="Наша тема",Наша тема
@@ -49,8 +49,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/183
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/185
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1751.png" tvg-name="Galaxy",Galaxy
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1751
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1425.png" tvg-name="Нано ТВ HD",Нано ТВ HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1425
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/187.png" tvg-name="Нано ТВ",Нано ТВ
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/187
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/188.png" tvg-name="Наука 2.0",Наука 2.0
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/188
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1040.png" tvg-name="Наука HD",Наука HD
@@ -71,8 +71,8 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/192
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/193
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/262.png" tvg-name="Travel Channel HD",Travel Channel HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/262
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/195.png" tvg-name="Travel+Adventure HD",Travel+Adventure HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/195
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/194.png" tvg-name="Travel+Adventure",Travel+Adventure
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/194
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/196.png" tvg-name="Зоопарк",Зоопарк
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/196
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1968.png" tvg-name="Зooпарк HD",Зooпарк HD
@@ -83,10 +83,10 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/197
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/198
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/199.png" tvg-name="Вопросы и ответы",Вопросы и ответы
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/199
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1827.png" tvg-name="Доктор HD",Доктор HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1827
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1976.png" tvg-name="Живи Активно",Живи Активно
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1976
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/117.png" tvg-name="Доктор",Доктор
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/117
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1977.png" tvg-name="Живи Активно HD",Живи Активно HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1977
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/2038.png" tvg-name="Зал суда HD",Зал суда HD
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2038
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1700.png" tvg-name="Docu Box HD",Docu Box HD
@@ -151,12 +151,12 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/67
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1413
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/69.png" tvg-name="Сарафан",Сарафан
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/69
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/70.png" tvg-name="viju Nature",viju Nature
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/70
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1822.png" tvg-name="viju Nature HD",viju Nature HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1822
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/71.png" tvg-name="Бобер",Бобер
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/71
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/2039.png" tvg-name="Загородная жизнь",Загородная жизнь
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2039
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/2040.png" tvg-name="Загородная жизнь HD",Загородная жизнь HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2040
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/2041.png" tvg-name="Загородный",Загородный
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2041
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/2042.png" tvg-name="Загородный int HD",Загородный int HD
@@ -165,12 +165,12 @@ http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2042
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/72
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/73.png" tvg-name="Ю ТВ",Ю ТВ
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/73
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1457.png" tvg-name="Ключ",Ключ
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1457
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1458.png" tvg-name="Ключ HD",Ключ HD
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1458
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/76.png" tvg-name="Ностальгия",Ностальгия
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/76
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1743.png" tvg-name="Мужской HD",Мужской HD
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/1743
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/77.png" tvg-name="Мужской",Мужской
+http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/77
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/80.png" tvg-name="HD Life",HD Life
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/80
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://api.iptv.so/logo/200_115_0/1701.png" tvg-name="Fashion Box HD",Fashion Box HD
