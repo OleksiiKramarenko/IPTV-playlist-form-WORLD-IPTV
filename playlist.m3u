@@ -30,6 +30,9 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" tvg-logo="" group-title="Classic",Nostalgia
 http://31.148.48.15/Nostalgiya/index.m3u8
 
+#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="" group-title="Classic",Retro
+http://tmptv.sunduk.tv/CH149/index.m3u8
+
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="" group-title="Comedy",KVN TV
 http://31.148.48.15/KVN_TV/index.m3u8
 
@@ -58,7 +61,7 @@ https://cityeden.catcast.tv/content/47516/index.m3u8
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-name="Kukhnya TV" tvg-logo="" group-title="Cooking",Kukhnya TV
-http://31.148.48.15/Kuhnya_TV/index.m3u8
+http://tmptv.sunduk.tv/CH65/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="" group-title="Cooking",Telecafe
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
@@ -133,7 +136,7 @@ http://tmptv.sunduk.tv/CH147/index.m3u8
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=tenr-yHXUv1wibfka78s2A&e=2068731801&scheme=https
 
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="" group-title="Entertainment",Che!
-http://31.148.48.15/Che/index.m3u8
+http://tmptv.sunduk.tv/CH185/index.m3u8
 
 #EXTINF:-1 tvg-id="DTRZona1.ru" tvg-name="DTR Zona 1" tvg-logo="" group-title="Entertainment",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
@@ -175,7 +178,7 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" tvg-logo="" group-title="Entertainment",TNT4
-http://31.148.48.15/TNT4/index.m3u8
+http://tmptv.sunduk.tv/CH71/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-name="TNT4 International" tvg-logo="" group-title="Entertainment",TNT4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
@@ -188,6 +191,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="U.ru" tvg-name="U" tvg-logo="" group-title="Entertainment",U
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
+
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-name="Voprosy i Otvety" tvg-logo="" group-title="Entertainment",Voprosy i Otvety
+http://tmptv.sunduk.tv/CH211/index.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" tvg-logo="" group-title="Family",STS
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
@@ -342,6 +348,9 @@ http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Moskva 24" tvg-logo="" group-title="General",Moskva 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
+#EXTINF:-1 tvg-id="NST.ru" tvg-name="NST" tvg-logo="" group-title="General",NST
+http://tmptv.sunduk.tv/CH157/index.m3u8
+
 #EXTINF:-1 tvg-id="NTK21.ru" tvg-name="NTK 21" tvg-logo="" group-title="General",NTK 21
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 
@@ -418,7 +427,7 @@ https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" tvg-logo="" group-title="General",REN TV
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
+http://tmptv.sunduk.tv/CH189/index.m3u8
 
 #EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" tvg-logo="" group-title="General",REN TV International
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -463,7 +472,7 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Sarafan" tvg-logo="" group-title="General",Sarafan
-http://31.148.48.15/Sarafan/index.m3u8
+http://tmptv.sunduk.tv/CH199/index.m3u8
 
 #EXTINF:-1 tvg-id="Seven.ru" tvg-name="Seven" tvg-logo="" group-title="General",Seven
 http://31.148.48.15/7TV/index.m3u8
@@ -518,6 +527,9 @@ https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 
 #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" tvg-logo="" group-title="General",Svoyo TV
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="" group-title="General",T24
+http://tmptv.sunduk.tv/CH173/index.m3u8
 
 #EXTINF:-1 tvg-id="TISTV.ua" tvg-name="TIS TV" tvg-logo="" group-title="General",TIS TV
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
@@ -702,6 +714,9 @@ https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-name="City Eden MedZdrav" tvg-logo="" group-title="Lifestyle",City Eden MedZdrav
 https://cityeden.catcast.tv/content/47519/index.m3u8
 
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" tvg-logo="" group-title="Lifestyle",Domashnie Zhivotnye
+http://tmptv.sunduk.tv/CH207/index.m3u8
+
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="" group-title="Lifestyle",Domashniy
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 
@@ -782,6 +797,9 @@ http://31.148.48.15/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" tvg-logo="" group-title="Movies",Illusion+
 http://31.148.48.15/Illusion_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" tvg-logo="" group-title="Movies",Indiyskoye Kino
+http://tmptv.sunduk.tv/CH107/index.m3u8
 
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" tvg-logo="" group-title="Movies",Kineko
 http://31.148.48.15/Kineko_HD/index.m3u8
@@ -907,7 +925,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://tmptv.sunduk.tv/CH267/index.m3u8
 
 #EXTINF:-1 tvg-id="FonMusic.ru" tvg-name="Fon Music" tvg-logo="" group-title="Music",Fon Music
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+http://tmptv.sunduk.tv/CH121/index.m3u8
 
 #EXTINF:-1 tvg-id="M2.ua" tvg-name="M2" tvg-logo="" group-title="Music",M2
 https://live.m2.tv/hls3/stream.m3u8
@@ -1111,7 +1129,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" tvg-logo="" group-title="Religious",Spas
-https://streaming.televizor-24-tochka.ru/live/15.m3u8
+http://tmptv.sunduk.tv/CH105/index.m3u8
 
 #EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="Tsargrad TV" tvg-logo="" group-title="Religious",Tsargrad TV
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
@@ -1219,7 +1237,7 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="" group-title="Travel",RTG TV
-http://31.148.48.15/RTG_HD/index.m3u8
+http://tmptv.sunduk.tv/CH179/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-name="Teleputeshestviya" tvg-logo="" group-title="Travel",Teleputeshestviya
 http://31.148.48.15/Teleputeshestviya/index.m3u8
