@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {"name": "ngrch", "url": "https://raw.githubusercontent.com/ngrch/iptv/main/ru.m3u"},
+    {"name": "smolnp-stable", "url": "https://raw.githubusercontent.com/smolnp/IPTVru/gh-pages/IPTVstable.m3u8"},
+    {"name": "free-tv-ukraine", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8"},
+    {"name": "slava-67-kino", "url": "https://raw.githubusercontent.com/slava-67/TV/IPTV/kinofilm.m3u"}
+  ],
+  "groups": [
+    {"name": "Основные", "match": ["основные", "общественные", "популярные"]},
+    {"name": "Украина", "match": ["ukraine"]},
+    {"name": "Новости", "match": ["информацион"]},
+    {"name": "Кинозалы", "match": ["кинозал"]},
+    {"name": "Кино и сериалы", "match": ["кино и сериалы"]},
+    {"name": "Фильмы", "match": ["kino zal", "боевики", "военное кино"]},
+    {"name": "Познавательные", "match": ["познавательн", "образовательн", "хобби", "культура"]},
+    {"name": "Развлекательные", "match": ["развлека"]},
+    {"name": "Спорт", "match": ["спорт", "sport"]},
+    {"name": "Детские", "match": ["детск", "children"]},
+    {"name": "Музыка", "match": ["музык"]}
+  ],
+  "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "xxx", "18+", "test"],
+  "skip_vod_files": true,
+  "check": {
+    "timeout": 8,
+    "workers": 60,
+    "history_size": 10,
+    "grace_fails": 2
+  },
+  "output": {
+    "file": "playlist.m3u",
+    "epg_urls": [
+      "https://iptvx.one/epg/epg_lite.xml.gz",
+      "https://epgshare01.online/epgshare01/epg_ripper_UA1.xml.gz"
+    ],
+    "min_channels": 100,
+    "min_ratio": 0.5
+  },
+  "health_file": "health.json"
+}
