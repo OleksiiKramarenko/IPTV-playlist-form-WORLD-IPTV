@@ -26,6 +26,7 @@ def test_defaults_and_lowercased_patterns():
     assert config.output.file == "playlist.m3u"
     assert config.health_file == "health.json"
     assert config.skip_vod_files is True
+    assert config.exclude_channels == ()
 
 
 @pytest.mark.parametrize(
@@ -39,7 +40,10 @@ def test_defaults_and_lowercased_patterns():
         ({"check": {"workers": 0}}, "positive"),
         ({"check": {"grace_fails": -1}}, ">= 0"),
         ({"output": {"min_ratio": 2}}, "between 0 and 1"),
-        ({"output": {"epg_urls": "x"}}, "list of strings"),
+        ({"epg": {"urls": ["ftp://x"]}}, "http"),
+        ({"epg": {"aliases": {"Inter": ""}}}, "guide ids"),
+        ({"epg": {"skip_groups": "Фильмы"}}, "list of group names"),
+        ({"epg": []}, "must be an object"),
     ],
 )
 def test_invalid_configs_are_rejected(patch, message):

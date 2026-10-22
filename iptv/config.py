@@ -3,9 +3,9 @@
 from __future__ import annotations
 
 import json
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any
+from typing import Any, Mapping
 
 
 class ConfigError(ValueError):
@@ -35,9 +35,15 @@ class CheckSettings:
 @dataclass(frozen=True)
 class OutputSettings:
     file: str = "playlist.m3u"
-    epg_urls: tuple[str, ...] = ()
     min_channels: int = 100
     min_ratio: float = 0.5
+
+
+@dataclass(frozen=True)
+class EpgSettings:
+    urls: tuple[str, ...] = ()
+    aliases: Mapping[str, str] = field(default_factory=dict)
+    skip_groups: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -45,9 +51,11 @@ class Config:
     sources: tuple[Source, ...]
     groups: tuple[GroupRule, ...]
     exclude_groups: tuple[str, ...]
+    exclude_channels: tuple[str, ...]
     skip_vod_files: bool
     check: CheckSettings
     output: OutputSettings
+    epg: EpgSettings
     health_file: str
 
 
@@ -77,9 +85,11 @@ def parse_config(raw: Any) -> Config:
         sources=sources,
         groups=groups,
         exclude_groups=tuple(_lower_strings(raw.get("exclude_groups", []), "exclude_groups")),
+        exclude_channels=tuple(_lower_strings(raw.get("exclude_channels", []), "exclude_channels")),
         skip_vod_files=bool(raw.get("skip_vod_files", True)),
         check=_parse_check(raw.get("check", {})),
         output=_parse_output(raw.get("output", {})),
+        epg=_parse_epg(raw.get("epg", {})),
         health_file=str(raw.get("health_file", "health.json")),
     )
 
@@ -135,15 +145,26 @@ def _parse_check(raw: Any) -> CheckSettings:
 def _parse_output(raw: Any) -> OutputSettings:
     if not isinstance(raw, dict):
         raise ConfigError("'output' must be an object")
-    epg_urls = raw.get("epg_urls", [])
-    if not isinstance(epg_urls, list) or not all(isinstance(u, str) for u in epg_urls):
-        raise ConfigError("'output.epg_urls' must be a list of strings")
     settings = OutputSettings(
         file=str(raw.get("file", OutputSettings.file)),
-        epg_urls=tuple(u.strip() for u in epg_urls if u.strip()),
         min_channels=int(raw.get("min_channels", OutputSettings.min_channels)),
         min_ratio=float(raw.get("min_ratio", OutputSettings.min_ratio)),
     )
     if not 0 <= settings.min_ratio <= 1:
         raise ConfigError("'output.min_ratio' must be between 0 and 1")
     return settings
+
+
+def _parse_epg(raw: Any) -> EpgSettings:
+    if not isinstance(raw, dict):
+        raise ConfigError("'epg' must be an object")
+    urls = raw.get("urls", [])
+    if not isinstance(urls, list) or not all(isinstance(u, str) and u.startswith(("http://", "https://")) for u in urls):
+        raise ConfigError("'epg.urls' must be a list of http(s) URLs")
+    aliases = raw.get("aliases", {})
+    if not isinstance(aliases, dict) or not all(isinstance(k, str) and isinstance(v, str) and v for k, v in aliases.items()):
+        raise ConfigError("'epg.aliases' must map channel names to guide ids")
+    skip_groups = raw.get("skip_groups", [])
+    if not isinstance(skip_groups, list) or not all(isinstance(g, str) for g in skip_groups):
+        raise ConfigError("'epg.skip_groups' must be a list of group names")
+    return EpgSettings(urls=tuple(urls), aliases=dict(aliases), skip_groups=tuple(skip_groups))

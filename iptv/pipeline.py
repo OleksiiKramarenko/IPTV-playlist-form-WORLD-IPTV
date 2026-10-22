@@ -9,9 +9,10 @@ from pathlib import Path
 from typing import Iterable, Sequence
 
 from . import m3u
-from .channels import Channel, merge
+from .channels import Channel, is_excluded, merge
 from .checker import check_urls
 from .config import Config
+from .epg import enrich, fetch_index
 from .groups import classify
 from .health import Health, load_health, pick_url, save_health, update_health
 from .sources import SourceResult, fetch_sources
@@ -39,14 +40,15 @@ def run(config: Config, base_dir: Path, force: bool = False) -> int:
 
     health_path = base_dir / config.health_file
     health = update_health(load_health(health_path), checks, config.check.history_size)
-    final = choose_streams(channels, health, config.check.grace_fails, [g.name for g in config.groups])
+    picked = choose_streams(channels, health, config.check.grace_fails, [g.name for g in config.groups])
+    final = add_guide_info(picked, config)
 
     output_path = base_dir / config.output.file
     previous = m3u.count_entries(output_path.read_text(encoding="utf-8")) if output_path.exists() else 0
     if not force:
         guard(len(final), previous, config.output.min_channels, config.output.min_ratio)
 
-    output_path.write_text(m3u.render(final, config.output.epg_urls), encoding="utf-8")
+    output_path.write_text(m3u.render(final, config.epg.urls), encoding="utf-8")
     save_health(health_path, health)
     log.info("Saved %s: %d channels (previous: %d)", output_path, len(final), previous)
     return len(final)
@@ -59,6 +61,8 @@ def select_entries(results: Sequence[SourceResult], config: Config) -> list[m3u.
         kept = 0
         for entry in result.entries:
             if config.skip_vod_files and m3u.is_vod_file(entry.url):
+                continue
+            if is_excluded(entry.name, config.exclude_channels):
                 continue
             group = classify(entry.group, config.groups, config.exclude_groups)
             if group is None:
@@ -79,6 +83,21 @@ def choose_streams(
         if url is not None:
             picked.append(m3u.Entry(name=ch.name, url=url, group=ch.group, logo=ch.logo, tvg_id=ch.tvg_id))
     return sorted(picked, key=lambda e: (order.get(e.group, len(order)), e.name.lower()))
+
+
+def add_guide_info(entries: Sequence[m3u.Entry], config: Config) -> list[m3u.Entry]:
+    """Attach EPG ids and missing logos; a failed guide download only costs the enrichment."""
+    if not config.epg.urls:
+        return list(entries)
+    index = asyncio.run(fetch_index(config.epg.urls))
+    enriched = enrich(entries, index, config.epg.aliases, config.epg.skip_groups)
+    eligible = [e for e in enriched if e.group not in config.epg.skip_groups]
+    log.info(
+        "EPG matched %d/%d channels, logos %d/%d",
+        sum(e.tvg_id in index for e in eligible), len(eligible),
+        sum(bool(e.logo) for e in enriched), len(enriched),
+    )
+    return enriched
 
 
 def guard(new_count: int, previous_count: int, min_channels: int, min_ratio: float) -> None:

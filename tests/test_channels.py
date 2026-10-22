@@ -1,4 +1,6 @@
-from iptv.channels import channel_key, display_name, merge
+import pytest
+
+from iptv.channels import channel_key, display_name, is_excluded, merge
 from iptv.m3u import Entry
 
 
@@ -13,6 +15,23 @@ def test_channel_key_ignores_quality_and_punctuation():
     assert channel_key("НТВ FHD (2)") == channel_key("НТВ")
     assert channel_key("Ёлки") == channel_key("Елки")
     assert channel_key("1+1 Ukraina") != channel_key("1 Ukraina")
+
+
+@pytest.mark.parametrize(
+    "name, patterns, expected",
+    [
+        ("Россия 1 HD", ["россия 1"], True),
+        ("Россия 1 (2)", ["Россия 1"], True),
+        ("Россия 24", ["Россия 1"], False),
+        ("Россия 24", ["Россия*"], True),
+        ("Матч! Футбол 1", ["*футбол*"], True),
+        ("Первый", ["Россия*", "*футбол*"], False),
+        ("Любой", ["*"], False),
+        ("Любой", [], False),
+    ],
+)
+def test_is_excluded(name, patterns, expected):
+    assert is_excluded(name, patterns) is expected
 
 
 def test_merge_collects_fallback_urls_in_source_order():

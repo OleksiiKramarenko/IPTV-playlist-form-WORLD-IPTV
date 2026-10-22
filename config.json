@@ -19,6 +19,7 @@
     {"name": "Музыка", "match": ["музык"]}
   ],
   "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "xxx", "18+", "test"],
+  "exclude_channels": ["Россия*"],
   "skip_vod_files": true,
   "check": {
     "timeout": 8,
@@ -28,12 +29,39 @@
   },
   "output": {
     "file": "playlist.m3u",
-    "epg_urls": [
+    "min_channels": 100,
+    "min_ratio": 0.5
+  },
+  "epg": {
+    "urls": [
       "https://iptvx.one/epg/epg_lite.xml.gz",
       "https://epgshare01.online/epgshare01/epg_ripper_UA1.xml.gz"
     ],
-    "min_channels": 100,
-    "min_ratio": 0.5
+    "skip_groups": ["Фильмы"],
+    "aliases": {
+      "Pershyi": "ua-pershy",
+      "1+1 Ukraina": "1plus1-ukraina",
+      "Inter": "inter-ua",
+      "Novyi Kanal": "novy-kanal-ua",
+      "24 Kanal": "24news-ua",
+      "5 Kanal": "5kanal-ua",
+      "TET": "tet-ua",
+      "M1": "m1-ua",
+      "M2": "m2-ua",
+      "Mega": "mega-ua",
+      "NTN": "ntn-ua",
+      "CK 1": "ck1-ua",
+      "TVA": "tva-ua",
+      "Enter-Film": "enter-film",
+      "Suspilne Kultura": "kultura-ua",
+      "Suspilne Sport": "suspilne-sport-ua",
+      "Піксель TV": "pixel",
+      "Pervyy gorodskoy Odessa": "pervy-gorodskoy-odessa",
+      "Investigation Discovery": "id-xtra-eu",
+      "K1": "k1-ua",
+      "ITV": "itv-ua",
+      "Суспільне Kropyvnytskyi": "ua-kropyvnycky"
+    }
   },
   "health_file": "health.json"
 }

@@ -3,6 +3,7 @@ import pytest
 from iptv import m3u, pipeline
 from iptv.checker import CheckResult
 from iptv.config import parse_config
+from iptv.epg import EpgIndex
 from iptv.health import UrlHealth, load_health
 from iptv.sources import SourceResult
 
@@ -10,8 +11,11 @@ CONFIG = parse_config({
     "sources": [{"name": "a", "url": "https://src/a.m3u"}, {"name": "b", "url": "https://src/b.m3u"}],
     "groups": [{"name": "Основные", "match": ["основные"]}, {"name": "Кинозалы", "match": ["кинозал"]}],
     "exclude_groups": ["vpn"],
-    "output": {"min_channels": 1, "min_ratio": 0.5, "epg_urls": ["https://epg/x.xml"]},
+    "exclude_channels": ["Россия 1"],
+    "output": {"min_channels": 1, "min_ratio": 0.5},
+    "epg": {"urls": ["https://epg/x.xml"], "aliases": {"Первый": "pervy"}, "skip_groups": ["Кинозалы"]},
 })
+GUIDE = EpgIndex(icons={"pervy": "https://logo/pervy.png", "kino1": "https://logo/k.png"}, by_name={"кинозал1": "kino1"})
 
 ENTRIES_A = (
     m3u.Entry(name="Первый", url="https://a/1", group="Основные"),
@@ -22,6 +26,7 @@ ENTRIES_A = (
 ENTRIES_B = (
     m3u.Entry(name="Первый HD", url="https://b/1", group="Основные"),
     m3u.Entry(name="Актёр", url="https://b/x", group="Брюс Уиллис"),
+    m3u.Entry(name="Россия 1 HD", url="https://b/r1", group="Основные"),
 )
 
 
@@ -29,7 +34,7 @@ def source_results(*entry_sets):
     return [SourceResult(source=s, entries=e) for s, e in zip(CONFIG.sources, entry_sets)]
 
 
-def test_select_entries_filters_vod_excluded_and_unmatched_groups():
+def test_select_entries_filters_vod_excluded_channels_and_groups():
     selected = pipeline.select_entries(source_results(ENTRIES_A, ENTRIES_B), CONFIG)
 
     assert [(e.name, e.group) for e in selected] == [
@@ -53,8 +58,12 @@ def fake_run(monkeypatch, sources, alive):
     async def fake_check(urls, timeout, workers):
         return {u: CheckResult(url=u, ok=u in alive, latency_ms=10.0 if u in alive else None) for u in urls}
 
+    async def fake_guide(_):
+        return GUIDE
+
     monkeypatch.setattr(pipeline, "fetch_sources", fake_fetch)
     monkeypatch.setattr(pipeline, "check_urls", fake_check)
+    monkeypatch.setattr(pipeline, "fetch_index", fake_guide)
 
 
 def test_run_writes_playlist_with_fallback_url_and_health(monkeypatch, tmp_path):
@@ -64,9 +73,9 @@ def test_run_writes_playlist_with_fallback_url_and_health(monkeypatch, tmp_path)
 
     text = (tmp_path / "playlist.m3u").read_text(encoding="utf-8")
     assert count == 2
-    assert [(e.group, e.name, e.url) for e in m3u.parse(text)] == [
-        ("Основные", "Первый", "https://b/1"),
-        ("Кинозалы", "Кинозал 1", "https://a/k1"),
+    assert [(e.group, e.name, e.url, e.tvg_id, e.logo) for e in m3u.parse(text)] == [
+        ("Основные", "Первый", "https://b/1", "pervy", "https://logo/pervy.png"),
+        ("Кинозалы", "Кинозал 1", "https://a/k1", "", ""),
     ]
     assert text.startswith('#EXTM3U url-tvg="https://epg/x.xml"')
     assert load_health(tmp_path / "health.json")["https://a/1"] == UrlHealth(history="0")

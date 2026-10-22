@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass, replace
+from fnmatch import fnmatchcase
 from typing import Iterable
 
 from .m3u import Entry
@@ -24,7 +25,7 @@ class Channel:
 
 
 def display_name(name: str) -> str:
-    """'Россия 1 (2)' -> 'Россия 1': drop the alternate-stream counter."""
+    """'Интер (2)' -> 'Интер': drop the alternate-stream counter."""
     return _ALT_SUFFIX_RE.sub("", name).strip()
 
 
@@ -32,6 +33,16 @@ def channel_key(name: str) -> str:
     """Identity used to merge the same channel from different sources."""
     lowered = display_name(name).lower().replace("ё", "е")
     return _NON_ALNUM_RE.sub("", _QUALITY_RE.sub(" ", lowered))
+
+
+def is_excluded(name: str, patterns: Iterable[str]) -> bool:
+    """Match a channel name against exclusion patterns; '*' is a wildcard, the rest compares by channel_key."""
+    key = channel_key(name)
+    for pattern in patterns:
+        normalized = "*".join(channel_key(part) for part in pattern.split("*"))
+        if normalized.strip("*") and fnmatchcase(key, normalized):
+            return True
+    return False
 
 
 def merge(entries: Iterable[Entry]) -> list[Channel]:
