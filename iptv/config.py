@@ -3,9 +3,15 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Mapping
+
+
+_WORD_RE = re.compile(r"[^\W\d_]+")
+_LATIN_RE = re.compile(r"[a-zA-Z]")
+_CYRILLIC_RE = re.compile(r"[Ѐ-ӿ]")
 
 
 class ConfigError(ValueError):
@@ -104,7 +110,19 @@ def _require_list(raw: dict, key: str) -> list:
 def _lower_strings(values: Any, field: str) -> list[str]:
     if not isinstance(values, list) or not all(isinstance(v, str) and v.strip() for v in values):
         raise ConfigError(f"'{field}' must be a list of non-empty strings")
+    _reject_mixed_scripts(values, field)
     return [v.strip().lower() for v in values]
+
+
+def _reject_mixed_scripts(values: list[str], field: str) -> None:
+    """Catch look-alike typos such as a Latin 'p' inside a Cyrillic word: '*pоссия*' never matches 'Россия'."""
+    for value in values:
+        for word in _WORD_RE.findall(value):
+            if _LATIN_RE.search(word) and _CYRILLIC_RE.search(word):
+                raise ConfigError(
+                    f"'{field}': {value!r} mixes Latin and Cyrillic letters in {word!r} "
+                    "(check the keyboard layout)"
+                )
 
 
 def _parse_source(raw: Any) -> Source:

@@ -44,6 +44,8 @@ def test_defaults_and_lowercased_patterns():
         ({"epg": {"aliases": {"Inter": ""}}}, "guide ids"),
         ({"epg": {"skip_groups": "Фильмы"}}, "list of group names"),
         ({"epg": []}, "must be an object"),
+        ({"exclude_channels": ["*pоссия*"]}, "mixes Latin and Cyrillic"),
+        ({"exclude_groups": ["кинo"]}, "mixes Latin and Cyrillic"),
     ],
 )
 def test_invalid_configs_are_rejected(patch, message):
