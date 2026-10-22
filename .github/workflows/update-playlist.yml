@@ -2,12 +2,29 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'   # каждый час
-  workflow_dispatch:        # ручной запуск из интерфейса GitHub
+    - cron: '17 * * * *'    # каждый час (не ровно в :00 — в это время у GitHub очереди)
+  workflow_dispatch:         # ручной запуск из интерфейса GitHub
+    inputs:
+      force:
+        description: 'Записать плейлист, даже если каналов стало намного меньше'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'config.json'
+      - 'iptv/**'
+      - 'requirements*.txt'
+      - '.github/workflows/update-playlist.yml'
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
@@ -20,22 +37,40 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements-dev.txt
 
-      - name: Fetch and Generate playlist
-        env:
-          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
-        run: |
-          python fetch_playlist.py --update
-          python fetch_playlist.py --generate
+      - name: Run tests
+        run: python -m pytest -q
+
+      # История проверок ссылок (health.json) живёт в кэше Actions, а не в git.
+      - name: Restore stream health
+        uses: actions/cache/restore@v4
+        with:
+          path: health.json
+          key: stream-health-${{ github.run_id }}
+          restore-keys: stream-health-
+
+      - name: Build playlist
+        run: python -m iptv ${{ inputs.force && '--force' || '' }}
+
+      - name: Save stream health
+        if: always() && hashFiles('health.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: health.json
+          key: stream-health-${{ github.run_id }}
 
       - name: Commit & push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u library.json channel_stats.json
-          git diff --cached --quiet || git commit -m "Update playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add playlist.m3u
+          git diff --cached --quiet && exit 0
+          git commit -m "Update playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
           git push
