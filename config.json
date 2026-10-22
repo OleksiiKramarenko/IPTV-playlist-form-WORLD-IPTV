@@ -18,8 +18,8 @@
     {"name": "Детские", "match": ["детск", "children"]},
     {"name": "Музыка", "match": ["музык"]}
   ],
-  "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "xxx", "18+", "test"],
-  "exclude_channels": ["Россия*"],
+  "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "test"],
+  "exclude_channels": ["*pоссия*", "*pф*", "*СССР*", "*новост*", "*суспільне*", "*нтв*", "*донбасс*"],
   "skip_vod_files": true,
   "check": {
     "timeout": 8,
