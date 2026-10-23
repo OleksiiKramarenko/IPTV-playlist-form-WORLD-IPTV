@@ -23,6 +23,7 @@ def test_defaults_and_lowercased_patterns():
 
     assert config.groups[0].match == ("кино",)
     assert config.check.timeout == 8.0
+    assert config.check.stub_min_channels == 3
     assert config.output.file == "playlist.m3u"
     assert config.health_file == "health.json"
     assert config.skip_vod_files is True
@@ -39,6 +40,7 @@ def test_defaults_and_lowercased_patterns():
         ({"groups": [{"name": "A", "match": [""]}]}, "non-empty strings"),
         ({"check": {"workers": 0}}, "positive"),
         ({"check": {"grace_fails": -1}}, ">= 0"),
+        ({"check": {"stub_min_channels": 1}}, "0 .* or at least 2"),
         ({"output": {"min_ratio": 2}}, "between 0 and 1"),
         ({"epg": {"urls": ["ftp://x"]}}, "http"),
         ({"epg": {"aliases": {"Inter": ""}}}, "guide ids"),

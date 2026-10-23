@@ -37,6 +37,16 @@ def test_update_health_appends_trims_and_prunes():
     assert previous["https://a"].history == "1111"
 
 
+def test_stub_wipes_history_so_grace_cannot_keep_it():
+    previous = {"https://a": UrlHealth(history="1111", latency_ms=100.0, last_ok="old")}
+    results = {"https://a": CheckResult(url="https://a", ok=False, stub=True)}
+
+    updated = update_health(previous, results, history_size=10, now=NOW)
+
+    assert updated["https://a"] == UrlHealth(history="0", latency_ms=None, last_ok="old")
+    assert pick_url(channel("https://a"), updated, grace_fails=2) is None
+
+
 def test_pick_prefers_reliable_alive_url():
     health = {
         "https://flaky": UrlHealth(history="0101", latency_ms=10.0),

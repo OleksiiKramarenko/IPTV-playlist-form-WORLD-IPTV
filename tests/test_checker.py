@@ -3,7 +3,7 @@ import asyncio
 from aiohttp import web
 from aiohttp.test_utils import TestServer
 
-from iptv.checker import check_urls, next_uri_of
+from iptv.checker import CheckResult, check_urls, next_uri_of
 
 MASTER = "#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=1\nmedia.m3u8\n"
 MEDIA = "#EXTM3U\n#EXTINF:4,\nold.ts\n#EXTINF:4,\nnew.ts\n"
@@ -38,17 +38,24 @@ def build_app() -> web.Application:
     app.router.add_get("/page", respond(text="<html></html>", content_type="text/html"))
     app.router.add_get("/redirect", redirect)
     app.router.add_get("/slow", slow)
+    app.router.add_get("/looped.m3u8", playlist("#EXTM3U\n#EXTINF:10,\nnew.ts\n#EXTINF:10,\nnew.ts\n#EXT-X-ENDLIST\n"))
+    app.router.add_get("/movie.m3u8", playlist("#EXTM3U\n" + "#EXTINF:10,\nnew.ts\n" * 60 + "#EXT-X-ENDLIST\n"))
+    app.router.add_get("/other.ts", respond(body=b"\x47" * 100 + b"\x00" * 4000))
     return app
 
 
-def run_checks(paths: list[str], timeout: float = 1.0) -> dict[str, bool]:
+def check_paths(paths: list[str], timeout: float = 1.0) -> dict[str, CheckResult]:
     async def scenario():
         async with TestServer(build_app()) as server:
             urls = [str(server.make_url(p)) for p in paths]
             results = await check_urls(urls + urls[:1], timeout=timeout, workers=4)
-            return {p: results[u].ok for p, u in zip(paths, urls)}
+            return {p: results[u] for p, u in zip(paths, urls)}
 
     return asyncio.run(scenario())
+
+
+def run_checks(paths: list[str], timeout: float = 1.0) -> dict[str, bool]:
+    return {p: r.ok for p, r in check_paths(paths, timeout).items()}
 
 
 def test_follows_master_and_media_playlist_to_newest_segment():
@@ -61,6 +68,22 @@ def test_rejects_unplayable_streams():
     results = run_checks(["/stale.m3u8", "/empty.m3u8", "/loop.m3u8", "/page", "/old.ts", "/missing", "/slow"])
 
     assert results == dict.fromkeys(results, False)
+
+
+def test_fingerprint_identifies_the_media_a_stream_ends_in():
+    results = check_paths(["/master.m3u8", "/new.ts", "/other.ts", "/page"])
+
+    assert results["/master.m3u8"].fingerprint == results["/new.ts"].fingerprint
+    assert results["/other.ts"].fingerprint not in (None, results["/new.ts"].fingerprint)
+    assert results["/page"].fingerprint is None
+
+
+def test_short_looped_playlist_is_a_stub_but_a_full_movie_is_not():
+    results = check_paths(["/looped.m3u8", "/movie.m3u8", "/missing"])
+
+    assert (results["/looped.m3u8"].ok, results["/looped.m3u8"].stub) == (False, True)
+    assert (results["/movie.m3u8"].ok, results["/movie.m3u8"].stub) == (True, False)
+    assert results["/missing"].stub is False
 
 
 def test_next_uri_of():

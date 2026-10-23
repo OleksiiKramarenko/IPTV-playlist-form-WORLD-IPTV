@@ -16,6 +16,7 @@ from .epg import enrich, fetch_index
 from .groups import classify
 from .health import Health, load_health, pick_url, save_health, update_health
 from .sources import SourceResult, fetch_sources
+from .stubs import mark_shared_stubs
 
 log = logging.getLogger(__name__)
 
@@ -36,7 +37,11 @@ def run(config: Config, base_dir: Path, force: bool = False) -> int:
     urls = [u for ch in channels for u in ch.urls]
     log.info("Checking %d stream URLs...", len(urls))
     checks = asyncio.run(check_urls(urls, config.check.timeout, config.check.workers))
-    log.info("  playable now: %d/%d", sum(r.ok for r in checks.values()), len(checks))
+    checks = mark_shared_stubs(channels, checks, config.check.stub_min_channels)
+    log.info(
+        "  playable now: %d/%d, stub screens: %d",
+        sum(r.ok for r in checks.values()), len(checks), sum(r.stub for r in checks.values()),
+    )
 
     health_path = base_dir / config.health_file
     health = update_health(load_health(health_path), checks, config.check.history_size)

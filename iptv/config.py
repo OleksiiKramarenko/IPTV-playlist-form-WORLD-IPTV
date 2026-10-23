@@ -36,6 +36,7 @@ class CheckSettings:
     workers: int = 60
     history_size: int = 10
     grace_fails: int = 2
+    stub_min_channels: int = 3
 
 
 @dataclass(frozen=True)
@@ -152,11 +153,14 @@ def _parse_check(raw: Any) -> CheckSettings:
         workers=int(raw.get("workers", CheckSettings.workers)),
         history_size=int(raw.get("history_size", CheckSettings.history_size)),
         grace_fails=int(raw.get("grace_fails", CheckSettings.grace_fails)),
+        stub_min_channels=int(raw.get("stub_min_channels", CheckSettings.stub_min_channels)),
     )
     if settings.timeout <= 0 or settings.workers <= 0 or settings.history_size <= 0:
         raise ConfigError("'check.timeout', 'check.workers' and 'check.history_size' must be positive")
     if settings.grace_fails < 0:
         raise ConfigError("'check.grace_fails' must be >= 0")
+    if settings.stub_min_channels < 0 or settings.stub_min_channels == 1:
+        raise ConfigError("'check.stub_min_channels' must be 0 (off) or at least 2")
     return settings
 
 

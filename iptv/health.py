@@ -2,6 +2,7 @@
 
 health.json maps stream URL -> {"history": "1101", "latency_ms": 420.5, "last_ok": ISO-8601 UTC}.
 History is a string of check outcomes, oldest first ("1" = played, "0" = failed).
+A stub screen wipes the history: it is not an outage to wait out.
 """
 
 from __future__ import annotations
@@ -74,6 +75,9 @@ def update_health(
     updated: dict[str, UrlHealth] = {}
     for url, result in results.items():
         old = previous.get(url, UrlHealth())
+        if result.stub:
+            updated[url] = UrlHealth(history="0", last_ok=old.last_ok)
+            continue
         history = (old.history + ("1" if result.ok else "0"))[-history_size:]
         updated[url] = UrlHealth(
             history=history,

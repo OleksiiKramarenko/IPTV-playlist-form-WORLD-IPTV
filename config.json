@@ -25,7 +25,8 @@
     "timeout": 8,
     "workers": 60,
     "history_size": 10,
-    "grace_fails": 2
+    "grace_fails": 2,
+    "stub_min_channels": 3
   },
   "output": {
     "file": "playlist.m3u",

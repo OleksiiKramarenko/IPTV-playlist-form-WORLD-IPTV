@@ -99,3 +99,17 @@ def test_run_fails_when_all_sources_fail(monkeypatch, tmp_path):
 
     with pytest.raises(pipeline.BuildError, match="All sources failed"):
         pipeline.run(CONFIG, tmp_path)
+
+
+def test_run_drops_stub_screen_shared_by_several_channels(monkeypatch, tmp_path):
+    entries = tuple(m3u.Entry(name=f"Канал {i}", url=f"https://c/{i}", group="Основные") for i in range(4))
+    fake_run(monkeypatch, source_results(entries, ()), alive={e.url for e in entries})
+
+    async def fake_check(urls, timeout, workers):
+        fingerprint = {"https://c/0": "real"}
+        return {u: CheckResult(url=u, ok=True, latency_ms=10.0, fingerprint=fingerprint.get(u, "offline")) for u in urls}
+
+    monkeypatch.setattr(pipeline, "check_urls", fake_check)
+
+    assert pipeline.run(CONFIG, tmp_path) == 1
+    assert [e.name for e in m3u.parse((tmp_path / "playlist.m3u").read_text(encoding="utf-8"))] == ["Канал 0"]
