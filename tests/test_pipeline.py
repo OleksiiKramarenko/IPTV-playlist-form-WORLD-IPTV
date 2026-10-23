@@ -1,6 +1,7 @@
 import pytest
 
 from iptv import m3u, pipeline
+from iptv.channels import Channel
 from iptv.checker import CheckResult
 from iptv.config import parse_config
 from iptv.epg import EpgIndex
@@ -165,3 +166,16 @@ def test_run_brings_back_a_retired_channel_when_it_plays_again(monkeypatch, tmp_
 
     assert "Редкий" in (tmp_path / "playlist.m3u").read_text(encoding="utf-8")
     assert load_retired(tmp_path / "retired.json") == []
+
+
+def test_choose_streams_publishes_one_channel_per_stream_url():
+    health = {u: UrlHealth(history="1", latency_ms=10.0) for u in ("https://same", "https://own")}
+    channels = [
+        Channel(key="zz", name="Загородная жизнь", group="Основные", logo="", tvg_id="", urls=("https://same",)),
+        Channel(key="z", name="ЗЖ", group="Основные", logo="", tvg_id="", urls=("https://same",)),
+        Channel(key="a", name="Аква", group="Кинозалы", logo="", tvg_id="", urls=("https://same", "https://own")),
+    ]
+
+    picked = pipeline.choose_streams(channels, health, grace_fails=2, group_order=["Основные", "Кинозалы"])
+
+    assert [(e.name, e.url) for e in picked] == [("Загородная жизнь", "https://same"), ("Аква", "https://own")]

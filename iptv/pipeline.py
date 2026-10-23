@@ -109,11 +109,15 @@ def is_carried(entry: m3u.Entry, config: Config) -> bool:
 def choose_streams(
     channels: Iterable[Channel], health: Health, grace_fails: int, group_order: Sequence[str]
 ) -> list[m3u.Entry]:
+    """One entry per channel and per stream URL: a URL already taken by an earlier channel
+    (sources are in priority order) is not reused, the later channel falls back to its other URLs."""
     order = {name: i for i, name in enumerate(group_order)}
     picked = []
+    used: set[str] = set()
     for ch in channels:
-        url = pick_url(ch, health, grace_fails)
+        url = pick_url(replace(ch, urls=tuple(u for u in ch.urls if u not in used)), health, grace_fails)
         if url is not None:
+            used.add(url)
             picked.append(m3u.Entry(name=ch.name, url=url, group=ch.group, logo=ch.logo, tvg_id=ch.tvg_id))
     return sorted(picked, key=lambda e: (order.get(e.group, len(order)), e.name.lower()))
 
