@@ -55,6 +55,14 @@ jobs:
           key: stream-health-${{ github.run_id }}
           restore-keys: stream-health-
 
+      # Лист ожидания выпавших каналов — отдельный кэш, чтобы не сбить версию кэша health.json.
+      - name: Restore retired channels
+        uses: actions/cache/restore@v4
+        with:
+          path: retired.json
+          key: retired-channels-${{ github.run_id }}
+          restore-keys: retired-channels-
+
       - name: Build playlist
         run: python -m iptv ${{ inputs.force && '--force' || '' }}
 
@@ -64,6 +72,13 @@ jobs:
         with:
           path: health.json
           key: stream-health-${{ github.run_id }}
+
+      - name: Save retired channels
+        if: always() && hashFiles('retired.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: retired.json
+          key: retired-channels-${{ github.run_id }}
 
       - name: Commit & push if changed
         run: |

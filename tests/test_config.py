@@ -26,6 +26,8 @@ def test_defaults_and_lowercased_patterns():
     assert config.check.stub_min_channels == 3
     assert config.output.file == "playlist.m3u"
     assert config.health_file == "health.json"
+    assert config.retired_file == "retired.json"
+    assert config.check.retire_days == 30
     assert config.skip_vod_files is True
     assert config.exclude_channels == ()
 
@@ -41,6 +43,7 @@ def test_defaults_and_lowercased_patterns():
         ({"check": {"workers": 0}}, "positive"),
         ({"check": {"grace_fails": -1}}, ">= 0"),
         ({"check": {"stub_min_channels": 1}}, "0 .* or at least 2"),
+        ({"check": {"retire_days": -1}}, "retire_days"),
         ({"output": {"min_ratio": 2}}, "between 0 and 1"),
         ({"epg": {"urls": ["ftp://x"]}}, "http"),
         ({"epg": {"aliases": {"Inter": ""}}}, "guide ids"),

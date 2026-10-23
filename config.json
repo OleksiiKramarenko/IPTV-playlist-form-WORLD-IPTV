@@ -27,7 +27,8 @@
     "workers": 60,
     "history_size": 10,
     "grace_fails": 2,
-    "stub_min_channels": 3
+    "stub_min_channels": 3,
+    "retire_days": 30
   },
   "output": {
     "file": "playlist.m3u",

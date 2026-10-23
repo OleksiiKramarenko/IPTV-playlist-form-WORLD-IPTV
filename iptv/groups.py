@@ -17,11 +17,16 @@ def normalize_group(title: str) -> str:
     return _SPACES_RE.sub(" ", cleaned).strip()
 
 
+def is_excluded_group(title: str, exclude: Sequence[str]) -> bool:
+    normalized = normalize_group(title)
+    return not normalized or any(pattern in normalized for pattern in exclude)
+
+
 def classify(title: str, rules: Sequence[GroupRule], exclude: Sequence[str]) -> Optional[str]:
     """Return the target group name, or None when the title is excluded or unmatched."""
-    normalized = normalize_group(title)
-    if not normalized or any(pattern in normalized for pattern in exclude):
+    if is_excluded_group(title, exclude):
         return None
+    normalized = normalize_group(title)
     for rule in rules:
         if any(pattern in normalized for pattern in rule.match):
             return rule.name

@@ -37,6 +37,7 @@ class CheckSettings:
     history_size: int = 10
     grace_fails: int = 2
     stub_min_channels: int = 3
+    retire_days: int = 30
 
 
 @dataclass(frozen=True)
@@ -64,6 +65,7 @@ class Config:
     output: OutputSettings
     epg: EpgSettings
     health_file: str
+    retired_file: str
 
 
 def load_config(path: Path) -> Config:
@@ -98,6 +100,7 @@ def parse_config(raw: Any) -> Config:
         output=_parse_output(raw.get("output", {})),
         epg=_parse_epg(raw.get("epg", {})),
         health_file=str(raw.get("health_file", "health.json")),
+        retired_file=str(raw.get("retired_file", "retired.json")),
     )
 
 
@@ -154,6 +157,7 @@ def _parse_check(raw: Any) -> CheckSettings:
         history_size=int(raw.get("history_size", CheckSettings.history_size)),
         grace_fails=int(raw.get("grace_fails", CheckSettings.grace_fails)),
         stub_min_channels=int(raw.get("stub_min_channels", CheckSettings.stub_min_channels)),
+        retire_days=int(raw.get("retire_days", CheckSettings.retire_days)),
     )
     if settings.timeout <= 0 or settings.workers <= 0 or settings.history_size <= 0:
         raise ConfigError("'check.timeout', 'check.workers' and 'check.history_size' must be positive")
@@ -161,6 +165,8 @@ def _parse_check(raw: Any) -> CheckSettings:
         raise ConfigError("'check.grace_fails' must be >= 0")
     if settings.stub_min_channels < 0 or settings.stub_min_channels == 1:
         raise ConfigError("'check.stub_min_channels' must be 0 (off) or at least 2")
+    if settings.retire_days < 0:
+        raise ConfigError("'check.retire_days' must be >= 0")
     return settings
 
 

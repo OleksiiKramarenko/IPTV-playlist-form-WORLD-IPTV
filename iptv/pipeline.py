@@ -1,4 +1,4 @@
-"""End-to-end build: sources -> filter -> merge -> check -> pick -> guard -> write."""
+"""End-to-end build: sources + previous playlist + waiting list -> filter -> merge -> check -> pick -> guard -> write."""
 
 from __future__ import annotations
 
@@ -13,8 +13,9 @@ from .channels import Channel, is_excluded, merge
 from .checker import check_urls
 from .config import Config
 from .epg import enrich, fetch_index
-from .groups import classify
+from .groups import classify, is_excluded_group
 from .health import Health, load_health, pick_url, save_health, update_health
+from .retired import load_retired, save_retired, update_retired
 from .sources import SourceResult, fetch_sources
 from .stubs import mark_shared_stubs
 
@@ -31,7 +32,13 @@ def run(config: Config, base_dir: Path, force: bool = False) -> int:
     if not any(r.entries for r in results):
         raise BuildError("All sources failed, keeping the previous playlist")
 
-    channels = merge(select_entries(results, config))
+    output_path = base_dir / config.output.file
+    previous_entries = m3u.parse(output_path.read_text(encoding="utf-8")) if output_path.exists() else []
+    carried = select_previous(previous_entries, config)
+    retired_path = base_dir / config.retired_file
+    waiting = [r for r in load_retired(retired_path) if is_carried(r.entry, config)]
+    log.info("  waiting list: %d channels", len(waiting))
+    channels = merge(select_entries(results, config) + carried + [r.entry for r in waiting])
     log.info("Channels after filtering and merging: %d", len(channels))
 
     urls = [u for ch in channels for u in ch.urls]
@@ -48,14 +55,15 @@ def run(config: Config, base_dir: Path, force: bool = False) -> int:
     picked = choose_streams(channels, health, config.check.grace_fails, [g.name for g in config.groups])
     final = add_guide_info(picked, config)
 
-    output_path = base_dir / config.output.file
-    previous = m3u.count_entries(output_path.read_text(encoding="utf-8")) if output_path.exists() else 0
+    previous = len(previous_entries)
     if not force:
         guard(len(final), previous, config.output.min_channels, config.output.min_ratio)
 
     output_path.write_text(m3u.render(final, config.epg.urls), encoding="utf-8")
     save_health(health_path, health)
-    log.info("Saved %s: %d channels (previous: %d)", output_path, len(final), previous)
+    retired = update_retired(waiting, carried, final, config.check.retire_days)
+    save_retired(retired_path, retired)
+    log.info("Saved %s: %d channels (previous: %d), waiting list: %d", output_path, len(final), previous, len(retired))
     return len(final)
 
 
@@ -76,6 +84,26 @@ def select_entries(results: Sequence[SourceResult], config: Config) -> list[m3u.
             kept += 1
         log.info("  %s: kept %d/%d entries", result.source.name, kept, len(result.entries))
     return selected
+
+
+def select_previous(entries: Sequence[m3u.Entry], config: Config) -> list[m3u.Entry]:
+    """Channels of the last published playlist, re-checked like any source but with the lowest priority.
+
+    A channel a source has dropped stays while its stream still plays; exclusions and
+    removed groups still apply, so the playlist can be cleaned up through config.json.
+    """
+    kept = [e for e in entries if is_carried(e, config)]
+    log.info("  previous playlist: kept %d/%d entries", len(kept), len(entries))
+    return kept
+
+
+def is_carried(entry: m3u.Entry, config: Config) -> bool:
+    """An already published entry still fits the current config (group exists, nothing excludes it)."""
+    return (
+        any(g.name == entry.group for g in config.groups)
+        and not is_excluded(entry.name, config.exclude_channels)
+        and not is_excluded_group(entry.group, config.exclude_groups)
+    )
 
 
 def choose_streams(

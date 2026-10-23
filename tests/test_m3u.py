@@ -56,7 +56,6 @@ def test_render_roundtrip_and_escapes_quotes():
     parsed = m3u.parse(text)
     assert parsed[0].url == "https://a.example/1.m3u8"
     assert parsed[0].group == "Основные"
-    assert m3u.count_entries(text) == 1
 
 
 def test_render_without_epg_has_plain_header():

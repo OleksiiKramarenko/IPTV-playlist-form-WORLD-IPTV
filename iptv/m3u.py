@@ -75,9 +75,5 @@ def render(entries: Iterable[Entry], epg_urls: Iterable[str] = ()) -> str:
     return "\n".join(lines) + "\n"
 
 
-def count_entries(text: str) -> int:
-    return sum(1 for line in text.splitlines() if line.startswith("#EXTINF"))
-
-
 def _attr(value: str) -> str:
     return value.replace('"', "'")
