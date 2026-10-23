@@ -3,7 +3,8 @@
     {"name": "ngrch", "url": "https://raw.githubusercontent.com/ngrch/iptv/main/ru.m3u"},
     {"name": "smolnp-stable", "url": "https://raw.githubusercontent.com/smolnp/IPTVru/gh-pages/IPTVstable.m3u8"},
     {"name": "free-tv-ukraine", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8"},
-    {"name": "slava-67-kino", "url": "https://raw.githubusercontent.com/slava-67/TV/IPTV/kinofilm.m3u"}
+    {"name": "slava-67-kino", "url": "https://raw.githubusercontent.com/slava-67/TV/IPTV/kinofilm.m3u"},
+    {"name": "auto-full", "url": "https://raw.githubusercontent.com/slava-67/TV/refs/heads/IPTV/avto-full.m3u"}
   ],
   "groups": [
     {"name": "Основные", "match": ["основные", "общественные", "популярные"]},
