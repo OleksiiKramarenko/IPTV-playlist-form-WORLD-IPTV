@@ -5,7 +5,7 @@
     {"name": "free-tv-ukraine", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8"},
     {"name": "slava-67-kino", "url": "https://raw.githubusercontent.com/slava-67/TV/IPTV/kinofilm.m3u"},
     {"name": "auto-full", "url": "https://raw.githubusercontent.com/slava-67/TV/refs/heads/IPTV/avto-full.m3u"},
-    {"name": "IPTVmir", "url":"https://raw.githubusercontent.com/smolnp/IPTVru/refs/heads/gh-pages/IPTVmir.m3u8"}
+    {"name": "indexCategory", "url":"https://iptv-org.github.io/iptv/index.category.m3u"}
   ],
   "groups": [
     {"name": "Основные", "match": ["основные", "общественные", "популярные"]},
@@ -20,7 +20,7 @@
     {"name": "Детские", "match": ["детск", "children"]},
     {"name": "Музыка", "match": ["музык"]}
   ],
-  "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "test"],
+  "exclude_groups": ["vpn", "регионал", "местн", "религ", "христиан", "test", "General", "Undefined", "News", "Entertainment", "Religious", "Culture", "Legislative", "Classic", "Shop", "Outdoor", "Business", "Cooking", "Public", "Weather", "Interactive"],
   "exclude_channels": ["*россия*", "*рф*", "*СССР*", "*новост*", "*суспільне*", "*нтв*", "*донбасс*", "*москва*"],
   "skip_vod_files": true,
   "check": {
