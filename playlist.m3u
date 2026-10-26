@@ -38,7 +38,7 @@ https://o5.anwap.be/ohls/EkoR1MPz-Kxzj9oE7_s4Og/1746822978/Zvezda-2579_(anwap.or
 #EXTINF:-1 tvg-id="istoria" tvg-name="История" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png" group-title="Основные",История
 https://stream8.cinerama.uz/1266/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png" group-title="Основные",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
+http://185.46.16.239:8000/Karusel
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png" group-title="Основные",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia-int" tvg-name="Кинокомедия International" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png" group-title="Основные",Кинокомедия International
@@ -68,7 +68,7 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="Муз ТВ" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png" group-title="Основные",Муз ТВ
 https://stream8.cinerama.uz/1200/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png" group-title="Основные",Мульт
-https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-name="Настоящее время" tvg-logo="https://ngrch.github.io/iptv/logos/ctime.png" group-title="Основные",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png" group-title="Основные",НСТ
@@ -77,8 +77,6 @@ http://176.118.197.101/HCT/index.m3u8
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png" group-title="Основные",Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png" group-title="Основные",Пятница
-http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="https://ngrch.github.io/iptv/logos/ru_detectiv.png" group-title="Основные",Русский детектив
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png" group-title="Основные",Солнце
@@ -92,7 +90,7 @@ https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="Основные",Суббота
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Основные",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+https://stream8.cinerama.uz/1025/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png" group-title="Основные",ТВ3
 http://stream.mcquack.net/136/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Основные",ТНТ
@@ -111,6 +109,8 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="ck1-ua" tvg-name="CK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="Украина",CK 1
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="enter-film" tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/960px-Enter-FilmUA_%282013%29.png" group-title="Украина",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="Inter" tvg-logo="https://i.imgur.com/R06gbuT.png" group-title="Украина",Inter
 http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="itv-ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="Украина",ITV
@@ -149,12 +149,10 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DIM.ua" tvg-name="ДІМ" tvg-logo="https://i.imgur.com/3cjaXIF.png" group-title="Украина",ДІМ
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
-#EXTINF:-1 tvg-id="plusplus" tvg-name="ПлюсПлюс Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/500px-PLUSPLUSUA.svg.png" group-title="Украина",ПлюсПлюс Ⓢ
-http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-id="pixel" tvg-name="Піксель TV" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="Украина",Піксель TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Новости",360
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv-ru" tvg-name="CGTN Русский" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Новости",CGTN Русский
 https://stream8.cinerama.uz/1456/index.m3u8
 #EXTINF:-1 tvg-id="CNN.[EU].ua" tvg-name="CNN" tvg-logo="" group-title="Новости",CNN
@@ -197,6 +195,8 @@ https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1st_witch" tvg-logo="" group-title="Кинозалы",1st_witch
 https://kinowalk.hopto.org/witch_live
+#EXTINF:-1 tvg-id="" tvg-name="Aisman" tvg-logo="" group-title="Кинозалы",Aisman
+https://kinowalk.hopto.org/aisman_live
 #EXTINF:-1 tvg-id="" tvg-name="Blockbusters Time" tvg-logo="" group-title="Кинозалы",Blockbusters Time
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-id="" tvg-name="ChowAmigo" tvg-logo="" group-title="Кинозалы",ChowAmigo
@@ -211,6 +211,8 @@ https://kinowalk.hopto.org/disneyxd_live
 https://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-id="" tvg-name="FoxKids" tvg-logo="" group-title="Кинозалы",FoxKids
 https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 tvg-id="" tvg-name="FRXNKL1N" tvg-logo="" group-title="Кинозалы",FRXNKL1N
+https://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:-1 tvg-id="" tvg-name="grislytoe" tvg-logo="" group-title="Кинозалы",grislytoe
 https://kinowalk.hopto.org/grislytoe_live
 #EXTINF:-1 tvg-id="" tvg-name="HGTN" tvg-logo="" group-title="Кинозалы",HGTN
@@ -235,8 +237,6 @@ https://kinowalk.hopto.org/kycman_live
 https://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 tvg-id="" tvg-name="MovieToper" tvg-logo="" group-title="Кинозалы",MovieToper
 https://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-id="" tvg-name="RE_BOOT" tvg-logo="" group-title="Кинозалы",RE_BOOT
-https://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 tvg-id="" tvg-name="Retrovision" tvg-logo="" group-title="Кинозалы",Retrovision
 https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retrovision Classic" tvg-logo="" group-title="Кинозалы",Retrovision Classic
@@ -247,10 +247,12 @@ https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
 https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retrovision Кинопанорама" tvg-logo="" group-title="Кинозалы",Retrovision Кинопанорама
 https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Scripach" tvg-logo="" group-title="Кинозалы",Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-id="" tvg-name="SeleCaoTV" tvg-logo="" group-title="Кинозалы",SeleCaoTV
+https://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="" tvg-name="SeleCaoTV1" tvg-logo="" group-title="Кинозалы",SeleCaoTV1
 https://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="" tvg-name="Serial4u" tvg-logo="" group-title="Кинозалы",Serial4u
-https://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-id="" tvg-name="SerialTV" tvg-logo="" group-title="Кинозалы",SerialTV
 https://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 tvg-id="" tvg-name="swat2k" tvg-logo="" group-title="Кинозалы",swat2k
@@ -367,8 +369,6 @@ http://176.100.46.245:90/red/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кино и сериалы",Amedia 1
 http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кино и сериалы",Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blokbaster" tvg-logo="" group-title="Кино и сериалы",Blokbaster
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Кино и сериалы",Bollywood
@@ -393,6 +393,8 @@ http://tv.tuva.ru/ovaa/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Кино и сериалы",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="start-air" tvg-name="Start Air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Кино и сериалы",Start Air
+http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV12" tvg-logo="" group-title="Кино и сериалы",TV12
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="Viju+ Comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="Кино и сериалы",Viju+ Comedy
@@ -447,8 +449,6 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="Кино и сериалы",Наше новое кино
 https://stream8.cinerama.uz/1051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Премиальное" tvg-logo="" group-title="Кино и сериалы",Премиальное
-http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="pes-ua" tvg-name="Пёс" tvg-logo="https://iptvx.one/picons/pes-ua.png" group-title="Кино и сериалы",Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кино и сериалы",Ретро
@@ -513,8 +513,6 @@ https://o6.anwap.be/ohls/J5xHq9zjLCRq-iYhmyZsVw/1745213241/Bitva_pri_CHosinskom_
 https://kinoleha.net/load/bitva-na-shelde?original
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Битва при Нарвике: Первое поражение Гитлера" tvg-logo="https://i121.fastpic.org/big/2023/0125/37/072afe1e4cd31f689be5d09cee371a37.jpg" group-title="Фильмы",Битва при Нарвике: Первое поражение Гитлера
 https://o7.anwap.be/ohls/IqJku6iS0gsZIya0C6YH3w/1745213201/Bitva_pri_Narvike_Pervoe_porazhenie_Gitlera-37024_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Блаженні мертві" tvg-logo="" group-title="Фильмы",Блаженні мертві
-http://ashdi.vip/video30/1/films/handling.the.undead.2024.1080p.amzn.webdl.aac2.0.h.264utopia_131558/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Блиндаж" tvg-logo="https://kinogo.net/uploads/posts/2024-11/blindazh-poster.webp" group-title="Фильмы",Блиндаж
 https://o8.anwap.be/ohls/M918ThWg007gFo7RWmYd_Q/1745199364/Blindazh-41843_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Бліц" tvg-logo="" group-title="Фильмы",Бліц
@@ -575,8 +573,6 @@ http://ashdi.vip/video15/2/new/the_outrun_2024_webdl_1080p_h264_ukr_eng_hurtom_1
 https://o5.anwap.be/ohls/wjwUTY23vysFe8lTC3FWxQ/1745222847/Vysota_89-1132_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Війна й повстання" tvg-logo="" group-title="Фильмы",Війна й повстання
 http://ashdi.vip/video19/2/new/uprising.2024.1080p.nf.webdl.ddp5.1.h.264utopia_145932/hls/BKeMlHaNkPtdngjhBIk=/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Гам Гам Ганеша" tvg-logo="" group-title="Фильмы",Гам Гам Ганеша
-http://ashdi.vip/video24/1/new/gam_gam_ganesha_136984/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Гвардия 2 1 серия" tvg-logo="https://images.2plus2.ua/14/40bd72daca02a5b12599ed99a3211711.jpg" group-title="Фильмы",Гвардия 2 1 серия
 https://vs57.vcdn.biz/fa15d16f325ca1d79b6d3af054a912b5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/53793741/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Гвардия 2 2 серия" tvg-logo="https://images.2plus2.ua/14/40bd72daca02a5b12599ed99a3211711.jpg" group-title="Фильмы",Гвардия 2 2 серия
@@ -621,8 +617,6 @@ http://ashdi.vip/video24/1/new/girl_haunts_boy_2024_webdl_1080p_h264_ukr_eng_hur
 http://ashdi.vip/video21/1/films/dini_final_low_160765/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ебіґейл" tvg-logo="" group-title="Фильмы",Ебіґейл
 http://ashdi.vip/video28/1/films/abigail_2024_bdrip_1080p_ukr_eng_hurtom_135283/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ексгумація" tvg-logo="" group-title="Фильмы",Ексгумація
-http://ashdi.vip/video29/1/films/exhuma.2024_125877/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Жадібні люди" tvg-logo="" group-title="Фильмы",Жадібні люди
 http://ashdi.vip/video22/2/films/greedy_people_2024_amzn_webdl_2160p_h.265_sdr_ukr_eng_hurtom_140599/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="За линией" tvg-logo="https://st.kinobase.org/storage/360x534/posters/2019/07/95d6f382ea6e9d3063d5.jpg" group-title="Фильмы",За линией
@@ -683,8 +677,6 @@ https://o6.anwap.be/ohls/iowQF4kg9oXj9aHaERvKeA/1745223328/Letchik-32501_(anwap.
 https://o3.anwap.be/ohls/OYzmE8jxTSXwUz_6r1L_mQ/1748613757/Luchshie_v_adu-35632_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Любовь на скалах" tvg-logo="https://kinoleha.net/images/5621.jpg" group-title="Фильмы",Любовь на скалах
 https://o7.anwap.be/ohls/SUWvfD__WJSeskRKi7vldQ/1673206435/Lyubovq_na_skalah-36795_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Махараджа" tvg-logo="" group-title="Фильмы",Махараджа
-http://ashdi.vip/video21/1/new/maharaja_158150/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мисливиця за часом" tvg-logo="" group-title="Фильмы",Мисливиця за часом
 http://ashdi.vip/video21/1/new/timestalker.2024.ua.mvo.dniprofilm_160865/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Мистецтво на війні (Док.фільм)" tvg-logo="" group-title="Фильмы",Мистецтво на війні (Док.фільм)
@@ -709,8 +701,6 @@ https://kinoleha.net/load/ne-najti-pokoya?original
 https://o2.anwap.be/ohls/PtN7_0y73EPOJNrIZ0YR3Q/1679790422/Neosporimyj_3-1516_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Неоспоримый 4" tvg-logo="https://kinozal.tv/i/poster/7/1/1532971.jpg" group-title="Фильмы",Неоспоримый 4
 https://o1.anwap.be/ohls/ACaAlBKCF9PMmNronrt-mg/1679790500/Neosporimyjnbsp4-17019_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Неприємності" tvg-logo="" group-title="Фильмы",Неприємності
-http://ashdi.vip/video06/2/new/trouble.strul.2024.ua_144718/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Неслужебное задание" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8b/%D0%9D%D0%B5%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%282004%29.jpg/640px-%D0%9D%D0%B5%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%282004%29.jpg" group-title="Фильмы",Неслужебное задание
 https://o5.anwap.be/ohls/i2dZ-z0KWeePpHTK5G11Vg/1743299461/Nesluzhebnoe_zadanie-197_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Неслужебное задание 2: Взрыв на рассвете" tvg-logo="https://static.hdrezka.ac/i/2016/8/11/hd8c1fcc742ebbv91f51r.jpg" group-title="Фильмы",Неслужебное задание 2: Взрыв на рассвете
@@ -723,8 +713,6 @@ https://o8.anwap.be/ohls/YyDJa2emgITeHkmvgloPFw/1695348875/Neuderzhimyee_4-39418
 https://o7.anwap.be/ohls/465FMhQljm0SR7bAWepfcg/1748614208/Nyurnberg-37527_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Нічна благодать" tvg-logo="" group-title="Фильмы",Нічна благодать
 http://ashdi.vip/video24/1/new/grace_by_night_2024_webrip_1080p_eng_ukr_hurtom_156331/hls/BKeMlHaNkPtdngjhBIs=/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Нічна зйомка" tvg-logo="" group-title="Фильмы",Нічна зйомка
-http://ashdi.vip/video22/1/new/night_shoot_127962/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Обелиск" tvg-logo="https://mm.anwap.today/films/screen/45523.jpg" group-title="Фильмы",Обелиск
 https://o10.anwap.be/ohls/eJSKZSnK-uIyoZ82lieHRA/1746897217/Obelisk-45523_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Один выстрел" tvg-logo="https://kinozal.tv/i/poster/1/1/1886811.jpg" group-title="Фильмы",Один выстрел
@@ -750,7 +738,7 @@ https://o3.anwap.be/ohls/EngmQ4_sxd51DOCr9YJy7Q/1748615257/Operaciya_Final-21901
 #EXTINF:-1 tvg-id="" tvg-name="Ополченочка" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/e/ef/%D0%9E%D0%BF%D0%BE%D0%BB%D1%87%D0%B5%D0%BD%D0%BE%D1%87%D0%BA%D0%B0.jpg/250px-%D0%9E%D0%BF%D0%BE%D0%BB%D1%87%D0%B5%D0%BD%D0%BE%D1%87%D0%BA%D0%B0.jpg" group-title="Фильмы",Ополченочка
 https://o9.anwap.be/ohls/bcGNo8ViiyNJz3u-lul9mw/1748618962/Opolchenochka-42182_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Орудие войны" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHF7lZnbETVFbqoTIjVvKPWpIi93FUbOTQw&s" group-title="Фильмы",Орудие войны
-https://o2.anwap.be/ohls/68okuzMpIMFhhM7QZW0ZRA/1751094914/Orudie_vojny-18418_(anwap.org).m3u8
+https://o2.anwap.be/ohls/740G4lZ25ghrdHxZZ9c2Gg/1745228666/Orudie_vojny-18418_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Освобождение: Битва за Берлин" tvg-logo="https://ua-images.kinorium.com/movie/200/735089.jpg?1623591143" group-title="Фильмы",Освобождение: Битва за Берлин
 https://o1.anwap.be/ohls/RpzODoaguEdvUKKIFE75TQ/1748619042/Osvobozhdenie_Bitva_za_Berlin-10282_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Освобождение: Огненная дуга" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEBkGWp4gQxM9F10UfRgqqeg-2S4STq6Ytw&s" group-title="Фильмы",Освобождение: Огненная дуга
@@ -767,22 +755,20 @@ https://o6.anwap.be/ohls/AIyrKdnsJmMy8KmXiTMWPg/1748615495/Rocket_Hunter_Rise_of
 https://o6.anwap.be/ohls/VKH2WT2BFn6Jkf_kQT4W_A/1748615575/Ohotnica_iz_Osvencima-34182_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Пан Чорний Пояс" tvg-logo="" group-title="Фильмы",Пан Чорний Пояс
 http://ashdi.vip/video22/2/new/officerblackbelt_142649/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Пара на свята" tvg-logo="" group-title="Фильмы",Пара на свята
-http://ashdi.vip/video15/2/new/coupled_up_for_christmas_2023_amzn_webdl_1080p_ukr.eng_sub.eng_148748/hls/BKeMlHaNkPtdngjhBIw=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Первый Оскар" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/d8/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%9E%D1%81%D0%BA%D0%B0%D1%80_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_2022%29.jpg" group-title="Фильмы",Первый Оскар
 https://o6.anwap.be/ohls/vBq8HQm2BCNUOwDPzZzwrg/1748615642/Pervyj_Oskar-34301_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="По соображениям совести" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/2/2c/Hacksaw_Ridge.jpg" group-title="Фильмы",По соображениям совести
 https://o2.anwap.be/ohls/b2JivCUyhd3lgU3OlsDEew/1748615762/Po_soobrazheniyam_sovesti-16265_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Побег из Могадишо" tvg-logo="https://i.postimg.cc/0Nb1p6zg/200.jpg" group-title="Фильмы",Побег из Могадишо
 https://kinoleha.net/load/pobeg-iz-mogadisho?original
+#EXTINF:-1 tvg-id="" tvg-name="Повернення Одіссея" tvg-logo="" group-title="Фильмы",Повернення Одіссея
+http://ashdi.vip/video21/1/new/the.return.2024.1080p__uakino.club_159585/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Подольские курсанты" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gqQAML6zdHG9aj1i_TjNYBBw9PYRcS9f1w&s" group-title="Фильмы",Подольские курсанты
 https://o4.anwap.be/ohls/Dh7mKtIuqRNaw6ZxgxKEWw/1746770339/Podolqskie_kursanty-27984_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Подрыв" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJFIPkpBjqSYz7-n7xPj4gFMtgczefcMBzw&s" group-title="Фильмы",Подрыв
 https://o7.anwap.be/ohls/bg65_SLlK5GcBTTj6XH_Zw/1745226574/Podryv-38298_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Позывной «Бандерас»" tvg-logo="https://i116.fastpic.org/big/2022/0208/5f/ae4a123413a60788e2fb3c404e1ae75f.jpg" group-title="Фильмы",Позывной «Бандерас»
 https://o3.anwap.be/ohls/Bh5jchZPVfDuEEjehLpGDg/1745228516/Pozyvnoj_laquoBanderasraquo-21764_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Покарання у могилі" tvg-logo="" group-title="Фильмы",Покарання у могилі
-http://ashdi.vip/video22/2/new/grave.torture.2024.ua_142366/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Покушение" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyjHVMdcvzx0QfHYLMwSXSO4xvejp4hvP2Q&s" group-title="Фильмы",Покушение
 https://o8.anwap.be/ohls/Az_tI6na9XResP7ouX5VTw/1751094835/Pokushenie-38739_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Помилование" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgB5GIPA37tXsfqOBqQATm6PFGyufVxsMqiw&s" group-title="Фильмы",Помилование
@@ -795,8 +781,6 @@ https://kinoleha.net/load/poslednij-pavshii?original
 https://o3.anwap.be/ohls/eqoEdPwucw0x24zHG_p2Rg/1748616017/Poteryannyj_poezd-35994_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Праведник" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/6/6c/%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29.jpg/250px-%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29.jpg" group-title="Фильмы",Праведник
 https://o7.anwap.be/ohls/X3Hj3mKp3AqUnTM53qAPtg/1679430771/Pravednik-37398_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Претенденти / Суперники" tvg-logo="" group-title="Фильмы",Претенденти / Суперники
-http://ashdi.vip/video28/1/films/challengers_2024_webdl_1080p_h264_ukr_eng_hurtom_128526/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-name="Призраки войны" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/87/Ghosts_of_War_%282020_film%29.jpg/250px-Ghosts_of_War_%282020_film%29.jpg" group-title="Фильмы",Призраки войны
 https://o4.anwap.be/ohls/lDXbOjigz2WUbyPNaVoAUg/1745228378/Prizraki_vojny-26544_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Призрачная шестёрка 2019(Райан Рейнольдс)" tvg-logo="" group-title="Фильмы",Призрачная шестёрка 2019(Райан Рейнольдс)
@@ -1462,6 +1446,8 @@ https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-name="MLB Strike Zone (720p)" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Спорт",MLB Strike Zone (720p)
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMA" tvg-logo="" group-title="Спорт",MMA
+https://stream8.cinerama.uz/1226/index.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-name="MMA-TV.com (1080p)" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Спорт",MMA-TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-name="MNB Sport (1080p)" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Спорт",MNB Sport (1080p)
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
@@ -1572,7 +1558,7 @@ http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="Setanta Sports 1" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Спорт",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-name="Setanta Sports 2" tvg-logo="https://i.imgur.com/NOBACb6.png" group-title="Спорт",Setanta Sports 2
-https://stream8.cinerama.uz/1264/index.m3u8
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-name="Setanta Sports 2 Eurasia (1080p)" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Спорт",Setanta Sports 2 Eurasia (1080p)
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-name="Sky Racing 1 (720p)" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="Спорт",Sky Racing 1 (720p)
